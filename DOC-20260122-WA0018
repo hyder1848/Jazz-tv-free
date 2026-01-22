@@ -1,0 +1,260 @@
+#EXTM3U
+#EXTINF:-1,KTN Entertainment
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/live/vsat-105H/chunks.m3u8
+#EXTINF:-1,Kashish TV
+https://cdn12isb.tamashaweb.com:8087/jazzauth/KashishTV-abr/live/vsat-115H/chunks.m3u8
+#EXTINF:-1,KTN News
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ktnNews-abr/live/vsat-132H/chunks.m3u8
+#EXTINF:-1,Time News
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/TimeNews-abr/live/vsat-109H/chunks.m3u8
+#EXTINF:-1,Sindh News
+https://cdn12isb.tamashaweb.com:8087/jazzauth/SindhNews-abr/live/vsat-80L/chunks.m3u8
+#EXTINF:-1,Mehran TV
+https://cdn12isb.tamashaweb.com:8087/jazzauth/MehranTV-abr/live/vsat-106H/chunks.m3u8
+#EXTINF:-1,ARY News
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-H/chunks.m3u8
+#EXTINF:-1,Geo News
+https://cdn12isb.tamashaweb.com:8087/jazzauth/geoNews-abr/live/vsat-93H/chunks.m3u8
+#EXTINF:-1,Express News
+https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91H/chunks.m3u8
+#EXTINF:-1,Sindh TV
+https://cdn12isb.tamashaweb.com:8087/jazzauth/sindhTV-abr/live/vsat-sindhtv-H/chunks.m3u8
+#EXTINF:-1,ARY Digital
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYdigital-abr/live/vsat-ary-H/chunks.m3u8
+#EXTINF:-1,Geo Entertainment
+https://cdn12isb.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/live/vsat-geotv-H/chunks.m3u8
+#EXTINF:-1,Bol Entertainment
+https://cdn12isb.tamashaweb.com:8087/jazzauth/BolEntertainment-abr/live/vsat-144H/chunks.m3u8
+#EXTINF:-1,Express Entertainment
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ExpressEntertainment-abr/live/vsat-83H/chunks.m3u8
+#EXTINF:-1,A Plus
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Aplus-abr/live/vsat-112H/chunks.m3u8
+#EXTINF:-1,Animal Planet
+https://cdn12isb.tamashaweb.com:8087/jazzauth/AnimalPlanet-abr/live/158-3L/chunks.m3u8
+#EXTINF:-1,Aaj Entertainment
+https://cdn07isb.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/live/125L/chunks.m3u8
+#EXTINF:-1,Lahore Rung
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/LahoreRung-abr/live/vsat-86H/chunks.m3u8
+#EXTINF:-1,Jalwa
+https://cdn12isb.tamashaweb.com:8087/jazzauth/jalwa-abr/live/135H/chunks.m3u8
+#EXTINF:-1,8XM
+https://cdn12isb.tamashaweb.com:8087/jazzauth/8xm-abr/live/vsat-128H/chunks.m3u8
+#EXTINF:-1,Madni Channel
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Madni-abr/live/vsat-94H/chunks.m3u8
+#EXTINF:-1,Neo News
+https://cdn12isb.tamashaweb.com:8087/jazzauth/NeoNews-abr/live/vsat-110H/chunks.m3u8
+#EXTINF:-1,Hum Sitaray
+https://cdn12isb.tamashaweb.com:8087/jazzauth/HumSitaray-abr/live/vsat-107H/chunks.m3u8
+#EXTINF:-1,Dawn News
+https://cdn12isb.tamashaweb.com:8087/jazzauth/DawnNews-abr/live/vsat-130H/chunks.m3u8
+#EXTINF:-1,Set Entertainment
+https://cdn12isb.tamashaweb.com:8087/jazzauth/SetEntertainment-abr/live/vsat-setent-H/chunks.m3u8
+#EXTINF:-1,ABN News
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ABNnews-abr/live/vsat-abnnews-H/chunks.m3u8
+#EXTINF:-1,Hum TV
+https://cdn12isb.tamashaweb.com:8087/jazzauth/humTV-abr/live/vsat-humtv-H/chunks.m3u8
+#EXTINF:-1,ARY Zindagi
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYzindagi-abr/live/vsat-aryzindagi-H/chunks.m3u8
+#EXTINF:-1,365 News
+https://cdn12isb.tamashaweb.com:8087/jazzauth/365News-abr/live/vsat-365TV-H/chunks.m3u8
+#EXTINF:-1,Sab TV
+https://cdn12isb.tamashaweb.com:8087/jazzauth/SabTV-abr/live/vsat-146H/chunks.m3u8
+#EXTINF:-1,PTv news
+https://cdn12isb.tamashaweb.com:8087/jazzauth/PTVNews-abr/live/191M/chunks.m3u8
+#EXTINF:-1,PTV National
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVNational-abr/playlist.m3u8
+#EXTINF:-1,PTV Sports
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8
+#EXTINF:-1,PTV Home
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8
+#EXTINF:-1,Ten Sports
+https://cdn02khi.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDI1IDEyOjUzOjI1IFBNJmhhc2hfdmFsdWU9akNkQyswejYvZWpGWnh1MGhTZ3BlQT09JnZhbGlkbWludXRlcz0xMA==
+#EXTINF:-1,Asia Cup 2025
+https://cdn07khi.tamashaweb.com:8087/jazzauth/ASIACUP2025-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI1IDEyOjM0OjA0IFBNJmhhc2hfdmFsdWU9MUhWOTdUdTFmN3MwNXNoUHo2SjMvQT09JnZhbGlkbWludXRlcz0xMA==
+#EXTINF:-1,Live CKT
+https://alibabacdn2.tamashaweb.com:443/alibaba02/alibaba02stream_720p.m3u8?aliyunols=on
+#EXTINF:-1,Eurosport
+https://cdn02khi.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI1IDg6MTQ6NDIgUE0maGFzaF92YWx1ZT1xMytpSUY4RXorTWd2NXhTK2c1WEtRPT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1,Samaa TV
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,Hum Masala
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/hummasala-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,GTV News
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/GTVNews-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,TV One
+https://cdn02khi.tamashaweb.com:8087/jazzauth/TVOne-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,Suno News
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Suno_News-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,ABN News
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ABNnews-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,AAN TV
+https://cdn02khi.tamashaweb.com:8087/jazzauth/AAN-TV-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,Metro 1 News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Metro1News-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,Aur Life
+https://cdn12isb.tamashaweb.com:8087/jazzauth/AurLife-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,CGTN HD
+https://cdn02khi.tamashaweb.com:8087/jazzauth/CgtnHD-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,Channel 5
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Channel5-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,Aaj News
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/AajNews-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,News One
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/NewsOne-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,Minimax
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/Minimax-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,Baby TV
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/BabyTV-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,Tri Series 2025
+https://cdn07khi.tamashaweb.com:8087/jazzauth/triseries25-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,LTN Family
+https://cdn05khi.tamashaweb.com:8087/jazzauth/LTNFamily-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,Jalwa
+https://cdn02khi.tamashaweb.com:8087/jazzauth/jalwa-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,Discovery HD
+https://cdn02khi.tamashaweb.com:8087/jazzauth/DiscoveryHD-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,Waseeb TV
+https://cdn02khi.tamashaweb.com:8087/jazzauth/waseeb-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjUgNDowMjoxNCBBTSZoYXNoX3ZhbHVlPVIzaFBsZGl1RE93U1M0c05uYyswQkE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1,Movie One
+https://cdn02khi.tamashaweb.com:8087/jazzauth/MovieOne-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjUgNDowMzozNiBBTSZoYXNoX3ZhbHVlPWM0Qktlb0twV2hSRUhKK29Wb2V3MlE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1,EPL Live
+https://cdn06khi.tamashaweb.com:8087/jazzauth/EPL-A-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjUgMTE6NTU6MTAgQU0maGFzaF92YWx1ZT1wRXRqdXE5bVpGdlRPd0hvdVZRZGRBPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1,A1TV Live
+https://cdn12isb.tamashaweb.com:8087/jazzauth/A1TV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDEyOjU5OjI0IFBNJmhhc2hfdmFsdWU9MVFaVWtQTWg2RGlOTjAxck1JOHloUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/A1TV-abr/playlist.m3u8
+#EXTINF:-1,PNN News
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/PNN-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDE6MDc6NTAgUE0maGFzaF92YWx1ZT1PSGVrekIvaTRLdStxUWN4Zjh0OTVBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/PNN-abr/playlist.m3u8
+#EXTINF:-1,Kay2
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Kay2-abr/playlist.m3u8
+#EXTINF:-1,AAN TV
+https://cdn05khi.tamashaweb.com:8087/jazzauth/AAN-TV-abr/playlist.m3u8
+#EXTINF:-1,Inplus
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Inplus-abr/playlist.m3u8
+#EXTINF:-1,Hum News
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/humnews-abr/playlist.m3u8
+#EXTINF:-1,City 21
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/city21-abr/playlist.m3u8
+#EXTINF:-1,Public TV
+https://cdn05khi.tamashaweb.com:8087/jazzauth/PublicTV-abr/playlist.m3u8
+#EXTINF:-1,Cartoon Network
+https://cdn12isb.tamashaweb.com:8087/jazzauth/cartoonnetwork-abr/playlist.m3u8
+#EXTINF:-1,Green Entertainment
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/playlist.m3u8
+#EXTINF:-1,City 42
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/playlist.m3u8
+#EXTINF:-1,AVT Khyber TV
+https://cdn05khi.tamashaweb.com:8087/jazzauth/AVTkhyberTV-abr/playlist.m3u8
+#EXTINF:-1,Pashto 1
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Pashto1-abr/playlist.m3u8
+#EXTINF:-1,Saudi Sunnah
+https://cdn12isb.tamashaweb.com:8087/jazzauth/SaudiSunnah(NW)-abr/playlist.m3u8
+#EXTINF:-1,Saudi Makkah
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Saudimakkah(nw)-abr/playlist.m3u8
+#EXTINF:-1,Movie One
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/MovieOne-abr/playlist.m3u8
+#EXTINF:-1,Play TV
+https://cdn12isb.tamashaweb.com:8087/jazzauth/play-abr/playlist.m3u8
+#EXTINF:-1,Al Jazeera
+https://cdn12isb.tamashaweb.com:8087/jazzauth/AL-Jazeera-abr/playlist.m3u8
+#EXTINF:-1,Discovery Pakistan
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/DiscoveryPakistan-abr/playlist.m3u8
+#EXTINF:-1,PTV Bolan
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVBolan-abr/playlist.m3u8
+#EXTINF:-1,Arooj TV
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/AroojTV-abr/playlist.m3u8
+#EXTINF:-1,Channel_Extra1
+https://stream.zeno.fm/lbqgmay9pdvvv
+#EXTINF:-1,Hum TV
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/humTV-abr/playlist.m3u8
+#EXTINF:-1,Aaj Entertainment
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/playlist.m3u8
+#EXTINF:-1,Sun News
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/SUN-NEWS-abr/playlist.m3u8
+#EXTINF:-1,PAK SA W
+https://cdn02fsd-n.tamashaweb.com:8087/jazzauth/PAK-SA-W-abr/playlist.m3u8
+
+########## Zong TV ##########
+#EXTINF:-1,Zong TV - Ten Sports
+https://tapmadlive.akamaized.net:443/tapmadold/tensports.smil/chunklist_w1346140991_b1248000_slENG.m3u8
+#EXTINF:-1,Zong TV - ATV
+https://tapmadlive.akamaized.net:443/tapmadold/atv.smil/chunklist_w1409135523_b748000_slEng.m3u8
+#EXTINF:-1,Zong TV - BOL Entertainment
+https://s2.ideationtec.live/BOL_Entertainment_HD/BOL_Entertainment_HD.m3u8
+#EXTINF:-1,Zong TV - GEO Entertainment
+https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
+#EXTINF:-1,Zong TV - A Plus
+https://s3.ideationtec.live/A_Plus/A_Plus.m3u8
+#EXTINF:-1,Zong TV - Express Entertainment
+https://s3.ideationtec.live/Express_Entertainment/Express_Entertainment.m3u8
+#EXTINF:-1,Zong TV - SAB Entertainment
+https://s1.ideationtec.live/SAB_Entertainment/SAB_Entertainment.m3u8
+#EXTINF:-1,Zong TV - Mehran TV
+https://s2.ideationtec.live/Mehran_TV/Mehran_TV.m3u8
+#EXTINF:-1,Zong TV - GEO News
+https://s4.ideationtec.live/GEO_News/GEO_News.m3u8
+#EXTINF:-1,Zong TV - Sindh TV
+https://s1.ideationtec.live/Sindh_TV/Sindh_TV.m3u8
+#EXTINF:-1,Zong TV - Samaa TV
+https://s5.ideationtec.live/Samaa_TV/Samaa_TV.m3u8
+#EXTINF:-1,Zong TV - Aaj Entertainment
+https://s2.ideationtec.live/AAJ_Entertainment/AAJ_Entertainment.m3u8
+#EXTINF:-1,Zong TV - BOL News HD
+https://s5.ideationtec.live/BOL_News_HD/BOL_News_HD.m3u8
+#EXTINF:-1,Zong TV - GTV News HD
+https://s4.ideationtec.live/GTV_News_HD/GTV_News_HD.m3u8
+#EXTINF:-1,Zong TV - GNN HD
+https://s5.ideationtec.live/GNN_HD/GNN_HD.m3u8
+#EXTINF:-1,Zong TV - Aaj News
+https://s4.ideationtec.live/Aaj_News/Aaj_News.m3u8
+#EXTINF:-1,Zong TV - Express News
+https://s5.ideationtec.live/Express_News/Express_News.m3u8
+#EXTINF:-1,Zong TV - Dawn News
+https://s5.ideationtec.live/Dawn/Dawn.m3u8
+#EXTINF:-1,Zong TV - Such TV HD
+https://s4.ideationtec.live/Such_TV_HD/Such_TV_HD.m3u8
+#EXTINF:-1,Zong TV - Film World
+https://s3.ideationtec.live/Film_World/Film_World.m3u8
+#EXTINF:-1,Zong TV - City 41
+https://s2.ideationtec.live/City_41/City_41.m3u8
+#EXTINF:-1,Zong TV - LTN Family HD
+https://s3.ideationtec.live/LTN_Family_HD/LTN_Family_HD.m3u8
+#EXTINF:-1,Zong TV - Saudi Sunnah HD
+https://s1.ideationtec.live/Saudi_Sunnah_HD/Saudi_Sunnah_HD.m3u8
+#EXTINF:-1,Zong Dharti TV
+https://tapmadlive.akamaized.net/tapmadold/dhartitv.smil/chunklist_w1381970605_b748000_slEng.m3u8
+#EXTINF:-1,Aaj Entertainment
+https://cdn12isb.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI1IDE6MjA6MDYgUE0maGFzaF92YWx1ZT11d3FnWlNCV0Z5UHBGYU1LcW54TXhnPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/AajEntertainment-abr/playlist.m3u8
+#EXTINF:-1,PTV PTVHOME
+https://ptvstream1.nayatel.com:8096/transcoder/ptvhometrc_source/playlist.m3u8
+#EXTINF:-1,PTV PTVGLOBEL
+https://ptvstream1.nayatel.com:8096/transcoder/ptvglobaltrc_source/playlist.m3u8
+#EXTINF:-1 tvg-id="dangal.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Dangal_TV_logo.png",Dangal TV
+https://live-dangal.akamaized.net:443/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="hindihitshd.in" tvg-logo="https://i.ibb.co/9rTzYfG/hindi-hits-hd.png",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1, myco1
+https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC/index.m3u8
+#EXTINF:-1, myco2
+https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC/tracks-v5a1/mono.m3u8
+#EXTINF:-1,KTN News 24LHR
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/ktnNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyNSAxMDo1NjowMyBBTSZoYXNoX3ZhbHVlPVpMSDJFUVphV2V2c1g1L0xEQjZNTFE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/ktnNews-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="GEO_SUPER" tvg-name="GEO Super" group-title="Sports",GEO Super
+https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
+
+#EXTINF:-1 tvg-id="LIVE_SPORT" tvg-name="Live Sport" group-title="Sports",Live Sport
+https://ml-pull-dvc-myco.io:2096/RTMP-MYCO-24/7/index.m3u8
+#EXTINF:-1,U19M WC Match 1
+https://cdn06khi.tamashaweb.com:8087/jazzauth/U19M-WC-A-abr/live/U19_M1_240p/chunks.m3u8
+#EXTINF:-1,ICC MEN T20
+https://cdn01khi-n.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-abr/playlist.m3u8
+#EXTINF:-1,BPL AVOD
+https://cdn01fsd-n.tamashaweb.com:8087/jazzauth/BPL-AVOD-abr/playlist.m3u8
+#EXTINF:-1,ICC MEN T20 Backup
+https://cdn03khi-n.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-abr/playlist.m3u8
+#EXTINF:-1,AAJ TAK HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1,CloudFront Live
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
+#EXTINF:-1,CloudFront Stream
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1,HUM TV
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
