@@ -1,6 +1,5 @@
-#EXTM3U
-#EXTINF:-1,KTN Entertainment
-https://cdn12isb.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/live/vsat-105H/chunks.m3u8
+
+
 #EXTINF:-1,Kashish TV
 https://cdn12isb.tamashaweb.com:8087/jazzauth/KashishTV-abr/live/vsat-115H/chunks.m3u8
 #EXTINF:-1,KTN News
@@ -167,8 +166,6 @@ https://stream.zeno.fm/lbqgmay9pdvvv
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/humTV-abr/playlist.m3u8
 #EXTINF:-1,Aaj Entertainment
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/playlist.m3u8
-#EXTINF:-1,Sun News
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/SUN-NEWS-abr/playlist.m3u8
 #EXTINF:-1,PAK SA W
 https://cdn02fsd-n.tamashaweb.com:8087/jazzauth/PAK-SA-W-abr/playlist.m3u8
 
