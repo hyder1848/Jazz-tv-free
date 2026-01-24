@@ -71,8 +71,8 @@ https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8
 https://cdn02khi.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDI1IDEyOjUzOjI1IFBNJmhhc2hfdmFsdWU9akNkQyswejYvZWpGWnh1MGhTZ3BlQT09JnZhbGlkbWludXRlcz0xMA==
 #EXTINF:-1,Asia Cup 2025
 https://cdn07khi.tamashaweb.com:8087/jazzauth/ASIACUP2025-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI1IDEyOjM0OjA0IFBNJmhhc2hfdmFsdWU9MUhWOTdUdTFmN3MwNXNoUHo2SjMvQT09JnZhbGlkbWludXRlcz0xMA==
-#EXTINF:-1,Live CKT
-https://alibabacdn2.tamashaweb.com:443/alibaba02/alibaba02stream_720p.m3u8?aliyunols=on
+#EXTINF:-1,TPLAY MUSIC 🎵 
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 #EXTINF:-1,Eurosport
 https://cdn02khi.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI1IDg6MTQ6NDIgUE0maGFzaF92YWx1ZT1xMytpSUY4RXorTWd2NXhTK2c1WEtRPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1,Samaa TV
