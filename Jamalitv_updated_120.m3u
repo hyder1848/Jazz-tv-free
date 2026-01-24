@@ -229,8 +229,8 @@ https://ptvstream1.nayatel.com:8096/transcoder/ptvglobaltrc_source/playlist.m3u8
 https://live-dangal.akamaized.net:443/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="hindihitshd.in" tvg-logo="https://i.ibb.co/9rTzYfG/hindi-hits-hd.png",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1, myco1
-https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC/index.m3u8
+#EXTINF:-1, live t29 world cup 
+https://cdn13lhr.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDM6Mzk6MzMgQU0maGFzaF92YWx1ZT10dTZ1V24xL3VHd1pQdDJVem00OGNRPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1, myco2
 https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC/tracks-v5a1/mono.m3u8
 #EXTINF:-1,KTN News 24LHR
