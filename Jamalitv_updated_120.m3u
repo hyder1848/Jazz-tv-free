@@ -6,7 +6,7 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/KashishTV-abr/live/vsat-115M/chunk
 #EXTINF:-1,KTN News
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ktnNews-abr/live/vsat-132M/chunks.m3u8
 #EXTINF:-1,Time News
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/TimeNews-abr/live/vsat-109M/chunks.m3u8
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/TimeNews-abr/live/vsat-125M/chunks.m3u8?nimblesessionid=75398680&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDI6NDY6MDEgQU0maGFzaF92YWx1ZT1FMm9ac1gwZitoTG9ZNDh3SW9rcFhBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/TimeNews-abr/playlist.m3u8
 #EXTINF:-1,Sindh News
 https://cdn12isb.tamashaweb.com:8087/jazzauth/SindhNews-abr/live/vsat-80M/chunks.m3u8
 #EXTINF:-1,Mehran TV
