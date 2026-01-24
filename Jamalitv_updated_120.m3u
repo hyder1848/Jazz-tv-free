@@ -257,7 +257,21 @@ https://cdn-1.pishow.tv/live/235/master.m3u8
 https://amg00857-amg00857c1-rakuten-us-4656.playouts.now.amagi.tv/playlist216-p.m3u8
 #EXTINF:-1,ABZ MOVIE 
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index_1.m3u8
-#EXTINF:-1,B4U
-https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/SD360/SD360.m3u8
+#EXTINF:-1,B4U Music 🎵 
+https://cdnb4u.wiseplayout.com/B4U_Music/SD216/SD216.m3u8
 #EXTINF:-1,B4U KADAK HD
-https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+https://cdnb4u.wiseplayout.com/B4U_Kadak/SD216/SD216.m3u8
+#EXTINF:-1,ANJAN TV INDIA 
+https://cdn-1.pishow.tv/live/993/master.m3u8
+#EXTINF:-1,DD Bharthi
+https://cdn-1.pishow.tv/live/10/master.m3u8
+#EXTINF:-1,DD Urdu 
+https://cdn-4.pishow.tv/live/8/master.m3u8
+#EXTINF:-1,DD kisan
+https://cdn-6.pishow.tv/live/9/master.m3u8
+#EXTINF:-1, GOLDmiNIES MOVIE 
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1,GOLDMINES
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1, MUSIC 🎵 
+https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
