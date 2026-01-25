@@ -275,11 +275,13 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1, MUSIC 🎵 
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
-#EXTINF:-8, Ptv sport HD
+#EXTINF:-1, Ptv sport HD
 http://163.61.227.29:8000/play/a05l/index.m3u8
 #EXTINF:-1, Fox sport501
 http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19146/index.m3u8
 #EXTINF:-1, willd tv
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100055.m3u8
 #EXTINF:-8, Ajj News india
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_180p/chunks.m3u8
+#EXTINF:-1 tvg-id="Ajj_News" tvg-name="Ajjnews" group-title="test",GEO Super
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_180p/chunks.m3u8
