@@ -1,7 +1,7 @@
 #EXTINF
 #EXTINF:-1 tvg-id="Ajj_News" tvg-name="ktn entertaiment" group-title="entermint",ktn entertainment 
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/live/vsat-105M/chunks.m3u8
-#EXTINF:-1,Kashish TV jazz free
+#EXTINF:-1 tvg-id="Ajj_News" tvg-name="Ajjnews" group-title="Music",kashish tv
 https://cdn12isb.tamashaweb.com:8087/jazzauth/KashishTV-abr/live/vsat-115M/chunks.m3u8
 #EXTINF:-1,KTN News jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ktnNews-abr/live/vsat-132M/chunks.m3u8
