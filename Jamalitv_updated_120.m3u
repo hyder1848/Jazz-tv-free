@@ -1,7 +1,7 @@
 #EXTINF
-#EXTINF:-1 tvg-id="Ajj_News" tvg-name="ktn entertaiment" group-title="entermint",ktn entertainment 
+#EXTINF:-1,ktn entertainment jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/live/vsat-105M/chunks.m3u8
-#EXTINF:-1 tvg-id="Ajj_News" tvg-name="Ajjnews" group-title="Music",kashish tv
+#EXTINF:-1, kashish tv jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/KashishTV-abr/live/vsat-115M/chunks.m3u8
 #EXTINF:-1,KTN News jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ktnNews-abr/live/vsat-132M/chunks.m3u8
@@ -285,5 +285,3 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/221000
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_180p/chunks.m3u8
 #EXTINF:-1 tvg-id="Ajj_News" tvg-name="Ajjnews" group-title="News",Ajj News
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_180p/chunks.m3u8
-#EXTINF:-1 tvg-id="Ajj_News" tvg-name="Ajjnews" group-title="News",ptv test
-https://cdn-2.pishow.tv/live/1461/master.m3u8
