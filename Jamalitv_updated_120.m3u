@@ -1,4 +1,5 @@
-#EXTINF:-1 tvg-id="ktn entermint" tvg-name="ktn entermint" group-title="sindhi",KTN Entertainment 
+#EXTINF
+#EXTINF:-1 tvg-id="Ajj_News" tvg-name="Ajjnews" group-title="entermint",ktn entertainment 
 #EXTINF:-1,KTN Entertainment jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/live/vsat-105M/chunks.m3u8
 #EXTINF:-1,Kashish TV jazz free
