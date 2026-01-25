@@ -283,5 +283,5 @@ http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19146/index.m3u8
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100055.m3u8
 #EXTINF:-8, Ajj News india
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_180p/chunks.m3u8
-#EXTINF:-1 tvg-id="Ajj_News" tvg-name="Ajjnews" group-title="jamali",Ajj News
+#EXTINF:-1 tvg-id="Ajj_News" tvg-name="Ajjnews" group-title="News",Ajj News
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_180p/chunks.m3u8
