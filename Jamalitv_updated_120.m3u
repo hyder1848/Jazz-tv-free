@@ -121,7 +121,7 @@ https://cdn02khi.tamashaweb.com:8087/jazzauth/MovieOne-abr/playlist.m3u8?wmsAuth
 https://cdn06khi.tamashaweb.com:8087/jazzauth/EPL-A-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjUgMTE6NTU6MTAgQU0maGFzaF92YWx1ZT1wRXRqdXE5bVpGdlRPd0hvdVZRZGRBPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1,A1TV Live jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/A1TV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDEyOjU5OjI0IFBNJmhhc2hfdmFsdWU9MVFaVWtQTWg2RGlOTjAxck1JOHloUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/A1TV-abr/playlist.m3u8
-#EXTINF:-1,PNN News jazz free
+#EXTINF:-1,Aik News jazz free
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/PNN-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDE6MDc6NTAgUE0maGFzaF92YWx1ZT1PSGVrekIvaTRLdStxUWN4Zjh0OTVBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/PNN-abr/playlist.m3u8
 #EXTINF:-1,Kay2 jazz free
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Kay2-abr/playlist.m3u8
@@ -291,6 +291,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/q_240p/chunks.m3u8?nimblesessionid=26658474
 #EXTINF:-8, DUNYA NEWS
 https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/chunklist_w1634660560_b381072.m3u8
-#EXTINF:-8, Star cricket india
+#EXTINF:-8, cricket 
 https://playzadns.playzatv.com:443/live/35548379/54927659/1726671.m3u8
 
