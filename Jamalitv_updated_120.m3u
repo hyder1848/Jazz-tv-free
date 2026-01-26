@@ -291,5 +291,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/q_240p/chunks.m3u8?nimblesessionid=26658474
 #EXTINF:-8, DUNYA NEWS
 https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/chunklist_w1634660560_b381072.m3u8
-
+#EXTINF:-8, Star cricket india
+https://playzadns.playzatv.com:443/live/35548379/54927659/1726671.m3u8
 
