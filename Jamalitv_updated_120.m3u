@@ -303,5 +303,5 @@ https://dai.google.com/linear/hls/pa/event/JCAm25qkRXiKcK1AJMlvKQ/stream/7fcf38c
 http://110.39.27.47:8001/play/a00d/51594577.m3u8
 #EXTINF:-1, EURO SPORTS 
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
-EXTINF:-1, Cricket HD
+EXTINF:-1, ptv HD
 https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8/
