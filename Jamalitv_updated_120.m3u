@@ -1,4 +1,4 @@
-https://dai.google.com/linear/hls/pa/event/JCAm25qkRXiKcK1AJMlvKQ/stream/7fcf38c0-4bf3-48fd-9fb5-dcf989377442:GRQ/variant/338b23ad2b353bf3f676c37b0bb6eb50/bandwidth/728000.m3u8#EXTINF
+#EXTINF
 #EXTINF:-1,KTN Entertainment Jazz Free
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/live/vsat-105M/chunks.m3u8
 #EXTINF:-1, Kashish Tv Jazz free
@@ -301,3 +301,5 @@ https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8?nimble
 https://dai.google.com/linear/hls/pa/event/JCAm25qkRXiKcK1AJMlvKQ/stream/7fcf38c0-4bf3-48fd-9fb5-dcf989377442:GRQ/variant/338b23ad2b353bf3f676c37b0bb6eb50/bandwidth/728000.m3u8
 #EXTINF:-1, STAR GOLD HD
 http://110.39.27.47:8001/play/a00d/51594577.m3u8
+#EXTINF:-1, EURO SPORTS 
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
