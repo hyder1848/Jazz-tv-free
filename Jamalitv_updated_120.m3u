@@ -302,7 +302,7 @@ http://110.39.27.47:8001/play/a00d/51594577.m3u8
 #EXTINF:-1, EURO SPORTS 
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1, HYDER Cable cricket 
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/01.m3u8
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 #EXTINF:-1, ptv sport
 https://cdn06khi-n.tamashaweb.com:8087/jazzauth/U19M-WC-A-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDI2IDQ6NDQ6MjEgQU0maGFzaF92YWx1ZT1VQWxzYUtON3U2U0crMG5NR3hYUTFBPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1, ZEETV 
