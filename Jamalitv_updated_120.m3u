@@ -317,5 +317,5 @@ https://cdn06khi.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-abr/live/T20WC_M1_D_72
 https://cdn06khi.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-abr/live/T20WC_M1_D_240p/chunks.m3u8?nimblesessionid=6337024&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjYgMTI6MjE6MTkgUE0maGFzaF92YWx1ZT1CRmZBeHA1T0E0STdKTXYxd2NXWUp3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1,  world cup Hd
 https://cdn01khi-n.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-B-abr/live/T20WC_M2_D_720p/chunks.m3u8?nimblesessionid=4852977&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjYgMTI6MzA6MjIgUE0maGFzaF92YWx1ZT1mdmFJa2w0VnBCYjdNYStNUDB1eXh3PT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1 tvg-id="GEO_SUPER" tvg-name="GEO Super" group-title="Sports",wordcup sd
+#EXTINF:-1 tvg-id="worldcup" tvg-name="GEO Super" group-title="Sports",wordcup sd
 https://cdn01khi-n.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-B-abr/live/T20WC_M2_D_240p/chunks.m3u8?nimblesessionid=4852977&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjYgMTI6MzA6MjIgUE0maGFzaF92YWx1ZT1mdmFJa2w0VnBCYjdNYStNUDB1eXh3PT0mdmFsaWRtaW51dGVzPTYw
