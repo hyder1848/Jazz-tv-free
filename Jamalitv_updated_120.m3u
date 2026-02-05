@@ -312,8 +312,8 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 http://stvlive.net:8080/starselect2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ZEETV 
 https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/e91cb3c0facbe277/a9c21369ffeb01500/chunks.m3u8
-#EXTINF:-1, Saqib tv
-https://cdn5aws.tamashaweb.com/out/v1/9fff7780125a4614a7f3567bc506dc7a/index_5.m3u8?start=1769951400
+#EXTINF:-1, ZOOM tv
+https://dai.google.com/linear/hls/pa/event/JCAm25qkRXiKcK1AJMlvKQ/stream/3873cb8f-0f50-4fab-8b94-028402479cdd:GRQ/variant/ef7396dca601d5f5dcefa35b43734dcb/bandwidth/1096000.m3u8
 #EXTINF:-1, world cup HD
 https://cdn06khi.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-abr/live/T20WC_M1_D_720p/chunks.m3u8?nimblesessionid=6337024&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjYgMTI6MjE6MTkgUE0maGFzaF92YWx1ZT1CRmZBeHA1T0E0STdKTXYxd2NXWUp3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1, world cup SD
