@@ -298,8 +298,8 @@ https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/SD504/SD504.m3u8
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1, B4UMUSIC HD
 https://cdnb4u.wiseplayout.com/B4U_Music/SD360/SD360.m3u8
-#EXTINF:-1, jooMusic 
-https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8?nimblesessionid=29169475
+#EXTINF:-1, T sport 
+http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, zoomtv
 https://dai.google.com/linear/hls/pa/event/JCAm25qkRXiKcK1AJMlvKQ/stream/7fcf38c0-4bf3-48fd-9fb5-dcf989377442:GRQ/variant/338b23ad2b353bf3f676c37b0bb6eb50/bandwidth/728000.m3u8
 #EXTINF:-1, STAR GOLD HD
@@ -326,3 +326,4 @@ https://cdn01khi-n.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-B-abr/live/T20WC_M2_
 https://tencentcdn2.tamashaweb.com/v1/0192bed4e5f11ea506ec1afe4c6abd/0192bed664ae1ea506491378f278b7/tmsh_srt_output_480p.m3u8?timeshift=1&mode=6&delay=1800
 #EXTINF:-2, sports sd
 https://tencentcdn2.tamashaweb.com/v1/0192bed4e5f11ea506ec1afe4c6abd/0192bed664ae1ea506491378f278b7/tmsh_srt_output_240p.m3u8?timeshift=1&mode=6&delay=1800
+
