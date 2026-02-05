@@ -280,8 +280,8 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1, MUSIC 🎵 
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
-#EXTINF:-1, Ptv sport HD
-http://163.61.227.29:8000/play/a05l/index.m3u8
+#EXTINF:-1, BOLLYWOOD MASALA
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/81176e16-b313-4890-a2f1-762331c73c46/2.m3u8
 #EXTINF:-1, Fox sport501
 http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19146/index.m3u8
 #EXTINF:-1, willd tv
@@ -293,15 +293,15 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1, SACHAL FM 105 NAWABSHAH 
 https://stream.zeno.fm/t961q1d0vp6vv/
 #EXTINF:-1, B4U 🍿 
-https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/SD504/SD504.m3u8
+https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/SD360/SD360.m3u8
 #EXTINF:-1, B4U KADAK HD
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1, B4UMUSIC HD
 https://cdnb4u.wiseplayout.com/B4U_Music/SD360/SD360.m3u8
 #EXTINF:-1, T sport 
 http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
-#EXTINF:-1, zoomtv
-https://dai.google.com/linear/hls/pa/event/JCAm25qkRXiKcK1AJMlvKQ/stream/7fcf38c0-4bf3-48fd-9fb5-dcf989377442:GRQ/variant/338b23ad2b353bf3f676c37b0bb6eb50/bandwidth/728000.m3u8
+#EXTINF:-1, Bflix Movie
+https://mumt03.tangotv.in/BFLIX/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR GOLD HD
 http://110.39.27.47:8001/play/a00d/51594577.m3u8
 #EXTINF:-1, EURO SPORTS 
