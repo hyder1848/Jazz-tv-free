@@ -69,6 +69,8 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/PTVNews-abr/live/191M/chunks.m3u8
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVNational-abr/playlist.m3u8
 #EXTINF:-1,PTV Sports jazz free
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8
+#EXTINF:-1,PTV Sports HD jazz free
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgNzo1Mzo1MiBBTSZoYXNoX3ZhbHVlPW14ajk5aVNJOWZjRFN4bnlFVUZkdnc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8
 #EXTINF:-1, PTV WORLD
 https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVWorld-abr/live/192M/chunks.m3u8?nimblesessionid=69864457&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgNzozNDoyOSBBTSZoYXNoX3ZhbHVlPTRGMllScmNWWEZvODdoNmlGVk5FekE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/PTVWorld-abr/playlist.m3u8
 #EXTINF:-1,PTV Home jazz free
