@@ -244,8 +244,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/in
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/ktnNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyNSAxMDo1NjowMyBBTSZoYXNoX3ZhbHVlPVpMSDJFUVphV2V2c1g1L0xEQjZNTFE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/ktnNews-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="GEO_SUPER" tvg-name="GEO Super" group-title="Sports",GEO Super
 https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
-#EXTINF:-1 ddnational test link
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 #EXTINF:-1,filmax tamsha
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Filmax-abr/live/vsat-filmax-M/chunks.m3u8
 #EXTINF:-1,oscar movie
