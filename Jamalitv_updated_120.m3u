@@ -323,7 +323,7 @@ https://cdn06khi.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-abr/live/T20WC_M1_D_24
 #EXTINF:-1,  world cup Hd
 https://cdn01khi-n.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-B-abr/live/T20WC_M2_D_720p/chunks.m3u8?nimblesessionid=4852977&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjYgMTI6MzA6MjIgUE0maGFzaF92YWx1ZT1mdmFJa2w0VnBCYjdNYStNUDB1eXh3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-id="worldcup" tvg-name="Pakistan" group-title="Sports",wordcup sd
-https://cdn01khi-n.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-B-abr/live/T20WC_M2_D_240p/chunks.m3u8?nimblesessionid=4852977&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjYgMTI6MzA6MjIgUE0maGFzaF92YWx1ZT1mdmFJa2w0VnBCYjdNYStNUDB1eXh3PT0mdmFsaWRtaW51dGVzPTYw
+https://tencentcdn2.tamashaweb.com/v1/0192bed4e5f11ea506ec1afe4c6abd/0192bed664ae1ea506491378f278b7/tmsh_srt_output_1080p.m3u8?timeshift=1&mode=6&delay=1800
 #EXTINF:-2, sports
 https://tencentcdn2.tamashaweb.com/v1/0192bed4e5f11ea506ec1afe4c6abd/0192bed664ae1ea506491378f278b7/tmsh_srt_output_480p.m3u8?timeshift=1&mode=6&delay=1800
 #EXTINF:-2, sports sd
