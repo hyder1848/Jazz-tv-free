@@ -328,5 +328,7 @@ https://tencentcdn2.tamashaweb.com/v1/0192bed4e5f11ea506ec1afe4c6abd/0192bed664a
 https://tencentcdn2.tamashaweb.com/v1/0192bed4e5f11ea506ec1afe4c6abd/0192bed664ae1ea506491378f278b7/tmsh_srt_output_480p.m3u8?timeshift=1&mode=6&delay=1800
 #EXTINF:-2, sports sd
 https://tencentcdn2.tamashaweb.com/v1/0192bed4e5f11ea506ec1afe4c6abd/0192bed664ae1ea506491378f278b7/tmsh_srt_output_240p.m3u8?timeshift=1&mode=6&delay=1800
-#EXTINF:-2, PTV SPORT 
+#EXTINF:-2, PTV SPORT AQ
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189M/playlist.m3u8
+#EXTINF:-2, Ptv sports HD
+https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189H/playlist.m3u8
