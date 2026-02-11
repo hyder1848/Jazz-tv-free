@@ -9,6 +9,8 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/KashishTV-abr/live/vsat-115M/chunk
 https://cdn12isb.tamashaweb.com:8087/jazzauth/KashishTV-abr/live/vsat-115L/chunks.m3u8
 #EXTINF:-1,KTN News jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ktnNews-abr/live/vsat-132M/chunks.m3u8
+#EXTINF:-1,KTN News jazz LQ
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ktnNews-abr/live/vsat-132L/chunks.m3u8
 #EXTINF:-1,Time News jazz free1
 https://cdn05khi.tamashaweb.com:8087/jazzauth/TimeNews-abr/live/vsat-125H/chunks.m3u8/
 #EXTINF:-1,Time News jazz free
