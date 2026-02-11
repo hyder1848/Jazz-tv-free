@@ -1,4 +1,4 @@
-oki#EXTINF:-1, 
+#EXTINF:-1, 
 #EXTINF:-2,Ktn jazz free
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjYgODo1NDowNiBQTSZoYXNoX3ZhbH
 #EXTINF:-1,KTN JAZZ FREE
@@ -26,7 +26,7 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/MehranTV-abr/live/vsat-106H/chunks
 #EXTINF:-1,ARY News jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-M/chunks.m3u8
 #EXTINF:-1,Geo News jazz free
-https://cdn12isb.tamashaweb.com:8087/jazzauth/geoNews-abr/live/vsat-93M/chunks.m3u8
+https://cdn12isb.tamashaweb.com:8087/jazzauth/geoNews-abr/live/vsat-93H/chunks.m3u8
 #EXTINF:-1,Geo News jazz LQ
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/live/vsat-93L/chunks_dvr_timeshift-0-3600.m3u8?nimblesessionid=2716584&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI2IDQ6MjE6MTcgUE0maGFzaF92YWx1ZT0wanRaMU9GTForbW9XaDlxRU5pbXd3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1,Express News jazz free
