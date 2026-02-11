@@ -19,8 +19,10 @@ https://cdn23lhr.tamashaweb.com:8087/jazzauth/TimeNews-abr/live/vsat-125L/chunks
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/TimeNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjYgODo0ODo1NiBQTSZoYXNoX3ZhbHVlPUdIS1pRbUtmd2FNMk15MUNhWUdid2c9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/TimeNews-abr/playlist.m3u8
 #EXTINF:-1,Sindh News jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/SindhNews-abr/live/vsat-80M/chunks.m3u8
+#EXTINF:-1,Mehran TV jazzLQ
+https://cdn12isb.tamashaweb.com:8087/jazzauth/MehranTV-abr/live/vsat-106L/chunks.m3u8
 #EXTINF:-1,Mehran TV jazz free
-https://cdn12isb.tamashaweb.com:8087/jazzauth/MehranTV-abr/live/vsat-106M/chunks.m3u8
+https://cdn12isb.tamashaweb.com:8087/jazzauth/MehranTV-abr/live/vsat-106H/chunks.m3u8
 #EXTINF:-1,ARY News jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-M/chunks.m3u8
 #EXTINF:-1,Geo News jazz free
