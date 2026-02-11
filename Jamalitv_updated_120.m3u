@@ -35,10 +35,11 @@ https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/live/vsat-93H/chu
 https://cdn12isb.tamashaweb.com:8087/jazzauth/geoNews-abr/live/vsat-93H/chunks.m3u8
 #EXTINF:-1,Geo News jazz LQ
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/live/vsat-93L/chunks_dvr_timeshift-0-3600.m3u8?nimblesessionid=2716584&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI2IDQ6MjE6MTcgUE0maGFzaF92YWx1ZT0wanRaMU9GTForbW9XaDlxRU5pbXd3PT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1,Express News jazz free
+#EXTINF:-1,Express News HQ
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91H/chunks.m3u8
-#EXTINF:-1,Express News jazz free
+#EXTINF:-1,Express News MQ
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91M/chunks.m3u8
+#EXTINF:-1,Express News LQ
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91L/chunks.m3u8
 #EXTINF:-1,Sindh TV jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/sindhTV-abr/live/vsat-sindhtv-M/chunks.m3u8
