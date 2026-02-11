@@ -23,6 +23,10 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/SindhNews-abr/live/vsat-80M/chunks
 https://cdn12isb.tamashaweb.com:8087/jazzauth/MehranTV-abr/live/vsat-106L/chunks.m3u8
 #EXTINF:-1,Mehran TV jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/MehranTV-abr/live/vsat-106H/chunks.m3u8
+#EXTINF:-1,ARY News jazz HD
+https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8?nimblesessionid=2718398&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI2IDQ6MzQ6MjUgUE0maGFzaF92YWx1ZT04clRJZFZWdkw4RjR0ZDhqQm5Oa3pBPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1,ARY News LQ
+https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-L/chunks_dvr_timeshift-0-3600.m3u8?nimblesessionid=2718398&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI2IDQ6MzQ6MjUgUE0maGFzaF92YWx1ZT04clRJZFZWdkw4RjR0ZDhqQm5Oa3pBPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1,ARY News jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-M/chunks.m3u8
 #EXTINF:-1,Geo News HD
