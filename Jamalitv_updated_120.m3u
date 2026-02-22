@@ -237,8 +237,6 @@ https://s5.ideationtec.live/Express_News/Express_News.m3u8
 https://s5.ideationtec.live/Dawn/Dawn.m3u8
 #EXTINF:-1,Zong TV - Such TV HD
 https://s4.ideationtec.live/Such_TV_HD/Such_TV_HD.m3u8
-#EXTINF:-1,INDIA- tv9india news/240
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_240p/chunks.m3u8
 #EXTINF:-1,Zong TV - City 41
 https://s2.ideationtec.live/City_41/City_41.m3u8
 #EXTINF:-1,Zong TV - LTN Family HD
@@ -395,4 +393,5 @@ https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u8
 #EXTINF:-1,INDIA- tv9india news
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_360p/chunks.m3u8
-#EXTINF:-2, GEONEWS YOUTUBE 
+#EXTINF:-2, AJJ NEWS INDIA 
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_234p/chunks.m3u8
