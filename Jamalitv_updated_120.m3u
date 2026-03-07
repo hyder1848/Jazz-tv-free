@@ -196,12 +196,10 @@ https://cdn22lhr.tamashaweb.com:8087/jazzauth/humTV-abr/playlist.m3u8
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/playlist.m3u8
 #EXTINF:-1,Sun News jazz free
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/SUN-NEWS-abr/playlist.m3u8
-#EXTINF:-1,movie oscar
-https://cdn-4.pishow.tv/live/233/master.m3u8
 ########## Zong TV ##########
-#EXTINF:-1,Zong TV - Ten Sports
+#EXTINF:-1,Zong TV - Ten Sports paid
 https://tapmadlive.akamaized.net:443/tapmadold/tensports.smil/chunklist_w1346140991_b1248000_slENG.m3u8
-#EXTINF:-1,Zong Dharti TV
+#EXTINF:-1,Zong Dharti TV paid
 https://tapmadlive.akamaized.net/tapmadold/dhartitv.smil/chunklist_w1381970605_b748000_slEng.m3u8
 #EXTINF:-1,Aaj Entertainment
 https://cdn12isb.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI1IDE6MjA6MDYgUE0maGFzaF92YWx1ZT11d3FnWlNCV0Z5UHBGYU1LcW54TXhnPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/AajEntertainment-abr/playlist.m3u8
@@ -215,10 +213,6 @@ https://cdn13lhr.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-abr/playlist.m3u8?wmsA
 https//cdn24lhr.tamashaweb.com:8087/jazzauth/ktnNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyNSAxMDo1NjowMyBBTSZoYXNoX3ZhbHVlPVpMSDJFUVphV2V2c1g1L0xEQjZNTFE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/ktnNews-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="GEO_SUPER" tvg-name="GEO Super" group-title="Sports",GEO Super
 https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
-#EXTINF:-1,B4U Music 🎵 
-https://cdnb4u.wiseplayout.com/B4U_Music/SD216/SD216.m3u8
-#EXTINF:-1,B4U KADAK HD
-https;//cdnb4u.wiseplayout.com/B4U_Kadak/SD216/SD216.m3u8
 #EXTINF:-1, world cup HD
 https://cdn06khi.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-abr/live/T20WC_M1_D_720p/chunks.m3u8?nimblesessionid=6337024&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjYgMTI6MjE6MTkgUE0maGFzaF92YWx1ZT1CRmZBeHA1T0E0STdKTXYxd2NXWUp3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1, world cup SD
@@ -231,31 +225,27 @@ https://tencentcdn2.tamashaweb.com/v1/0192bed4e5f11ea506ec1afe4c6abd/0192bed664a
 https://tencentcdn2.tamashaweb.com/v1/0192bed4e5f11ea506ec1afe4c6abd/0192bed664ae1ea506491378f278b7/tmsh_srt_output_480p.m3u8?timeshift=1&mode=6&delay=1800
 #EXTINF:-2, tamsha sports sd
 https://tencentcdn2.tamashaweb.com/v1/0192bed4e5f11ea506ec1afe4c6abd/0192bed664ae1ea506491378f278b7/tmsh_srt_output_240p.m3u8?timeshift=1&mode=6&delay=1800
-#EXTINF:-2, PTV SPORT AQ
+#EXTINF:-2, PTV SPORT AQ jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189M/playlist.m3u8
-#EXTINF:-2, Ptv sports HD
+#EXTINF:-2, Ptv sports HD jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189H/playlist.m3u8
-#EXTINF:-2, Ajj News
+#EXTINF:-2, Ajj News paid
 https//aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_234p/chunks.m3u8
-#EXTINF:-2, Ajj News HD
+#EXTINF:-2, Ajj News HD paid
 https//aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
-#EXTINF:-2, GEO-NEWS
-https//jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/chunks.m3u8
-#EXTINF:-2, GEO ENTERTAINMENT 
-https//jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
 #EXTINF:-2, YRF MUSIC FREE TiKTAK package JAZZ 
 https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/ts-eu-w1-n2/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/cb543d1f726c628d84cb3f65cef047a0f99053fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d505e6cdb60802a58998732b8393279157c8aeaf72285cd0d6dd2d97e3428b17a1853fa1015d1215832ceff5348a42da5750024ed0b455f26c2e85aaa6851c39012f0074df6d1c1716524010a8f2a08b6fb01baef8708079b35feef034c8b2f5594da00968949a481d05f80439871f411948cf18bda00ffd9c33af502a207085e236f90cf2cc09e13e58cd82d60c5727d104f50e7eec3ac4c6ecb16125aa9b292ed64fa5e9ddf23d13031e951ce4ed366b846c07bcf428787d7d9ef69035194c5506834b4e4aef8945f519c558b696d401106fdd7077146b30d9242797af8afba74e4a375f6d67da5cd097d58a0f1a5aabdf8efcea3844bd30ecbd5f59b354b74d96568403c8f9577d225d179e79b5d711c0568a49440dcdd997f3e665d89895a944248e29ba28dd90735c3785b62be358b03454ed93d6078aa19c9cb1d22db745ad36769b50864d419bcaf3abce7faf51637b0e9c240d466fbfa5f81a14cfa3b7c11299bc60173090c71d9e5634d177cc04eeb9a8ad7721b13e5f8c3b1941d68471a1f400386e7a821cfda8e79534194067f2e25404ed629d96bd60c4c401dc818d2be003bd0557663b5f14d30300bb7c6b59388dfce36d72e80b5bd5348125765b43d0c3e1cb49f835ff43642663831ad00664ab1021a72e29ac7e093e33f9fca84cbd196e7cfa3b61531f297b70f615fa6231f3bddf5ce/116/428x240_804552/index.m3u8
 #EXTINF:-2, B4u Music free jazz TikTok package 
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-2, 9xM music 🎵 
+#EXTINF:-2, 9xM music 🎵 TikTok mb
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-#EXTINF:-2, DD NATIONAL 
+#EXTINF:-2, DD NATIONAL paid
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
-#EXTINF:-1,INDIA- tv9india news
+#EXTINF:-1,INDIA- tv9india news paid
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_360p/chunks.m3u8
-#EXTINF:-2, AJJ NEWS INDIA 
+#EXTINF:-2, AJJ NEWS INDIA paid
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_234p/chunks.m3u8
-#EXTINF:-2, MH1 NEWS INDIA
+#EXTINF:-2, MH1 NEWS INDIA paid
 https://livestream.jswk.online/mhonenews/live/index.m3u8
 
 
