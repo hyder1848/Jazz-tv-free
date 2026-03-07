@@ -90,8 +90,10 @@ https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVNational-abr/playlist.m3u8
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8
 #EXTINF:-1,PTV Sports HD jazz free
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgNzo1Mzo1MiBBTSZoYXNoX3ZhbHVlPW14ajk5aVNJOWZjRFN4bnlFVUZkdnc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8
-#EXTINF:-1, JAMALI MOVIE
+#EXTINF:-1, PTV GOLD SD JAZZ FREE
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/177M/playlist.m3u8
+#EXTINF:-1, PTV GOLD HD JAZZ FREE
+https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/177H/playlist.m3u8
 #EXTINF:-1,PTV Home jazz free
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8
 #EXTINF:-1,PTV Home 
