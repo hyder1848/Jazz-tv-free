@@ -42,7 +42,7 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91M/chun
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91L/chunks.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",SINDH TV
 https://cdn12isb.tamashaweb.com:8087/jazzauth/sindhTV-abr/live/vsat-sindhtv-H/chunks.m3u8
-#EXTINF:-1,ARY Digital jazz free
+#EXTINF:-1 group-title="ENTERTAINMENT", ARY DIGITAL 
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYdigital-abr/live/vsat-ary-H/chunks.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",GEO ENTERTAINMENT 
 https://cdn12isb.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/live/vsat-geotv-H/chunks.m3u8
@@ -58,9 +58,9 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/AnimalPlanet-abr/live/158-3M/chunk
 https://cdn07isb.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/live/125H/chunks.m3u8
 #EXTINF:-1 group-title="News", LAHORE RING NEWS
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/LahoreRung-abr/live/vsat-86M/chunks.m3u8
-#EXTINF:-1,Jalwa jazz free
+#EXTINF:-1 group-title="MUSIC",JALWA 
 https://cdn12isb.tamashaweb.com:8087/jazzauth/jalwa-abr/live/135H/chunks.m3u8
-#EXTINF:-1,8XM jazz free
+#EXTINF:-1 group-title="MUSIC",8XM
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/8xm-abr/live/131H/chunks.m3u8
 #EXTINF:-1,Madni Channel jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/Madni-abr/live/vsat-94M/chunks.m3u8
