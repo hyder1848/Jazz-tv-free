@@ -22,13 +22,13 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/SindhNews-abr/live/vsat-80M/chunks
 https://cdn12isb.tamashaweb.com:8087/jazzauth/MehranTV-abr/live/vsat-106L/chunks.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",MEHRAN TV
 https://cdn12isb.tamashaweb.com:8087/jazzauth/MehranTV-abr/live/vsat-106H/chunks.m3u8
-#EXTINF:-1,ARY News jazz HD
+#EXTINF:-1 group-title="News",ARY News
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8?nimblesessionid=2718398&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI2IDQ6MzQ6MjUgUE0maGFzaF92YWx1ZT04clRJZFZWdkw4RjR0ZDhqQm5Oa3pBPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1,ARY News LQ
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-L/chunks_dvr_timeshift-0-3600.m3u8?nimblesessionid=2718398&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI2IDQ6MzQ6MjUgUE0maGFzaF92YWx1ZT04clRJZFZWdkw4RjR0ZDhqQm5Oa3pBPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1,ARY News jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-M/chunks.m3u8
-#EXTINF:-1,Geo News HD
+#EXTINF:-1 group-title="News",GEO News
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/live/137M/chunks_dvr_timeshift-0-3600.m3u8?nimblesessionid=5709622&wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjYgNTo0ODoyNSBQTSZoYXNoX3ZhbHVlPWdJa1FYVC9zT1k5NGNQNWhzOUNDR3c9PSZ2YWxpZG1pbnV0ZXM9NjA%3D
 #EXTINF:-1,Geo News jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/geoNews-abr/live/vsat-93H/chunks.m3u8
@@ -36,7 +36,7 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/geoNews-abr/live/vsat-93H/chunks.m
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/live/vsat-93M/chunks_dvr_timeshift-0-3600.m3u8?nimblesessionid=2716584&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI2IDQ6MjE6MTcgUE0maGFzaF92YWx1ZT0wanRaMU9GTForbW9XaDlxRU5pbXd3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1,Express News HQ
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91H/chunks.m3u8
-#EXTINF:-1,Express News MQ
+#EXTINF:-1 group-title="News",EXPRESS News
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91M/chunks.m3u8
 #EXTINF:-1,Express News LQ
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91L/chunks.m3u8
@@ -56,7 +56,7 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/Aplus-abr/live/vsat-112H/chunks.m3
 https://cdn12isb.tamashaweb.com:8087/jazzauth/AnimalPlanet-abr/live/158-3M/chunks.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",AJJ ENTERTAINMENT 
 https://cdn07isb.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/live/125H/chunks.m3u8
-#EXTINF:-1,Lahore Rung jazz free
+#EXTINF:-1 group-title="News", LAHORE RING NEWS
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/LahoreRung-abr/live/vsat-86M/chunks.m3u8
 #EXTINF:-1,Jalwa jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/jalwa-abr/live/135H/chunks.m3u8
@@ -64,25 +64,25 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/jalwa-abr/live/135H/chunks.m3u8
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/8xm-abr/live/131H/chunks.m3u8
 #EXTINF:-1,Madni Channel jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/Madni-abr/live/vsat-94M/chunks.m3u8
-#EXTINF:-1,Neo News jazz free
+#EXTINF:-1 group-title="News",NEO News
 https://cdn12isb.tamashaweb.com:8087/jazzauth/NeoNews-abr/live/vsat-110H/chunks.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",HUM SITARAY
 https://cdn12isb.tamashaweb.com:8087/jazzauth/HumSitaray-abr/live/vsat-107H/chunks.m3u8
-#EXTINF:-1,Dawn News jazz free
+#EXTINF:-1 group-title="News",DAWN News
 https://cdn12isb.tamashaweb.com:8087/jazzauth/DawnNews-abr/live/vsat-130H/chunks.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",SET ENTERTAINMENT 
 https://cdn12isb.tamashaweb.com:8087/jazzauth/SetEntertainment-abr/live/vsat-setent-M/chunks.m3u8
-#EXTINF:-1,ABN News jazz free
+#EXTINF:-1 group-title="News",ABN News
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ABNnews-abr/live/vsat-abnnews-H/chunks.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",HUM TV
 https://cdn12isb.tamashaweb.com:8087/jazzauth/humTV-abr/live/vsat-humtv-M/chunks.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",ARY ZINDAGI
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYzindagi-abr/live/vsat-aryzindagi-M/chunks.m3u8
-#EXTINF:-1,365 News jazz free
+#EXTINF:-1 group-title="News",365 News
 https://cdn12isb.tamashaweb.com:8087/jazzauth/365News-abr/live/vsat-365TV-H/chunks.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",SABTV
 https://cdn12isb.tamashaweb.com:8087/jazzauth/SabTV-abr/live/vsat-146H/chunks.m3u8
-#EXTINF:-1,PTv news jazz free
+#EXTINF:-1 group-title="News",PTV News
 https://cdn12isb.tamashaweb.com:8087/jazzauth/PTVNews-abr/live/191H/chunks.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",PTV NATIONAL 
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVNational-abr/playlist.m3u8
@@ -106,31 +106,31 @@ https://cdn07khi.tamashaweb.com:8087/jazzauth/ASIACUP2025-abr/playlist.m3u8?wmsA
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 #EXTINF:-1,Eurosport jazz free
 https://cdn02khi.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI1IDg6MTQ6NDIgUE0maGFzaF92YWx1ZT1xMytpSUY4RXorTWd2NXhTK2c1WEtRPT0mdmFsaWRtaW51dGVzPTEw
-#EXTINF:-1,Samaa TV jazz free
+#EXTINF:-1 group-title="News",SAMAA News
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/playlist.m3u8?wmsAuthSign=...
 #EXTINF:-1,Hum Masala jazz free
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/hummasala-abr/playlist.m3u8?wmsAuthSign=...
-#EXTINF:-1,GTV News jazz free
+#EXTINF:-1 group-title="News",GTV News
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/GTVNews-abr/playlist.m3u8?wmsAuthSign=...
 #EXTINF:-1 group-title="ENTERTAINMENT",TV ONE
 https://cdn02khi.tamashaweb.com:8087/jazzauth/TVOne-abr/playlist.m3u8?wmsAuthSign=...
-#EXTINF:-1,Suno News jazz free
+#EXTINF:-1 group-title="News",SUNO News
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Suno_News-abr/playlist.m3u8?wmsAuthSign=...
-#EXTINF:-1,ABN News jazz free
+#EXTINF:-1 group-title="News",ABN News
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ABNnews-abr/playlist.m3u8?wmsAuthSign=...
 #EXTINF:-1 group-title="ENTERTAINMENT",ANN TV
 https://cdn02khi.tamashaweb.com:8087/jazzauth/AAN-TV-abr/playlist.m3u8?wmsAuthSign=...
-#EXTINF:-1,Metro 1 News jazzfree
+#EXTINF:-1 group-title="News",METRO News
 https://cdn05khi.tamashaweb.com:8087/jazzauth/Metro1News-abr/playlist.m3u8?wmsAuthSign=...
 #EXTINF:-1 group-title="ENTERTAINMENT",AUR LIFE
 https://cdn12isb.tamashaweb.com:8087/jazzauth/AurLife-abr/playlist.m3u8?wmsAuthSign=...
-#EXTINF:-1,CGTN HD jazz free
+#EXTINF:-1 group-title="News",CGTN NEWS
 https://cdn02khi.tamashaweb.com:8087/jazzauth/CgtnHD-abr/playlist.m3u8?wmsAuthSign=...
-#EXTINF:-1,Channel 5 jazz free
+#EXTINF:-1 group-title="News", CHANNEL 5 News
 https://cdn12isb.tamashaweb.com:8087/jazzauth/Channel5-abr/playlist.m3u8?wmsAuthSign=...
-#EXTINF:-1,Aaj News jazz free
+#EXTINF:-1 group-title="News",AJJ News
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/AajNews-abr/playlist.m3u8?wmsAuthSign=...
-#EXTINF:-1,News One jazz free
+#EXTINF:-1 group-title="News",NEWS ONE News
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/NewsOne-abr/playlist.m3u8?wmsAuthSign=...
 #EXTINF:-1,Minimax jazz free
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/Minimax-abr/playlist.m3u8?wmsAuthSign=...
@@ -152,7 +152,7 @@ https://cdn02khi.tamashaweb.com:8087/jazzauth/MovieOne-abr/playlist.m3u8?wmsAuth
 https://cdn06khi.tamashaweb.com:8087/jazzauth/EPL-A-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjUgMTE6NTU6MTAgQU0maGFzaF92YWx1ZT1wRXRqdXE5bVpGdlRPd0hvdVZRZGRBPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1,A1TV Live jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/A1TV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDEyOjU5OjI0IFBNJmhhc2hfdmFsdWU9MVFaVWtQTWg2RGlOTjAxck1JOHloUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/A1TV-abr/playlist.m3u8
-#EXTINF:-1,Aik News jazz free
+#EXTINF:-1 group-title="News",AIK News
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/PNN-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDE6MDc6NTAgUE0maGFzaF92YWx1ZT1PSGVrekIvaTRLdStxUWN4Zjh0OTVBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/PNN-abr/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",KAY2 TV
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Kay2-abr/playlist.m3u8
@@ -162,15 +162,15 @@ https://cdn05khi.tamashaweb.com:8087/jazzauth/AAN-TV-abr/playlist.m3u8
 https://cdn12isb.tamashaweb.com:8087/jazzauth/Inplus-abr/playlist.m3u8
 #EXTINF:-1,Hum News jazz free
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/humnews-abr/playlist.m3u8
-#EXTINF:-1,City 21 jazz free
+#EXTINF:-1 group-title="News", CITY 21 News
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/city21-abr/playlist.m3u8
-#EXTINF:-1,Public TV jazz free
+#EXTINF:-1 group-title="News", PUBLIC News
 https://cdn05khi.tamashaweb.com:8087/jazzauth/PublicTV-abr/playlist.m3u8
 #EXTINF:-1,Cartoon Network jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/cartoonnetwork-abr/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",GREEN TV
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/playlist.m3u8
-#EXTINF:-1,City 42 jazz free
+#EXTINF:-1 group-title="News",CITY42 News
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/playlist.m3u8
 #EXTINF:-1,AVT Khyber TV jazz free
 https://cdn05khi.tamashaweb.com:8087/jazzauth/AVTkhyberTV-abr/playlist.m3u8
@@ -184,7 +184,7 @@ https://cdn05khi.tamashaweb.com:8087/jazzauth/Saudimakkah(nw)-abr/playlist.m3u8
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/MovieOne-abr/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",PLAY TV
 https://cdn12isb.tamashaweb.com:8087/jazzauth/play-abr/playlist.m3u8
-#EXTINF:-1,Al Jazeera jazz free
+#EXTINF:-1 group-title="News",ALL JAZEERA News
 https://cdn12isb.tamashaweb.com:8087/jazzauth/AL-Jazeera-abr/playlist.m3u8
 #EXTINF:-1,Discovery Pakistan jazz free
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/DiscoveryPakistan-abr/playlist.m3u8
