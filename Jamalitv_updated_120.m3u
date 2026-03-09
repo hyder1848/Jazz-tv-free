@@ -41,7 +41,7 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91M/chun
 #EXTINF:-1,Express News LQ
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91L/chunks.m3u8
 #EXTINF:-1 group-title="SINDHI HD",SINDH TV HD
-https://cdn12isb.tamashaweb.com:8087/jazzauth/sindhTV-abr/live/vsat-sindhtv-M/chunks.m3u8
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/sindhTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMjYgMzowNjoyMyBQTSZoYXNoX3ZhbHVlPWk1OUt6LzF5Rm9PTkR4c0ZzUEhGTXc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/sindhTV-abr/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT", ARY DIGITAL 
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYdigital-abr/live/vsat-ary-H/chunks.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",GEO ENTERTAINMENT 
