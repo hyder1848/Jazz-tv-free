@@ -1,10 +1,10 @@
-#EXTINF:-1 group-title="ENTERTAINMENT",KTN
+#EXTINF:-1 group-title="ENTERTAINMENT",KTN TV 
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjYgODo1NDowNiBQTSZoYXNoX3ZhbH
 #EXTINF:-1 group-title="SINDHI HD",KTN HD
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/live/vsat-105H/chunks.m3u8
 #EXTINF:-1 group-title="SINDHI HD",KASHISH HD
 https://cdn12isb.tamashaweb.com:8087/jazzauth/KashishTV-abr/live/vsat-115H/chunks.m3u8
-#EXTINF:-1, Kashish Tv Jazz LQ
+#EXTINF:-1 group-title="MUSIC",KASHISH TV SINDHI MUSIC
 https://cdn12isb.tamashaweb.com:8087/jazzauth/KashishTV-abr/live/vsat-115L/chunks.m3u8
 #EXTINF:-1 group-title="SINDHI HD",KTN NEWS HD
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ktnNews-abr/live/vsat-132H/chunks.m3u8
@@ -174,9 +174,9 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/cartoonnetwork-abr/playlist.m3u8
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/playlist.m3u8
 #EXTINF:-1 group-title="News",CITY42 News
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/playlist.m3u8
-EXTINF:-1 group-title="PASHTO",AVT KHYBER
+#EXTINF:-1 group-title="PASHTO",AVT KHYBER
 https://cdn05khi.tamashaweb.com:8087/jazzauth/AVTkhyberTV-abr/playlist.m3u8
-EXTINF:-1 group-title="PASHTO",PASHTO TV
+#EXTINF:-1 group-title="PASHTO",PASHTO TV
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Pashto1-abr/playlist.m3u8
 #EXTINF:-1,Saudi Sunnah jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/SaudiSunnah(NW)-abr/playlist.m3u8
@@ -188,7 +188,7 @@ https://cdn24lhr.tamashaweb.com:8087/jazzauth/MovieOne-abr/playlist.m3u8
 https://cdn12isb.tamashaweb.com:8087/jazzauth/play-abr/playlist.m3u8
 #EXTINF:-1 group-title="News",ALL JAZEERA News
 https://cdn12isb.tamashaweb.com:8087/jazzauth/AL-Jazeera-abr/playlist.m3u8
-EXTINF:-1 group-title="ENTERTAINMENT",DISCOVER PAKISTAN 
+#EXTINF:-1 group-title="ENTERTAINMENT",DISCOVER PAKISTAN 
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/DiscoveryPakistan-abr/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",PTV BOLAN
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVBolan-abr/playlist.m3u8
@@ -249,7 +249,7 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgt
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_234p/chunks.m3u8
 #EXTINF:-1 group-title="INDIA",MH1 News
 https://livestream.jswk.online/mhonenews/live/index.m3u8
-EXTINF:-1 group-title="ENTERTAINMENT",KOHINOOR TV
+#EXTINF:-1 group-title="ENTERTAINMENT",KOHINOOR TV
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/KohinoorTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMjYgNToxMDozMCBQTSZoYXNoX3ZhbHVlPXdTS3ZMeEcxTmJXN0l2WFVZY2pnSGc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/KohinoorTV-abr/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT", DIGITAL PAKISTAN TV
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/Digital-pak-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMjYgNToxNjo1NyBQTSZoYXNoX3ZhbHVlPWNROGhMcG9rV29UUU1HWGhQczRnbEE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/Digital-pak-abr/playlist.m3u8
