@@ -62,7 +62,7 @@ https://cdn24lhr.tamashaweb.com:8087/jazzauth/LahoreRung-abr/live/vsat-86M/chunk
 https://cdn12isb.tamashaweb.com:8087/jazzauth/jalwa-abr/live/135H/chunks.m3u8
 #EXTINF:-1 group-title="MUSIC",8XM
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/8xm-abr/live/131H/chunks.m3u8
-#EXTINF:-1,Madni Channel jazz free
+#EXTINF:-1 group-title="ISLAMIC TV",MADNITV
 https://cdn12isb.tamashaweb.com:8087/jazzauth/Madni-abr/live/vsat-94M/chunks.m3u8
 #EXTINF:-1 group-title="News",NEO News
 https://cdn12isb.tamashaweb.com:8087/jazzauth/NeoNews-abr/live/vsat-110H/chunks.m3u8
@@ -144,7 +144,7 @@ https://cdn07khi.tamashaweb.com:8087/jazzauth/triseries25-abr/playlist.m3u8?wmsA
 https://cdn05khi.tamashaweb.com:8087/jazzauth/LTNFamily-abr/playlist.m3u8?wmsAuthSign=...
 #EXTINF:-1,Jalwa jazz free
 https://cdn02khi.tamashaweb.com:8087/jazzauth/jalwa-abr/playlist.m3u8?wmsAuthSign=...
-#EXTINF:-1,Discovery HD jazz free
+#EXTINF:-1 group-title="ANIMAL",DISCOVERY TV
 https://cdn02khi.tamashaweb.com:8087/jazzauth/DiscoveryHD-abr/playlist.m3u8?wmsAuthSign=...
 #EXTINF:-1 group-title="ENTERTAINMENT",WASEEB TV
 https://cdn02khi.tamashaweb.com:8087/jazzauth/waseeb-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjUgNDowMjoxNCBBTSZoYXNoX3ZhbHVlPVIzaFBsZGl1RE93U1M0c05uYyswQkE9PSZ2YWxpZG1pbnV0ZXM9MTA=
@@ -178,11 +178,11 @@ https://cdn24lhr.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/playlist.m3u8
 https://cdn05khi.tamashaweb.com:8087/jazzauth/AVTkhyberTV-abr/playlist.m3u8
 #EXTINF:-1 group-title="PASHTO",PASHTO TV
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Pashto1-abr/playlist.m3u8
-#EXTINF:-1,Saudi Sunnah jazz free
+#EXTINF:-1 group-title="ISLAMIC TV",SAUDISUNNAH
 https://cdn12isb.tamashaweb.com:8087/jazzauth/SaudiSunnah(NW)-abr/playlist.m3u8
-#EXTINF:-1,Saudi Makkah jazz free
+#EXTINF:-1 group-title="ISLAMIC TV",SAUDI MAKKAH TV
 https://cdn05khi.tamashaweb.com:8087/jazzauth/Saudimakkah(nw)-abr/playlist.m3u8
-#EXTINF:-1,Movie One jazz frwe
+#EXTINF:-1 group-title="MOVIE",MOVIEONE TB
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/MovieOne-abr/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",PLAY TV
 https://cdn12isb.tamashaweb.com:8087/jazzauth/play-abr/playlist.m3u8
