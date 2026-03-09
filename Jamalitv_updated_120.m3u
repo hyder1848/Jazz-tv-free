@@ -50,9 +50,9 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/live/vsat-geo
 https://cdn12isb.tamashaweb.com:8087/jazzauth/BolEntertainment-abr/live/vsat-144H/chunks.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",EXPPRESS ENTERTAINMENT 
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ExpressEntertainment-abr/live/vsat-83H/chunks.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",A PLUS
+#EXTINF:-1 group-title="ENTERTAINMENT",A PLUS TV
 https://cdn12isb.tamashaweb.com:8087/jazzauth/Aplus-abr/live/vsat-112H/chunks.m3u8
-#EXTINF:-1,Animal Planet jazz free
+#EXTINF:-1 group-title="ANIMAL TV",ANIMAL PLANET TV
 https://cdn12isb.tamashaweb.com:8087/jazzauth/AnimalPlanet-abr/live/158-3M/chunks.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",AJJ ENTERTAINMENT 
 https://cdn07isb.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/live/125H/chunks.m3u8
@@ -104,7 +104,7 @@ https://cdn02khi.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAut
 https://cdn07khi.tamashaweb.com:8087/jazzauth/ASIACUP2025-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI1IDEyOjM0OjA0IFBNJmhhc2hfdmFsdWU9MUhWOTdUdTFmN3MwNXNoUHo2SjMvQT09JnZhbGlkbWludXRlcz0xMA==
 #EXTINF:-1,TPLAY MUSIC 🎵 paid
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
-#EXTINF:-1,Eurosport jazz free
+#EXTINF:-1 group-title="sports",EURO SPORT
 https://cdn02khi.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI1IDg6MTQ6NDIgUE0maGFzaF92YWx1ZT1xMytpSUY4RXorTWd2NXhTK2c1WEtRPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1 group-title="News",SAMAA News
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/playlist.m3u8?wmsAuthSign=...
