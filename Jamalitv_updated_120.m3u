@@ -114,6 +114,8 @@ https://cdn24lhr.tamashaweb.com:8087/jazzauth/hummasala-abr/playlist.m3u8?wmsAut
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/GTVNews-abr/playlist.m3u8?wmsAuthSign=...
 #EXTINF:-1 group-title="ENTERTAINMENT",TV ONE
 https://cdn02khi.tamashaweb.com:8087/jazzauth/TVOne-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1 group-title="News",365 News
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/365News-abr/live/vsat-abnnews-L/chunks.m3u8?nimblesessionid=112912737&wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMjYgNDozNDoxNiBQTSZoYXNoX3ZhbHVlPUlma0lkMVFucWlMKzhjWVRkKzV0eHc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/365News-abr/playlist.m3u8
 #EXTINF:-1 group-title="News",SUNO News
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Suno_News-abr/playlist.m3u8?wmsAuthSign=...
 #EXTINF:-1 group-title="News",ABN News
@@ -132,9 +134,9 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/Channel5-abr/playlist.m3u8?wmsAuth
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/AajNews-abr/playlist.m3u8?wmsAuthSign=...
 #EXTINF:-1 group-title="News",NEWS ONE News
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/NewsOne-abr/playlist.m3u8?wmsAuthSign=...
-#EXTINF:-1,Minimax jazz free
+#EXTINF:-1 group-title="CARTOON",MINIMAX TV
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/Minimax-abr/playlist.m3u8?wmsAuthSign=...
-#EXTINF:-1,Baby TV jazz free
+#EXTINF:-1 group-title="CARTOON",BABY TV
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/BabyTV-abr/playlist.m3u8?wmsAuthSign=...
 #EXTINF:-1,Tri Series 2025 jazz free
 https://cdn07khi.tamashaweb.com:8087/jazzauth/triseries25-abr/playlist.m3u8?wmsAuthSign=...
@@ -166,7 +168,7 @@ https://cdn22lhr.tamashaweb.com:8087/jazzauth/humnews-abr/playlist.m3u8
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/city21-abr/playlist.m3u8
 #EXTINF:-1 group-title="News", PUBLIC News
 https://cdn05khi.tamashaweb.com:8087/jazzauth/PublicTV-abr/playlist.m3u8
-#EXTINF:-1,Cartoon Network jazz free
+#EXTINF:-1 group-title="CARTOON",CARTOON TV
 https://cdn12isb.tamashaweb.com:8087/jazzauth/cartoonnetwork-abr/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",GREEN TV
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/playlist.m3u8
