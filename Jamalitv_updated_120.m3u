@@ -92,7 +92,7 @@ https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgNzo1Mzo1MiBBTSZoYXNoX3ZhbHVlPW14ajk5aVNJOWZjRFN4bnlFVUZkdnc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8
 #EXTINF:-1, PTV GOLD SD JAZZ FREE
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/177M/playlist.m3u8
-#EXTINF:-1, PTV GOLD HD JAZZ FREE
+#EXTINF:-1 group-title="MOVIE",PTV GOLD
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/177H/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",PTV HOME
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8
@@ -190,7 +190,7 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/AL-Jazeera-abr/playlist.m3u8
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/DiscoveryPakistan-abr/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",PTV BOLAN
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVBolan-abr/playlist.m3u8
-#EXTINF:-1,Arooj TV jazz free
+#EXTINF:-1 group-title="MOVIE",AROOJ TV
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/AroojTV-abr/playlist.m3u8
 #EXTINF:-1,Hum TV jazz free
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/humTV-abr/playlist.m3u8
