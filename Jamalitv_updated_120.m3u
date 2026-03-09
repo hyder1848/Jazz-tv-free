@@ -174,9 +174,9 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/cartoonnetwork-abr/playlist.m3u8
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/playlist.m3u8
 #EXTINF:-1 group-title="News",CITY42 News
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/playlist.m3u8
-#EXTINF:-1,AVT Khyber TV jazz free
+EXTINF:-1 group-title="PASHTO",AVT KHYBER
 https://cdn05khi.tamashaweb.com:8087/jazzauth/AVTkhyberTV-abr/playlist.m3u8
-#EXTINF:-1,Pashto 1 jazz free
+EXTINF:-1 group-title="PASHTO",PASHTO TV
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Pashto1-abr/playlist.m3u8
 #EXTINF:-1,Saudi Sunnah jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/SaudiSunnah(NW)-abr/playlist.m3u8
@@ -188,7 +188,7 @@ https://cdn24lhr.tamashaweb.com:8087/jazzauth/MovieOne-abr/playlist.m3u8
 https://cdn12isb.tamashaweb.com:8087/jazzauth/play-abr/playlist.m3u8
 #EXTINF:-1 group-title="News",ALL JAZEERA News
 https://cdn12isb.tamashaweb.com:8087/jazzauth/AL-Jazeera-abr/playlist.m3u8
-#EXTINF:-1,Discovery Pakistan jazz free
+EXTINF:-1 group-title="ENTERTAINMENT",DISCOVER PAKISTAN 
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/DiscoveryPakistan-abr/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",PTV BOLAN
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVBolan-abr/playlist.m3u8
