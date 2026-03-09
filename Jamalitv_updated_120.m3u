@@ -108,7 +108,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 https://cdn02khi.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI1IDg6MTQ6NDIgUE0maGFzaF92YWx1ZT1xMytpSUY4RXorTWd2NXhTK2c1WEtRPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1 group-title="News",SAMAA News
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/playlist.m3u8?wmsAuthSign=...
-#EXTINF:-1,Hum Masala jazz free
+#EXTINF:-1 group-title="COOKIES",HUM MASALA 
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/hummasala-abr/playlist.m3u8?wmsAuthSign=...
 #EXTINF:-1 group-title="News",GTV News
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/GTVNews-abr/playlist.m3u8?wmsAuthSign=...
@@ -194,7 +194,7 @@ https://cdn24lhr.tamashaweb.com:8087/jazzauth/DiscoveryPakistan-abr/playlist.m3u
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVBolan-abr/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE",AROOJ TV
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/AroojTV-abr/playlist.m3u8
-#EXTINF:-1,Hum TV jazz free
+#EXTINF:-1 group-title="ENTERTAINMENT",HUM TV
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/humTV-abr/playlist.m3u8
 #EXTINF:-1,Aaj Entertainment jazz free
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/playlist.m3u8
@@ -207,9 +207,9 @@ https://tapmadlive.akamaized.net:443/tapmadold/tensports.smil/chunklist_w1346140
 https://tapmadlive.akamaized.net/tapmadold/dhartitv.smil/chunklist_w1381970605_b748000_slEng.m3u8
 #EXTINF:-1,Aaj Entertainment
 https://cdn12isb.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI1IDE6MjA6MDYgUE0maGFzaF92YWx1ZT11d3FnWlNCV0Z5UHBGYU1LcW54TXhnPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/AajEntertainment-abr/playlist.m3u8
-#EXTINF:-1,PTV PTVHOME paid
+#EXTINF:-1 group-title="PAKISTAN",PTV HOME 
 https://ptvstream1.nayatel.com:8096/transcoder/ptvhometrc_source/playlist.m3u8
-#EXTINF:-1,PTV PTVGLOBEL paid
+#EXTINF:-1 group-title="PAKISTAN",PTV GLOBAL 
 https://ptvstream1.nayatel.com:8096/transcoder/ptvglobaltrc_source/playlist.m3u8
 #EXTINF:-1, live t20 world cup 
 https://cdn13lhr.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDM6Mzk6MzMgQU0maGFzaF92YWx1ZT10dTZ1V24xL3VHd1pQdDJVem00OGNRPT0mdmFsaWRtaW51dGVzPTYw
