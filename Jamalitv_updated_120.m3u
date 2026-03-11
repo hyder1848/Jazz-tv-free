@@ -262,7 +262,7 @@ https://cdn21lhr.tamashaweb.com:8087/jazzauth/seeTV-abr/live/vsat-136L/chunks.m3
 #EXTINF:-1 group-title="MOVIE",A1TV
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/A1TV-abr/live/184L/chunks.m3u8?nimblesessionid=90739115&wmsAuthSign=c2VydmVyX3RpbWU9My8xMS8yMDI2IDU6MDg6NDAgUE0maGFzaF92YWx1ZT1jTytuQUxYYW90bFJscjR2cUZqT0F3PT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/A1TV-abr/playlist.m3u8
 #EXTINF:-1 group-title="News",CNN NEWS
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/Livecnn-abr/live/86M/chunks.m3u8?nimblesessionid=104920937&wmsAuthSign=c2VydmVyX3RpbWU9My8xMS8yMDI2IDQ6NTM6MzYgUE0maGFzaF92YWx1ZT1keXM3Q2ZiQ2RlOWNGN3dFcHFma2ZnPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Livecnn-abr/playlist.m3u8
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/Livecnn-abr/playlist.m3u8
 #EXTINF:-1 group-title="CARTOON",BBC CARTOON
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/BBC-Cbeebies-abr/live/203M-L/chunks.m3u8?nimblesessionid=92682706&wmsAuthSign=c2VydmVyX3RpbWU9My8xMS8yMDI2IDQ6NTI6NDcgUE0maGFzaF92YWx1ZT1tN2JmSG96RXYrTjVFOVFrZEt3bitnPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/BBC-Cbeebies-abr/playlist.m3u8
 #EXTINF:-1 group-title="ANIMAL TV",DISCOVER TV
