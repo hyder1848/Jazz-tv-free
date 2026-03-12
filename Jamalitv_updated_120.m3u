@@ -162,7 +162,7 @@ https://cdn24lhr.tamashaweb.com:8087/jazzauth/Kay2-abr/playlist.m3u8
 https://cdn05khi.tamashaweb.com:8087/jazzauth/AAN-TV-abr/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",INPLUS TV
 https://cdn12isb.tamashaweb.com:8087/jazzauth/Inplus-abr/playlist.m3u8
-#EXTINF:-1,Hum News jazz free
+#EXTINF:-1 group-title="News",HUM NEWS HD
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/humnews-abr/playlist.m3u8
 #EXTINF:-1 group-title="News", CITY 21 News
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/city21-abr/playlist.m3u8
@@ -253,7 +253,7 @@ https://livestream.jswk.online/mhonenews/live/index.m3u8
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/KohinoorTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMjYgNToxMDozMCBQTSZoYXNoX3ZhbHVlPXdTS3ZMeEcxTmJXN0l2WFVZY2pnSGc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/KohinoorTV-abr/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT", DIGITAL PAKISTAN TV
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/Digital-pak-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMjYgNToxNjo1NyBQTSZoYXNoX3ZhbHVlPWNROGhMcG9rV29UUU1HWGhQczRnbEE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/Digital-pak-abr/playlist.m3u8
-#EXTINF:-1 group-title="ANIMAL TV",BBC EARITH
+#EXTINF:-1 group-title="BBC",BBC EARITH
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/BBC-Earth-abr/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",Ary digital
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arydigital-abr/live/84M/chunks_dvr_timeshift-0-3600.m3u8?nimblesessionid=7629502&wmsAuthSign=c2VydmVyX3RpbWU9My8xMS8yMDI2IDQ6NDg6NTQgUE0maGFzaF92YWx1ZT1SMGVtOFkwYWI5TGVWdm5rL2tYNFFBPT0mdmFsaWRtaW51dGVzPTYw
@@ -261,9 +261,9 @@ https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arydigital-abr/live/84M/chunk
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/seeTV-abr/live/vsat-136L/chunks.m3u8?nimblesessionid=104926138&wmsAuthSign=c2VydmVyX3RpbWU9My8xMS8yMDI2IDU6MDk6MzcgUE0maGFzaF92YWx1ZT0xZ3NTakcyQ0ttcENUWkg1MGZHZXdRPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/seeTV-abr/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE",A1TV
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/A1TV-abr/live/184L/chunks.m3u8?nimblesessionid=90739115&wmsAuthSign=c2VydmVyX3RpbWU9My8xMS8yMDI2IDU6MDg6NDAgUE0maGFzaF92YWx1ZT1jTytuQUxYYW90bFJscjR2cUZqT0F3PT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/A1TV-abr/playlist.m3u8
-#EXTINF:-1 group-title="News",CNN NEWS
+#EXTINF:-1 group-title="ENGLISH NEWS",CNN NEWS
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/Livecnn-abr/playlist.m3u8
-#EXTINF:-1 group-title="CARTOON",BBC CARTOON
+#EXTINF:-1 group-title="BBC",BBC CARTOON
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/BBC-Cbeebies-abr/live/203M-L/chunks.m3u8?nimblesessionid=92682706&wmsAuthSign=c2VydmVyX3RpbWU9My8xMS8yMDI2IDQ6NTI6NDcgUE0maGFzaF92YWx1ZT1tN2JmSG96RXYrTjVFOVFrZEt3bitnPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/BBC-Cbeebies-abr/playlist.m3u8
 #EXTINF:-1 group-title="ANIMAL TV",DISCOVER TV
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/Discovery-Science-abr/live/201M-L/chunks.m3u8?nimblesessionid=114766858&wmsAuthSign=c2VydmVyX3RpbWU9My8xMS8yMDI2IDQ6NTI6MDYgUE0maGFzaF92YWx1ZT1qblptdW1ITnppRzNrNXFRSlljejJRPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Discovery-Science-abr/playlist.m3u8
@@ -281,11 +281,11 @@ https://cdn22lhr.tamashaweb.com:8087/jazzauth/Tamasha-News-abr/live/AI-News_240p
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/Tamasha-Women-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMS8yMDI2IDQ6Mzg6MjAgUE0maGFzaF92YWx1ZT1uaWNyNUc3Mzh2b0FNN2Z3YnQ4UjhnPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Tamasha-Women-abr/playlist.m3u8
 #EXTINF:-1 group-title="News", PAKISTAN TV
 https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVWorld-abr/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT", BBC LIFE
+#EXTINF:-1 group-title="BBC", BBC LIFE
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/BBC-Lifestyle-abr/playlist.m3u8
 #EXTINF:-1 group-title="News",365 NEWS
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/365News-abr/playlist.m3u8
-#EXTINF:-1 group-title="News",BBC NEWS
+#EXTINF:-1 group-title="ENGLISH NEWS",BBC NEWS
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/BBCNEWS-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMS8yMDI2IDQ6MTQ6MTIgUE0maGFzaF92YWx1ZT1VNzI0QlRrNk1zWkM2Z1pJOHVIQk1RPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/BBCNEWS-abr/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",PAK VS BAN
 https://cdn01lhr-n.tamashaweb.com:8087/jazzauth/PAKvsBAN-ODI26-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMS8yMDI2IDQ6MTM6MDkgUE0maGFzaF92YWx1ZT0zdU85Y3M4M0JNQ1dTUS9zemdrdG93PT0mdmFsaWRtaW51dGVzPTYw
