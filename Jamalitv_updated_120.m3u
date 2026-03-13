@@ -1,8 +1,8 @@
-#EXTINF:-1 group-title="ENTERTAINMENT",KTN TV 
+#EXTINF:-1 group-title="ENTERTAINMENT",KTN ENTERTAINMENT
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjYgODo1NDowNiBQTSZoYXNoX3ZhbH
-#EXTINF:-1 group-title="SINDHI HD",KTN HD
+#EXTINF:-1 group-title="SINDHI HD",KTN ENTERTAINMENT HD
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/live/vsat-105H/chunks.m3u8
-#EXTINF:-1 group-title="SINDHI HD",KASHISH HD
+#EXTINF:-1 group-title="SINDHI HD",KASHISH TV HD
 https://cdn12isb.tamashaweb.com:8087/jazzauth/KashishTV-abr/live/vsat-115H/chunks.m3u8
 #EXTINF:-1 group-title="MUSIC",KASHISH TV SINDHI MUSIC
 https://cdn12isb.tamashaweb.com:8087/jazzauth/KashishTV-abr/live/vsat-115L/chunks.m3u8
