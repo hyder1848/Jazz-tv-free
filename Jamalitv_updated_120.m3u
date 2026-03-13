@@ -296,3 +296,6 @@ https://cdn24lhr.tamashaweb.com:8087/jazzauth/SUN-NEWS-abr/playlist.m3u8?wmsAuth
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/playlist_dvr_timeshift-3600-3600.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMS8yMDI2IDY6MDY6MjIgUE0maGFzaF92YWx1ZT13WTJoRThGVzlJS0l2SDhQWlY2UnNnPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-id="ktn.ent" tvg-name="KTN Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/KTN_Entertainment_logo.png/320px-KTN_Entertainment_logo.png" group-title="Entertainment",KTN Entertainment
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjYgODo1
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
+#EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" tvg-logo="https://i.imgur.com/MohlE5B.png" group-title="India",DD National
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
