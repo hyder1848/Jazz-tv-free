@@ -29,18 +29,6 @@ https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-L/chunks_dvr_timeshift-0-3600.m3u8?nimblesessionid=2718398&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI2IDQ6MzQ6MjUgUE0maGFzaF92YWx1ZT04clRJZFZWdkw4RjR0ZDhqQm5Oa3pBPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 group-title="News",ARY News
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-M/chunks.m3u8
-#EXTINF:-1 group-title="News",GEO News
-https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/live/137M/chunks_dvr_timeshift-0-3600.m3u8?nimblesessionid=5709622&wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjYgNTo0ODoyNSBQTSZoYXNoX3ZhbHVlPWdJa1FYVC9zT1k5NGNQNWhzOUNDR3c9PSZ2YWxpZG1pbnV0ZXM9NjA%3D
-#EXTINF:-1 group-title="News",GEO News HD
-https://cdn07isb.tamashaweb.com:8087/jazzauth/geoNews-abr/live/vsat-93M/chunks.m3u8
-#EXTINF:-1,Geo News jazz MQ
-https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/live/vsat-93M/chunks_dvr_timeshift-0-3600.m3u8?nimblesessionid=2716584&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI2IDQ6MjE6MTcgUE0maGFzaF92YWx1ZT0wanRaMU9GTForbW9XaDlxRU5pbXd3PT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1,Express News HQ
-https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91H/chunks.m3u8
-#EXTINF:-1 group-title="News",EXPRESS News
-https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91M/chunks.m3u8
-#EXTINF:-1,Express News LQ
-https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91L/chunks.m3u8
 #EXTINF:-1 group-title="SINDHI HD",SINDH TV HD
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/sindhTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMjYgMzowNjoyMyBQTSZoYXNoX3ZhbHVlPWk1OUt6LzF5Rm9PTkR4c0ZzUEhGTXc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/sindhTV-abr/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT", ARY DIGITAL 
@@ -320,3 +308,10 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91H/chun
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91M/chunks.m3u8
 #EXTVLCOPT:http-reconnect=true
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91L/chunks.m3u8
+#EXTINF:-1 tvg-name="ARY News" group-title="News",ARY News
+#EXTVLCOPT:http-reconnect=true
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-H/chunks.m3u8
+#EXTVLCOPT:http-reconnect=true
+https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-M/chunks_dvr_timeshift-0-3600.m3u8?nimblesessionid=2718398&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI2IDQ6MzQ6MjUgUE0maGFzaF92YWx1ZT04clRJZFZWdkw4RjR0ZDhqQm5Oa3pBPT0mdmFsaWRtaW51dGVzPTYw
+#EXTVLCOPT:http-reconnect=true
+https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-L/chunks_dvr_timeshift-0-3600.m3u8?nimblesessionid=2718398&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI2IDQ6MzQ6MjUgUE0maGFzaF92YWx1ZT04clRJZFZWdkw4RjR0ZDhqQm5Oa3pBPT0mdmFsaWRtaW51dGVzPTYw
