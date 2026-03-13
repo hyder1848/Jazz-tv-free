@@ -304,4 +304,5 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/in
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189M/playlist.m3u8
 #EXTINF:-1 tvg-id="PTVSPORTS.pk" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/PTV_Sports_logo.png" group-title="sport2" tvg-parental="0001",PTV Sports
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189M/playlist.m3u8
-
+#EXTINF:-1 group-title="sys_4587",PTV Sports
+https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189M/playlist.m3u8
