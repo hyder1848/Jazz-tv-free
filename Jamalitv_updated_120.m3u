@@ -310,7 +310,7 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91M/chun
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91L/chunks.m3u8
 #EXTINF:-1 tvg-name="ARY News" group-title="News",ARY News
 #EXTVLCOPT:http-reconnect=true
-https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-H/chunks.m3u8
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-M/chunks.m3u8
 #EXTVLCOPT:http-reconnect=true
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-M/chunks_dvr_timeshift-0-3600.m3u8?nimblesessionid=2718398&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI2IDQ6MzQ6MjUgUE0maGFzaF92YWx1ZT04clRJZFZWdkw4RjR0ZDhqQm5Oa3pBPT0mdmFsaWRtaW51dGVzPTYw
 #EXTVLCOPT:http-reconnect=true
