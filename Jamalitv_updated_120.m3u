@@ -23,6 +23,8 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/SindhNews-abr/live/vsat-80M/chunks
 https://cdn12isb.tamashaweb.com:8087/jazzauth/MehranTV-abr/live/vsat-106L/chunks.m3u8
 #EXTINF:-1 group-title="SINDHI HD",MEHRAN HD
 https://cdn12isb.tamashaweb.com:8087/jazzauth/MehranTV-abr/live/vsat-106M/chunks.m3u8
+#EXTINF:-1 group-title="News",Geo News
+https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/playlist_dvr_timeshift-0-3600.m3u8
 #EXTINF:-1 group-title="News",ARY News
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-M/chunks_dvr_timeshift-0-3600.m3u8?nimblesessionid=2718398&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI2IDQ6MzQ6MjUgUE0maGFzaF92YWx1ZT04clRJZFZWdkw4RjR0ZDhqQm5Oa3pBPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1,ARY News LQ
