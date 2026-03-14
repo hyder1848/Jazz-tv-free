@@ -308,6 +308,4 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-L/ch
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-reconnect-delay=5
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91H/chunks.m3u8
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-reconnect-delay=5
-https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/playlist_dvr_timeshift-3600-3600.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMS8yMDI2IDY6MDY6MjIgUE0maGFzaF92YWx1ZT13WTJoRThGVzlJS0l2SDhQWlY2UnNnPT0mdmFsaWRtaW51dGVzPTYw
+
