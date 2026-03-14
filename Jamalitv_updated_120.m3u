@@ -296,8 +296,10 @@ https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/live/137M/chunks_
 #EXTVLCOPT:http-reconnect=true
 https://cdn07isb.tamashaweb.com:8087/jazzauth/geoNews-abr/live/vsat-93M/chunks.m3u8
 #EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-reconnect-delay=5
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/live/vsat-93M/chunks_dvr_timeshift-0-3600.m3u8?nimblesessionid=2716584&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI2IDQ6MjE6MTcgUE0maGFzaF92YWx1ZT0wanRaMU9GTForbW9XaDlxRU5pbXd3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-reconnect-delay=5
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/playlist_dvr_timeshift-0-3600.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMS8yMDI2IDY6MD
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 tvg-id="arynews.pk" tvg-name="ARY News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/ARY_News_logo.png" group-title="News",ARY News
