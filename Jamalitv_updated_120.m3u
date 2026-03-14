@@ -308,9 +308,7 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91H/chun
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91M/chunks.m3u8
 #EXTVLCOPT:http-reconnect=true
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91L/chunks.m3u8
-
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-
 #EXTINF:-1 tvg-id="arynews.pk" tvg-name="ARY News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/ARY_News_logo.png" group-title="News",ARY News
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-reconnect-delay=5
