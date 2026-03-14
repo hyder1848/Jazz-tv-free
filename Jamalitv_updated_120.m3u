@@ -314,4 +314,7 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91L/chun
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-reconnect-delay=5
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-L/chunks.m3u8
-
+#EXTINF:-1 tvg-id="expressnews.pk" tvg-name="Express News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Express_News_logo.png" group-title="News",Express News
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-reconnect-delay=5
+https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91H/chunks.m3u8
