@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ptvsports.pk" tvg-name="KTN ENTERMINT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/PTV_Sports_logo.png" group-title="ENTERTAINMENT" catchup="shift" catchup-days="1",KTN SINDHI
+#EXTINF:-1 tvg-id="Ktn.pk" tvg-name="KTN ENTERMINT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/PTV_Sports_logo.png" group-title="ENTERTAINMENT" catchup="shift" catchup-days="1",KTN SINDHI
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-reconnect-delay=3
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjYgODo1NDo
