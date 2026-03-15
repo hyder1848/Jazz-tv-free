@@ -289,7 +289,7 @@ https://cdn24lhr.tamashaweb.com:8087/jazzauth/365News-abr/playlist.m3u8
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/BBCNEWS-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMS8yMDI2IDQ6MTQ6MTIgUE0maGFzaF92YWx1ZT1VNzI0QlRrNk1zWkM2Z1pJOHVIQk1RPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/BBCNEWS-abr/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",PAK VS BAN
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-reconnect-delay=300
+#EXTVLCOPT:http-reconnect-delay=0
 https://tencentcdn5.tamashaweb.com/v1/0196159eeff41eb4611d121c76c781/0196159f51bb1ea5064913eb2a83ea/TMSH_U1_WEB.m3u8?timeshift=1&delay=1800&mode=6
 #EXTINF:-1 group-title="News",SUNTV 
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/SUN-NEWS-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMS8yMDI2IDY6MTI6NTMgUE0maGFzaF92YWx1ZT04UkpvUXZSRTg5NXVnbkdXcUMvYXRnPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/SUN-NEWS-abr/playlist.m3u8
@@ -316,8 +316,8 @@ https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/playlist_dvr_time
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-L/chunks.m3u8
 #EXTINF:-1 tvg-id="expressnews.pk" tvg-name="Express News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Express_News_logo.png" group-title="News",Express News
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-reconnect-delay=0
+#EXTVLCOPT:http-reconnect-delay=5
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91H/chunks.m3u8
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-reconnect-delay=0
+#EXTVLCOPT:http-reconnect-delay=10
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91M/chunks.m3u8
