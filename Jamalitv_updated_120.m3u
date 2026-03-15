@@ -324,7 +324,7 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91M/chun
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 tvg-id="ptvhome.pk" tvg-name="PTV Home" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/51/PTV_Home_logo.png" group-title="ptvhome",PTV Home
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-reconnect-delay=0
-#EXTVLCOPT:network-caching=0
-#EXTVLCOPT:live-caching=0
+#EXTVLCOPT:http-reconnect-delay=5
+#EXTVLCOPT:network-caching=5
+#EXTVLCOPT:live-caching=5
 https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8
