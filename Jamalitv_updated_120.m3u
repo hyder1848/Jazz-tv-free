@@ -305,4 +305,15 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-L/ch
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-reconnect-delay=5
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91H/chunks.m3u8
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:-1 tvg-id="ptvsports.pk" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/PTV_Sports_logo.png" group-title="Sports" catchup="shift" catchup-days="1",PTV Sports
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-reconnect-delay=0
+https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/177M/playlist.m3u8
+
+
+
+
 
