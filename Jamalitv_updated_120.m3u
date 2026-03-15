@@ -321,10 +321,9 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91H/chun
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-reconnect-delay=3
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91M/chunks.m3u8
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-id="ptvhome.pk" tvg-name="PTV Home" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/51/PTV_Home_logo.png" group-title="ptvhome",PTV Home
+#EXTINF:-1 tvg-id="ptvhome.pk" tvg-name="PTV Home" group-title="Hyder",PTV Home
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-reconnect-delay=5
-#EXTVLCOPT:network-caching=5
-#EXTVLCOPT:live-caching=5
+#EXTVLCOPT:http-reconnect-delay=1
 https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8
+https://cdn07lhr.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8
+https://cdn07isb.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8
