@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="ENTERTAINMENT",KTN ENTERTAINMENT
+EXTINF:-1 group-title="ENTERTAINMENT",KTN ENTERTAINMENT
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjYgODo1NDowNiBQTSZoYXNoX3ZhbH
 #EXTINF:-1 group-title="SINDHI HD",KTN ENTERTAINMENT HD
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/live/vsat-105H/chunks.m3u8
@@ -311,6 +311,6 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91H/chun
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-reconnect-delay=3
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjYgODo1NDo
-
-
-
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-reconnect-delay=3
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjYgODo1NDowNiBQTSZ
