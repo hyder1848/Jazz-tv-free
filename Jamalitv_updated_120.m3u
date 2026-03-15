@@ -288,7 +288,8 @@ https://cdn24lhr.tamashaweb.com:8087/jazzauth/365News-abr/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH NEWS",BBC NEWS
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/BBCNEWS-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMS8yMDI2IDQ6MTQ6MTIgUE0maGFzaF92YWx1ZT1VNzI0QlRrNk1zWkM2Z1pJOHVIQk1RPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/BBCNEWS-abr/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",PAK VS BAN
-https://cdn01lhr-n.tamashaweb.com:8087/jazzauth/PAKvsBAN-ODI26-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMS8yMDI2IDQ6MTM6MDkgUE0maGFzaF92YWx1ZT0zdU85Y3M4M0JNQ1dTUS9zemdrdG93PT0mdmFsaWRtaW51dGVzPTYw
+https://cdn01lhr-n.tamashaweb.com:8087/jazzauth#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-reconnect-delay=5
 #EXTINF:-1 group-title="News",SUNTV 
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/SUN-NEWS-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMS8yMDI2IDY6MTI6NTMgUE0maGFzaF92YWx1ZT04UkpvUXZSRTg5NXVnbkdXcUMvYXRnPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/SUN-NEWS-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ktn.ent" tvg-name="KTN Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/KTN_Entertainment_logo.png/320px-KTN_Entertainment_logo.png" group-title="Entertainment",KTN Entertainment
@@ -300,6 +301,8 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/in
 #EXTINF:-1 tvg-id="PTVSports.pk" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/PTV_Sports_logo.png/320px-PTV_Sports_logo.png" group-title="sport2",PTV Sports
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189M/playlist.m3u8
 #EXTINF:-1 tvg-id="PTVSPORTS.pk" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/PTV_Sports_logo.png" group-title="sport2" tvg-parental="0001",PTV Sports
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-reconnect-delay=5
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189M/playlist.m3u8
 #EXTINF:-1 tvg-name="Geo News" group-title="News",Geo News
 #EXTVLCOPT:http-reconnect=true
