@@ -316,8 +316,8 @@ https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/playlist_dvr_time
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-L/chunks.m3u8
 #EXTINF:-1 tvg-id="expressnews.pk" tvg-name="Express News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Express_News_logo.png" group-title="News",Express News
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-reconnect-delay=600
+#EXTVLCOPT:http-reconnect-delay=300
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91H/chunks.m3u8
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-reconnect-delay=600
+#EXTVLCOPT:http-reconnect-delay=300
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91M/chunks.m3u8
