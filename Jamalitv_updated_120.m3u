@@ -333,3 +333,9 @@ https://cdn07isb.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8
 https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8
 https://cdn07isb.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8
+#EXTINF:-1 group-title="Hyder",KTN News
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-reconnect-delay=1
+https://cdn05khi.tamashaweb.com:8087/jazzauth/ktnnews-abr/playlist.m3u8
+https://cdn07lhr.tamashaweb.com:8087/jazzauth/ktnnews-abr/playlist.m3u8
+https://cdn07isb.tamashaweb.com:8087/jazzauth/ktnnews-abr/playlist.m3u8
