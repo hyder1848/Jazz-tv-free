@@ -341,15 +341,15 @@ https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/playlist_dvr_time
 #EXT-X-STREAM-INF:BANDWIDTH=900000
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189M/playlist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=900000
-https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189L/playlist.m3u8
+https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189M/playlist.m3u8
 #EXTINF:-1 group-title="Hyder",expressnews
 #EXT-X-STREAM-INF:BANDWIDTH=80000
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91H/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=80000
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91M/chunks.m3u8
 #EXTINF:-1 group-title="Hyder", PTVHOME 
-#EXT-X-STREAM-INF:BANDWIDTH=900000
+#EXT-X-STREAM-INF:BANDWIDTH=800000
 https://cdn07isb.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=900000
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVHome-abr/live/190L/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVHome-abr/live/190H/chunks.m3u8
 
