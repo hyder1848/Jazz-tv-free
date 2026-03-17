@@ -337,7 +337,7 @@ https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189M/playlist.m3u8
 https://cdn05khi.tamashaweb.com:8087/jazzauth/ktnnews-abr/playlist.m3u8
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/ktnnews-abr/playlist.m3u8
 https://cdn07isb.tamashaweb.com:8087/jazzauth/ktnnews-abr/playlist.m3u8
-#EXTM3U
+#EXTINF:-1 group-title="Hyder",movie
 #EXT-X-STREAM-INF:BANDWIDTH=800000
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/177H/playlist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=800000
