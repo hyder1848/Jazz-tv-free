@@ -327,10 +327,6 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91M/chun
 https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8
 https://cdn07isb.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8
-#EXTINF:-1 group-title="Hyder",ptv sports 
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-reconnect-delay=1
-https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189M/playlist.m3u8
 #EXTINF:-1 group-title="Hyder",KTN News
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-reconnect-delay=1
@@ -347,3 +343,8 @@ https://cdn24lhr.tamashaweb.com:8087/YlUHeDQb7a/177H/playlist.m3u8
 #EXTINF:-1 group-title="Hyder",Geonews
 #EXT-X-STREAM-INF:BANDWIDTH=900000,NAME="Backup 1"
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/playlist_dvr_timeshift-0-3600.m3u8
+#EXTINF:-1 group-title="Hyder",ptv sports
+#EXT-X-STREAM-INF:BANDWIDTH=900000
+https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189M/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=900000
+https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189H/playlist.m3u8
