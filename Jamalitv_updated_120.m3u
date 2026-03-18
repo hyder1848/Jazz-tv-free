@@ -347,4 +347,5 @@ https://raw.githubusercontent.com/hyder1848/Jazz-tv-free/main/Jamalitv_updated_1
 https://cdn07isb.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=800000
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVHome-abr/live/190H/chunks.m3u8
-
+#EXTINF:-1 group-title="PSL", TAMASHA
+https://cdn02lhr-n.tamashaweb.com:8087/jazzauth/PSL-2026-abr/playlist.m3u8
