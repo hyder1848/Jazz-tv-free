@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="ENTERTAINMENT",KTN tv
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/live/vsat-105H/chunks.m3u8
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 tvg-id="KTN News" tvg-name="KTN News" group-title="News",KTN News
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ktnNews-abr/live/vsat-132H/chunks.m3u8
@@ -351,3 +349,5 @@ https://cdn02lhr-n.tamashaweb.com:8087/jazzauth/PSL-2026-abr/playlist.m3u8
 https://cdn15lhr.tamashaweb.com:8087/jazzauth/PSL_2026_URDU_ABR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDI2IDM6NTM6NTkgUE0maGFzaF92YWx1ZT1YTE5ZdzR6eHg0RjJlTEVFTEttbVJBPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-id="KashishTV.pk" tvg-name="Kashish TV",Kashish TV
 https://cdn12isb.tamashaweb.com:8087/jazzauth/KashishTV-abr/live/vsat-115M/chunks.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",KTN tv
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/live/vsat-105M/chunks.m3u8
