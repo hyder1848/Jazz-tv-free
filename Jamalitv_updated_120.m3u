@@ -351,3 +351,5 @@ https://cdn15lhr.tamashaweb.com:8087/jazzauth/PSL_2026_URDU_ABR/playlist.m3u8?wm
 https://cdn12isb.tamashaweb.com:8087/jazzauth/KashishTV-abr/live/vsat-115M/chunks.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",KTN tv
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/live/vsat-105M/chunks.m3u8
+#EXTINF:-1 tvg-id="GeoNews.pk" tvg-name="Geo News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Geo_News_Logo.png/320px-Geo_News_Logo.png" group-title="Zong",Geo News
+https://s4.ideationtec.live/GEO_News/GEO_News.m3u8
