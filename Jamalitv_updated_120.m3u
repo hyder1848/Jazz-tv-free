@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT",KTN ENTERTAINMENT 
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/live/vsat-105H/chunks.m3u8
-#EXTINF:-1 tvg-id="KashishTV.pk" tvg-name="Kashish TV" group-title="Sindhi",Kashish TV
+#EXTINF:-1 tvg-id="KashishTV.pk" tvg-name="Kashish TV",Kashish TV
 https://cdn12isb.tamashaweb.com:8087/jazzauth/KashishTV-abr/live/vsat-115M/chunks.m3u8
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 tvg-id="KTN News" tvg-name="KTN News" group-title="News",KTN News
