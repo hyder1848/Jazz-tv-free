@@ -363,5 +363,9 @@ https://cdn24lhr.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/live/vsat-105
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/KashishTV-abr/live/150M/chunks.m3u8
 #EXTINF:-1 group-title="Sindhi",Kashish TV Auto
 https://cdn12khi.tamashaweb.com:8087/jazzauth/KashishTV-abr/live/vsat-115L/chunks.m3u8
-#EXTINF:-1 group-title="Sindhi",Kashish TV Auto
+#EXTINF:-1 group-title="Sindhi",Kashish TV 
 https://cdn12isb.tamashaweb.com:8087/jazzauth/KashishTV-abr/live/vsat-115H/chunks.m3u8
+#EXTINF:-1 group-title="PSL LIVE",PSL LIVE urdu
+https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
+#EXTINF:-1 group-title="PSL LIVE",PSL LIVE English 
+https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
