@@ -369,3 +369,6 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/KashishTV-abr/live/vsat-115H/chunk
 https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
 #EXTINF:-1 group-title="PSL LIVE",PSL LIVE English 
 https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
+#EXTINF:-1 group-title="PSL LIVE",T sport LIVE
+https://billowing-disk-6f25.jannatulbusra000.workers.dev/?url=http%3A%2F%2Fstvlive.net%3A8080%2Ftsports1%2Ftracks-v1a1%2Fmono.m3u8
+
