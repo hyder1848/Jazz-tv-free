@@ -214,5 +214,30 @@ https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/157-2M/playlist.m3u8
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/157-4M/playlist.m3u8
 #EXTINF:-1, HUM tv
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/humTV-abr/playlist.m3u8
+#EXTINF:-1, BOL TV ENTERTAINMENT 
+https://cdn12isb.tamashaweb.com:8087/jazzauth/BolEntertainment-abr/live/vsat-144H/chunks.m3u8
+#EXTINF:-1, ARY NEWS 
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-M/chunks.m3u8
+#EXTINF:-1, MEHRAN TV SINDHI 
+https://cdn12isb.tamashaweb.com:8087/jazzauth/MehranTV-abr/live/vsat-106M/chunks.m3u8
+#EXTINF:-1, SINDHI TV NEWS
+https://cdn12isb.tamashaweb.com:8087/jazzauth/SindhNews-abr/live/vsat-80M/chunks.m3u8
+#EXTINF:-1, SINDH TV HD
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/sindhTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMjYgMzowNjoyMyBQTSZoYXNoX3ZhbHVlPWk1OUt6LzF5Rm9PTkR4c0ZzUEhGTXc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/sindhTV-abr/playlist.m3u8
+#EXTINF:-1, PLANET TV
+https://cdn12isb.tamashaweb.com:8087/jazzauth/AnimalPlanet-abr/live/158-3M/chunks.m3u8
+#EXTINF:-1, CN CARTOON
+https://cdn12isb.tamashaweb.com:8087/jazzauth/cartoonnetwork-abr/playlist.m3u8
+#EXTINF:-1, BBC EARTH 
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/BBC-Earth-abr/playlist.m3u8
+#EXTINF:-1, BBC life style 
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/BBC-Lifestyle-abr/playlist.m3u8
+#EXTINF:-1, BBC NEWS 
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/BBCNEWS-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMS8yMDI2IDQ6MTQ6MTIgUE0maGFzaF92YWx1ZT1VNzI0QlRrNk1zWkM2Z1pJOHVIQk1RPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/BBCNEWS-abr/playlist.m3u8
+#EXTINF:-1, TAMASHA SPORTS
+https://tencentcdn5.tamashaweb.com/v1/0196159eeff41eb4611d121c76c781/0196159f51bb1ea5064913eb2a83ea/TMSH_U1_WEB.m3u8?timeshift=1&delay=1800&mode=6
+#EXTINF:-1, EXPRESS NEWS
+https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91M/chunks.m3u8
+
 
 
