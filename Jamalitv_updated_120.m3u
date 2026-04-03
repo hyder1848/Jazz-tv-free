@@ -216,6 +216,8 @@ https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/157-4M/playlist.m3u8
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/humTV-abr/playlist.m3u8
 #EXTINF:-1, BOL TV ENTERTAINMENT 
 https://cdn12isb.tamashaweb.com:8087/jazzauth/BolEntertainment-abr/live/vsat-144H/chunks.m3u8
+#EXTINF:-1,  ARY DIGITAL 
+https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arydigital-abr/live/84H/chunks_dvr_timeshift-0-3600.m3u8
 #EXTINF:-1, ARY NEWS 
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-M/chunks.m3u8
 #EXTINF:-1, MEHRAN TV SINDHI 
