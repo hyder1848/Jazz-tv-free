@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Madni tv
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Madni-abr/live/vsat-94M/chunks.m3u8
 #EXTINF:-1,Teen sport LIVE
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/157-3M/playlist.m3u8
 #EXTINF:-1,test 100M
