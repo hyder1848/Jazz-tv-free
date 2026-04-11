@@ -240,8 +240,10 @@ https://cdn22lhr.tamashaweb.com:8087/jazzauth/BBCNEWS-abr/playlist.m3u8?wmsAuthS
 https://tencentcdn5.tamashaweb.com/v1/0196159eeff41eb4611d121c76c781/0196159f51bb1ea5064913eb2a83ea/TMSH_U1_WEB.m3u8?timeshift=1&delay=1800&mode=6
 #EXTINF:-1, EXPRESS NEWS
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91M/chunks.m3u8
-#EXTINF:-1, DD NATIONAL INDIA JAMALI CABLE 
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u
+#EXTINF:-1, DD NATIONAL HQ JAMALI CABLE 
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index_1.m3u8
+#EXTINF:-1, DD NATIONAL HD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index_5.m3u8
 #EXTINF:-1, AJJ NEWS INDIA JAMALI CABALE
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_234p/chunks.m3u8
 #EXTINF:-1, TV9 INDIA JAMALI CABLE 
