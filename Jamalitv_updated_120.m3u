@@ -118,7 +118,7 @@ https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/155M/playlist.m3u8
 #EXTINF:-1,See tv
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/156M/playlist.m3u8
 #EXTINF:-1,Channel 157M
-https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/157M/playlist.m3u8
+https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/157H/playlist.m3u8
 #EXTINF:-1,Channel 158M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/158M/playlist.m3u8
 #EXTINF:-1,Channel 159M
@@ -256,8 +256,8 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgt
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, AFRA FILM TV
 https://afrafhls.wns.live/hls/stream.m3u8
-
-
+#EXTINF:-1, TAMASHA SPORTS
+https://awscdn1.tamashaweb.com/out/v1/ce90227a71444af18fddc88750c08f76/index.m3u8?start=1775901600
 
 
 
