@@ -257,7 +257,7 @@ https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist
 #EXTINF:-1, AFRA FILM TV
 https://afrafhls.wns.live/hls/stream.m3u8
 #EXTINF:-1, TAMASHA SPORTS
-https://awscdn1.tamashaweb.com/out/v1/ce90227a71444af18fddc88750c08f76/index.m3u8?start=1775901600
+https://tencentcdn2.tamashaweb.com/v1/0192bed4e5f11ea506ec1afe4c6abd/0192bed664ae1ea506491378f278b7/tmsh_srt_output_480p.m3u8?timeshift=1&mode=6&delay=1800
 #EXTINF:-1, TEEN SPORTS PAKISTAN 
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/157-3H/playlist.m3u8
 #EXTINF:-1, Ptv bolan balochi
@@ -282,8 +282,18 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/ktnNews-abr/live/vsat-132H/chunks.
 https://cdn12isb.tamashaweb.com:8087/jazzauth/SindhNews-abr/live/vsat-80M/chunks.m3u8
 #EXTINF:-1, Mehran tv
 https://cdn12isb.tamashaweb.com:8087/jazzauth/MehranTV-abr/live/vsat-106L/chunks.m3u8
-#EXTINF:-1, Sindh tv entertainment 
+#EXTINF:-1, Sindh tv
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/sindhTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMjYgMzowNjoyMyBQTSZoYXNoX3ZhbHVlPWk1OUt6LzF5Rm9PTkR4c0ZzUEhGTXc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/sindhTV-abr/playlist.m3u8
 #EXTINF:-1, EURO SPORTS
 https://cdn02khi.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI1IDg6MTQ6NDIgUE0maGFzaF92YWx1ZT1xMytpSUY4RXorTWd2NXhTK2c1WEtRPT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1, ANN ENTERMINT 
+https://cdn02khi.tamashaweb.com:8087/jazzauth/AAN-TV-abr/playlist.m3u8?wmsAuthSign=
+#EXTINF:-1, CHANNEL 5
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Channel5-abr/playlist.m3u8?wmsAuthSign=
+#EXTINF:-1, MINIMAX CARTOON
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/Minimax-abr/playlist.m3u8?wmsAuthSign=
+#EXTINF:-1, BABY TV
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/BabyTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDI1IDE6MzE6MTcgUE0maGFzaF92YWx1ZT1Uck1oY3g2MVNBRHVScFJydHBWYlBnPT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1, WASEEB TV
+https://cdn02khi.tamashaweb.com:8087/jazzauth/waseeb-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjUgNDowMjoxNCBBTSZoYXNoX3ZhbHVlPVIzaFBsZGl1RE93U1M0c05uYyswQkE9PSZ2YWxpZG1pbnV0ZXM9MTA=
 
