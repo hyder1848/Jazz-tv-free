@@ -300,4 +300,7 @@ https://cdn23lhr.tamashaweb.com:8087/jazzauth/Minimax-abr/playlist.m3u8?wmsAuthS
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/BabyTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDI1IDE6MzE6MTcgUE0maGFzaF92YWx1ZT1Uck1oY3g2MVNBRHVScFJydHBWYlBnPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1, WASEEB TV
 https://cdn02khi.tamashaweb.com:8087/jazzauth/waseeb-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjUgNDowMjoxNCBBTSZoYXNoX3ZhbHVlPVIzaFBsZGl1RE93U1M0c05uYyswQkE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, ARY DIGITAL RAPEAT
+https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arydigital-abr/live/84M/chunks_dvr_timeshift-200000-200000.m3u8
+
 
