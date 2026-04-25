@@ -280,6 +280,8 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/KashishTV-abr/live/vsat-115L/chunk
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDI2IDQ6MDg6MjEgQU0maGFzaF92YWx1ZT1lSFo2TTFDbXlKZ0haM25OZU9NTjVnPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/ktnEntertainment-abr/playlist.m3u8
 #EXTINF:-1, KTN NEWS
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ktnNews-abr/live/vsat-132H/chunks.m3u8
+#EXTINF:-1, KTN NEWS LQ
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/ktnNews-abr/live/vsat-132L/chunks.m3u8?nimblesessionid=9914500&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDI2IDExOjA5OjU5IEFNJmhhc2hfdmFsdWU9cVppU1dnWGtKbFByTHV6RHNlNVd3QT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/ktnNews-abr/playlist.m3u8
 #EXTINF:-1, sindh tv news
 https://cdn12isb.tamashaweb.com:8087/jazzauth/SindhNews-abr/live/vsat-80M/chunks.m3u8
 #EXTINF:-1, Mehran tv
