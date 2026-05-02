@@ -316,7 +316,7 @@ https://cdn10lhr.tamashaweb.com:8087/jazzauth/PAKvsZIMWODI26-ABR/live/PAKvsZIM-W
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/MovieOne-abr/live/Livesoon/chunks.m3u8
 #EXTINF:-1, TAMSHA NEWS
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Tamasha-News-abr/live/AI-News_480p/chunks.m3u8
-#EXTINF:-1, TAMASHA NEWS
+#EXTINF:-1, TAMASHA women
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Tamasha-Women-abr/live/twc2025_720p/chunks.m3u8
-TAMASHA LIFE
+#EXTINF:-1, TAMASHA life
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Tamasha-Life-HD-abr/live/Tamasha-Life-HD-M/chunks.m3u8
