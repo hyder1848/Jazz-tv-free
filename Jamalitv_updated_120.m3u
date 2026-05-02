@@ -226,6 +226,8 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/BolEntertainment-abr/live/vsat-144
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arydigital-abr/live/84H/chunks_dvr_timeshift-0-3600.m3u8
 #EXTINF:-1, ARY NEWS 
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-M/chunks.m3u8
+#EXTINF:-1, ARY NEWS HD
+https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/83M/chunks_dvr_timeshift-0-3600.m3u8
 #EXTINF:-1, MEHRAN TV SINDHI 
 https://cdn12isb.tamashaweb.com:8087/jazzauth/MehranTV-abr/live/vsat-106M/chunks.m3u8
 #EXTINF:-1, SINDHI TV NEWS
@@ -310,5 +312,5 @@ https://cdn24lhr.tamashaweb.com:8087/jazzauth/TvToday-abr/live/Today_News-L/chun
 https://cdn05khi.tamashaweb.com:8087/jazzauth/DiscoveryHD-abr/live/178M/chunks.m3u8
 #EXTINF:-1, pak vs zim women cricket live
 https://cdn10lhr.tamashaweb.com:8087/jazzauth/PAKvsZIMWODI26-ABR/live/PAKvsZIM-W-promo/chunks.m3u8
-
-
+#EXTINF:-1, MOVIE ONE JAMALI CABLE
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/MovieOne-abr/live/Livesoon/chunks.m3u8
