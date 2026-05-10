@@ -247,19 +247,7 @@ https://cdn22lhr.tamashaweb.com:8087/jazzauth/BBCNEWS-abr/playlist.m3u8?wmsAuthS
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91M/chunks.m3u8
 #EXTINF:-1, DD NATIONAL HQ JAMALI CABLE 
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index_1.m3u8
-#EXTINF:-1, DD NATIONAL HD
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index_5.m3u8
-#EXTINF:-1, DD SPORTS
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1, AJJ NEWS INDIA JAMALI CABALE
-https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_234p/chunks.m3u8
-#EXTINF:-1, TV9 INDIA JAMALI CABLE 
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_360p/chunks.m3u8
-#EXTINF:-1, B4U MUSIC JAMALI CABLE 
-https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1, AFRA FILM TV
-https://afrafhls.wns.live/hls/stream.m3u8
-#EXTINF:-1, TAMASHA SPORTS
+
 #EXTINF:-1, TEEN SPORTS PAKISTAN 
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/157-3H/playlist.m3u8
 #EXTINF:-1, Ptv bolan balochi
@@ -334,6 +322,18 @@ https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/ts-eu-w1-n2/playlist/
 https://d3gnyty2vddhsg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/ae0c3dd0-6317-4ff7-a3ce-48a2785043a3/0.m3u8
 #EXTINF:-1, JAMALI Music tv
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/manifest/5.m3u8
+#EXTINF:-1, DD NATIONAL HQ JAMALI CABLE 
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index_1.m3u8
+#EXTINF:-1, DD NATIONAL HD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index_5.m3u8
+#EXTINF:-1, DD SPORTS
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1, AJJ NEWS INDIA JAMALI CABALE
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_234p/chunks.m3u8
+#EXTINF:-1, TV9 INDIA JAMALI CABLE 
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_360p/chunks.m3u8
+#EXTINF:-1, B4U MUSIC JAMALI CABLE 
+https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8
 
 
 
