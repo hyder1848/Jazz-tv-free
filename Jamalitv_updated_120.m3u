@@ -339,10 +339,10 @@ https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1, mh1 india
 https://mumt01.tangotv.in/MHONEDILSE/tracks-v2a1/mono.m3u8
-
-
-
-
-
-
+#EXTINF:-1, Geo super HD paid
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1, Geo super LQ
+https://ml-pull-dvc-myco.io:2096/GEO_SUPER/tracks-v5a1/mono.ts.m3u8
+#EXTINF:-1, Geo super MQ
+https://ml-pull-dvc-myco.io:2096/GEO_SUPER/tracks-v3a1/mono.ts.m3u8
 
