@@ -349,9 +349,8 @@ https://ml-pull-dvc-myco.io:2096/GEO_SUPER/tracks-v3a1/mono.ts.m3u8
 https://tapmadlive.akamaized.net:443/tapmadold/tensports.smil/chunklist_w1346140991_b1248000_slENG.m3u8
 #EXTINF:-1, ATV TAPMAD TV
 https://tapmadlive.akamaized.net:443/tapmadold/atv.smil/chunklist_w1409135523_b748000_slEng.m3u8
-#EXTINF:-1, jamali sport
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-
+#EXTINF:-1, STAR GOLD
+http://185.207.34.31:8000/play/a01e/index.m3u8
 
 
 
