@@ -345,14 +345,13 @@ https://ml-pull-dvc-myco.io:2096/GEO_SUPER/tracks-v2a1/mono.ts.m3u8
 https://ml-pull-dvc-myco.io:2096/GEO_SUPER/tracks-v5a1/mono.ts.m3u8
 #EXTINF:-1, Geo super MQ paid
 https://ml-pull-dvc-myco.io:2096/GEO_SUPER/tracks-v3a1/mono.ts.m3u8
-#EXTINF:-1, teen sport tapmad tv
+#EXTINF:-1, teen sport tapmad tv MB
 https://tapmadlive.akamaized.net:443/tapmadold/tensports.smil/chunklist_w1346140991_b1248000_slENG.m3u8
-#EXTINF:-1, ATV TAPMAD TV
+#EXTINF:-1, ATV TAPMAD TV MB
 https://tapmadlive.akamaized.net:443/tapmadold/atv.smil/chunklist_w1409135523_b748000_slEng.m3u8
-#EXTINF:-1, STAR GOLD
-http://185.207.34.31:8000/play/a01e/index.m3u8
-#EXTINF:-1, test link
-http://58.147.140.106:4000/play/a0i7/89732884.m3u8
+#EXTINF:-1, DHARTI TV PAID MB
+https://tapmadlive.akamaized.net/tapmadold/dhartitv.smil/chunklist_w1381970605_b748000_slEng.m3u8
+#EXTINF:-1, 
 
 
 
