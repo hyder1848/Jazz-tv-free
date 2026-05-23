@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1,Madni tv Jazz jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/Madni-abr/live/vsat-94M/chunks.m3u8
+
 #EXTINF:-1,Teen sport LIVE jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/157-3M/playlist.m3u8
+
 #EXTINF:-1,test 100M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/100M/playlist.m3u8
 #EXTINF:-1,Channel 101M
@@ -323,6 +325,8 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/in
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index_5.m3u8
 #EXTINF:-1, DD SPORTS paid mb
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1, DD PUJABI PAID MB
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8
 #EXTINF:-1, AJJ NEWS INDIA JAMALI CABALE
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_234p/chunks.m3u8
 #EXTINF:-1, TV9 INDIA JAMALI CABLE 
@@ -353,50 +357,34 @@ https://tapmadlive.akamaized.net/tapmadold/mehran.smil/playlist.m3u8?
 https://tapmadlive.akamaized.net/tapmadold/365news.smil/chunklist_w91200372_b748000_slEng.m3u8
 #EXTINF:-1, OUR Ent TV TAPMAD
 https://tapmadlive.akamaized.net/tapmadold/Aurlife.smil/chunklist_w1711928134_b748000_slEng.m3u8
-#EXTM3U
-
 #EXTINF:-1,A Plus zong tv
 https://s3.ideationtec.live/A_Plus/A_Plus.m3u8
-
 #EXTINF:-1,Express Entertainment zong tv
 https://s3.ideationtec.live/Express_Entertainment/Express_Entertainment.m3u8
-
 #EXTINF:-1,SAB Entertainment zong tv
 https://s1.ideationtec.live/SAB_Entertainment/SAB_Entertainment.m3u8
-
 #EXTINF:-1,Mehran TV zong tv
 https://s2.ideationtec.live/Mehran_TV/Mehran_TV.m3u8
-
 #EXTINF:-1,GEO News zong tv
 https://s4.ideationtec.live/GEO_News/GEO_News.m3u8
-
 #EXTINF:-1,Sindh TV zong tv
 https://s1.ideationtec.live/Sindh_TV/Sindh_TV.m3u8
-
 #EXTINF:-1,Samaa TV zong tv
 https://s5.ideationtec.live/Samaa_TV/Samaa_TV.m3u8
-
 #EXTINF:-1,AAJ Entertainment zong tv
 https://s2.ideationtec.live/AAJ_Entertainment/AAJ_Entertainment.m3u8
-
 #EXTINF:-1,BOL News HD zong tv
 https://s5.ideationtec.live/BOL_News_HD/BOL_News_HD.m3u8
-
 #EXTINF:-1,GTV News HD zong tv
 https://s4.ideationtec.live/GTV_News_HD/GTV_News_HD.m3u8
-
 #EXTINF:-1,GNN HD zong tv
 https://s5.ideationtec.live/GNN_HD/GNN_HD.m3u8
-
 #EXTINF:-1,Aaj News zong tv
 https://s4.ideationtec.live/Aaj_News/Aaj_News.m3u8
-
 #EXTINF:-1,Express News zong tv
 https://s5.ideationtec.live/Express_News/Express_News.m3u8
-
 #EXTINF:-1,Dawn News zong tv
 https://s5.ideationtec.live/Dawn/Dawn.m3u8
-
 #EXTINF:-1,Such TV HD zong tv
 https://s4.ideationtec.live/Such_TV_HD/Such_TV_HD.m3u8
 
