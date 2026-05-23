@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Madni tv Jazz jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/Madni-abr/live/vsat-94M/chunks.m3u8
-
 #EXTINF:-1,Teen sport LIVE jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/157-3M/playlist.m3u8
-
 #EXTINF:-1,test 100M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/100M/playlist.m3u8
 #EXTINF:-1,Channel 101M
@@ -387,16 +385,12 @@ https://s5.ideationtec.live/Express_News/Express_News.m3u8
 https://s5.ideationtec.live/Dawn/Dawn.m3u8
 #EXTINF:-1,Such TV HD zong tv
 https://s4.ideationtec.live/Such_TV_HD/Such_TV_HD.m3u8
-
 #EXTINF:-1,Film World zong tv
 https://s3.ideationtec.live/Film_World/Film_World.m3u8
-
 #EXTINF:-1,City 41 zong tv
 https://s2.ideationtec.live/City_41/City_41.m3u8
-
 #EXTINF:-1,LTN Family HD zong tv
 https://s3.ideationtec.live/LTN_Family_HD/LTN_Family_HD.m3u8
-
 #EXTINF:-1,Saudi Sunnah HD zong tv
 https://s1.ideationtec.live/Saudi_Sunnah_HD/Saudi_Sunnah_HD.m3u8
 
