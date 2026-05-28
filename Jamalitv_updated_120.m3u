@@ -422,14 +422,14 @@ https://s3.ideationtec.live/LTN_Family_HD/LTN_Family_HD.m3u8
 https://s1.ideationtec.live/Saudi_Sunnah_HD/Saudi_Sunnah_HD.m3u8
 #EXTINF:-1, ZEE CINEMA
 http://103.99.249.139/zeecinema/index.m3u8
-
-
-
-
-
-
-
-
+#EXTINF:-1, STAR GOLD
+http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
+#EXTINF:-1, ZEE TV
+http://103.99.249.139/zeetv/index.m3u8
+#EXTINF:-1, SONY MAX
+http://103.99.249.139/sonymax/index.m3u8
+#EXTINF:-1, SONY SAB
+http://103.99.249.139/sonysab/index.m3u8
 
 
 
