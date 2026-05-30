@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1, PTV SPORT 360x240
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189M/playlist.m3u8
-#EXTINF:-1, PTV SPORT 720x480
+#EXTINF:-1, PTV SPORTHD
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189H/playlist.m3u8
 #EXTINF:-1, PTV SPORT HQ
 https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8
