@@ -185,8 +185,6 @@ https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/174M/playlist.m3u8
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/175M/playlist.m3u8
 #EXTINF:-1,Filmax movie jazz free
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/Filmax-abr/live/vsat-filmax-L/chunks.m3u8?nimblesessionid=18166307&wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjYgOTowODowMCBBTSZoYXNoX3ZhbHVlPWtjRXFLNkE0U2EwV0FWRE8xSjF3bGc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/Filmax-abr/playlist.m3u8
-#EXTINF:-1,MOVIE jazz free
-https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/176M/playlist.m3u8
 #EXTINF:-1,JAMALI MOVIE jazz free 03013201848
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/177M/playlist.m3u8
 #EXTINF:-1,DISCOVERY TV jazz free
@@ -368,64 +366,12 @@ https://cdn-4.pishow.tv/live/8/master.m3u8
 https://cdn-4.pishow.tv/live/8/8_1.m3u8
 #EXTINF:-1, mh1 india
 https://mumt01.tangotv.in/MHONEDILSE/tracks-v2a1/mono.m3u8
-#EXTINF:-1, Geo super HD paid
-https://ml-pull-dvc-myco.io:2096/GEO_SUPER/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1, Geo super LQ paid
-https://ml-pull-dvc-myco.io:2096/GEO_SUPER/tracks-v5a1/mono.ts.m3u8
-#EXTINF:-1, Geo super MQ paid
-https://ml-pull-dvc-myco.io:2096/GEO_SUPER/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1, teen sport tapmad tv MB
 https://tapmadlive.akamaized.net:443/tapmadold/tensports.smil/chunklist_w1346140991_b1248000_slENG.m3u8
 #EXTINF:-1, ATV TAPMAD TV MB
 https://tapmadlive.akamaized.net:443/tapmadold/atv.smil/chunklist_w1409135523_b748000_slEng.m3u8
 #EXTINF:-1, DHARTI TV TAPMAD
 https://tapmadlive.akamaized.net/tapmadold/dhartitv.smil/chunklist_w1381970605_b748000_slEng.m3u8
-#EXTINF:-1, 92HD PLUS NEWS PAID MB
-https://tapmadlive.akamaized.net/tapmadold/92news.smil/playlist.m3u8?
-#EXTINF:-1, MEHRAN TV TAPMAD
-https://tapmadlive.akamaized.net/tapmadold/mehran.smil/playlist.m3u8?
-#EXTINF:-1, 365 News tapmad tv
-https://tapmadlive.akamaized.net/tapmadold/365news.smil/chunklist_w91200372_b748000_slEng.m3u8
-#EXTINF:-1, OUR Ent TV TAPMAD
-https://tapmadlive.akamaized.net/tapmadold/Aurlife.smil/chunklist_w1711928134_b748000_slEng.m3u8
-#EXTINF:-1,A Plus zong tv
-https://s3.ideationtec.live/A_Plus/A_Plus.m3u8
-#EXTINF:-1,Express Entertainment zong tv
-https://s3.ideationtec.live/Express_Entertainment/Express_Entertainment.m3u8
-#EXTINF:-1,SAB Entertainment zong tv
-https://s1.ideationtec.live/SAB_Entertainment/SAB_Entertainment.m3u8
-#EXTINF:-1,Mehran TV zong tv
-https://s2.ideationtec.live/Mehran_TV/Mehran_TV.m3u8
-#EXTINF:-1,GEO News zong tv
-https://s4.ideationtec.live/GEO_News/GEO_News.m3u8
-#EXTINF:-1,Sindh TV zong tv
-https://s1.ideationtec.live/Sindh_TV/Sindh_TV.m3u8
-#EXTINF:-1,Samaa TV zong tv
-https://s5.ideationtec.live/Samaa_TV/Samaa_TV.m3u8
-#EXTINF:-1,AAJ Entertainment zong tv
-https://s2.ideationtec.live/AAJ_Entertainment/AAJ_Entertainment.m3u8
-#EXTINF:-1,BOL News HD zong tv
-https://s5.ideationtec.live/BOL_News_HD/BOL_News_HD.m3u8
-#EXTINF:-1,GTV News HD zong tv
-https://s4.ideationtec.live/GTV_News_HD/GTV_News_HD.m3u8
-#EXTINF:-1,GNN HD zong tv
-https://s5.ideationtec.live/GNN_HD/GNN_HD.m3u8
-#EXTINF:-1,Aaj News zong tv
-https://s4.ideationtec.live/Aaj_News/Aaj_News.m3u8
-#EXTINF:-1,Express News zong tv
-https://s5.ideationtec.live/Express_News/Express_News.m3u8
-#EXTINF:-1,Dawn News zong tv
-https://s5.ideationtec.live/Dawn/Dawn.m3u8
-#EXTINF:-1,Such TV HD zong tv
-https://s4.ideationtec.live/Such_TV_HD/Such_TV_HD.m3u8
-#EXTINF:-1,Film World zong tv
-https://s3.ideationtec.live/Film_World/Film_World.m3u8
-#EXTINF:-1,City 41 zong tv
-https://s2.ideationtec.live/City_41/City_41.m3u8
-#EXTINF:-1,LTN Family HD zong tv
-https://s3.ideationtec.live/LTN_Family_HD/LTN_Family_HD.m3u8
-#EXTINF:-1,Saudi Sunnah HD zong tv
-https://s1.ideationtec.live/Saudi_Sunnah_HD/Saudi_Sunnah_HD.m3u8
 #EXTINF:-1, Geo super
 https://jk3lz82elw79-hls-live.5centscdn.com/GeoSuper/074de7e7c226d5c60f8af14c20725352.sdp/chunks.m3u8
 
