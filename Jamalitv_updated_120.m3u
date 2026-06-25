@@ -384,6 +384,7 @@ https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HALLTIMEMOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1, E24 Music 
 https://trs1.aynaott.com/e24/tracks-v1a1/mono.ts.m3u8
-
-
-
+#EXTINF:-1, Epic tv
+https://cc-p1izg43bk7sj5.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/32cbe3b4-19e4-43b5-9393-4811a1f4cb63/3.m3u8
+#EXTINF:-1, Epic digital tv
+https://cc-czbq30x55knit.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/af5814cd-cc64-4fe8-a81d-4a041c7740cb/3.m3u8
