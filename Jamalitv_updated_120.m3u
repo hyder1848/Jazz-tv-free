@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, live cricketHD
-https://cdn14lhr.tamashaweb.com:8087/jazzauth/PAKvsWI-TEST26-abr/live/PAKvsWI_Dirty_7200p/chunks.m3u8
+https://cdn14lhr.tamashaweb.com:8087/jazzauth/PAKvsWI-TEST26-abr/live/PAKvsWI_Dirty_720p/chunks.m3u8?nimblesessionid=16663650&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNy8yMDI2IDQ6Mzg6MTIgUE0maGFzaF92YWx1ZT1TSEdOS1I5WUc5SmZnYlA0cnQzU0xRPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1, live cricket SD
 https://cdn14lhr.tamashaweb.com:8087/jazzauth/PAKvsWI-TEST26-abr/live/PAKvsWI_Dirty_240p/chunks.m3u8
 #EXTINF:-1, PTV SPORTHD
