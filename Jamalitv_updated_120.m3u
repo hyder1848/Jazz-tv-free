@@ -376,8 +376,8 @@ https://tapmadlive.akamaized.net:443/tapmadold/atv.smil/chunklist_w1409135523_b7
 https://tapmadlive.akamaized.net/tapmadold/dhartitv.smil/chunklist_w1381970605_b748000_slEng.m3u8
 #EXTINF:-1, Dd jharkhand
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2c6c5c20-6afe-47c4-934f-a0d7002cb151/2.m3u8
-#EXTINF:-1, Star plus 
-https://trs1.aynaott.com/starplushd/index.m3u8
+#EXTINF:-1, 7X Music
+https://stream.e2is.in/hls/7xMusic.m3u8
 #EXTINF:-1, Inwild india
 https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, Desi music 
@@ -386,8 +386,8 @@ https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 https://cdn-1.pishow.tv/live/10/master.m3u8
 #EXTINF:-1, E24 Music 
 https://trs1.aynaott.com/e24/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,epic tv india 
-https://cc-p1izg43bk7sj5.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/32cbe3b4-19e4-43b5-9393-4811a1f4cb63/3.m3u8
+#EXTINF:-1,DD KISAN
+https://cdn-6.pishow.tv/live/9/master.m3u8
 #EXTINF:-1,B4U kadak
 https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1,tv now test
@@ -400,3 +400,11 @@ https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/
 https://cdn-1.pishow.tv/live/15/master.m3u8
 #EXTINF:-1,DD2
 https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index_3.m3u8
+
+
+
+
+
+
+
+
