@@ -396,5 +396,7 @@ https://vg-timesgroup.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca14134
 https://d1msejlow1t3l4.cloudfront.net/fta/balleballe/chunks.m3u8
 #EXTINF:-1,COMDAY TAKA HINDI
 https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/0abe00bb-b6f3-4dcd-bdf6-12e74e08216c/55b5b59c-0d66-43c9-931c-9736c3470501/0.m3u8
-
-
+#EXTINF:-1,DD1
+https://cdn-1.pishow.tv/live/15/master.m3u8
+#EXTINF:-1,DD2
+https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index_3.m3u8
