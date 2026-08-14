@@ -426,3 +426,5 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 https://hls-mma-tv.cdnvideo.ru/mma-tv/mmatv.smil/tracks-v3a1/mono.ts.m3u8?m
 #EXTINF:-1, paktv
 https://cdn01isb-n.tamashaweb.com:8087/jazzauth/FIH-WC2026-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI2IDc6MjE6NDAgUE0maGFzaF92YWx1ZT1weTFPTSt6aVh5bzN3Q0FOVEtnSkhRPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1, ARY UK
+https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arydigital-abr/live/vsat-ary-L/chunks_dvr_timeshift-012600.m3u8
