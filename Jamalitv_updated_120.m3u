@@ -423,4 +423,4 @@ https://live-dangal.akamaized.net:443/liveabr/pub-iodang10p4al/live_720p/chunks.
 #EXTINF:-1, Hindihit 
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1, live sports
--mma-tv.cdnvideo.ru/mma-tv/mmatv.smil/tracks-v3a1/mono.ts.m3u8?ads.content_genre=Sports&ads.ctgr=Sport&ads.lang=English&ads.network_name=unitedteleports&ads.partner=unitedteleports&channel_name=mma&vg_cp=true
+https://hls-mma-tv.cdnvideo.ru/mma-tv/mmatv.smil/tracks-v3a1/mono.ts.m3u8?ads.content_genre=Sports&ads.ctgr=Sport&ads.lang=English&ads.network_name=unitedteleports&ads.partner=unitedteleports&channel_name=mma&vg_cp=true
