@@ -438,8 +438,8 @@ https://masjiddirectory.com/hls/close_destination.m3u8
 https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8
 #EXTINF:-1,M News
 https://cdn.rabta.stream/M-News/tracks-v1a1/mono.ts.m3u8
-
-
+#EXTINF:-1NOORTV INTERNATIONAL 
+https://sscsott.com/srt/noortvuk/index.fmp4.m3u8
 
 
 
