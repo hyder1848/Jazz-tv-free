@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 Cricket live
+https://cdn02isb-n.tamashaweb.com:8087/jazzauth/PAKvsEng-Test-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI2IDE6MzY6MjcgUE0maGFzaF92YWx1ZT1FTmhVeVd0ZjZ0RVlTRk5EcEpjb0VnPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1, live cricketHD
 https://cdn01lhr-n.tamashaweb.com:8087/jazzauth/PAKvsWI-TEST26-abr/playlist.m3u8
 #EXTINF:-1, live cricket SD
