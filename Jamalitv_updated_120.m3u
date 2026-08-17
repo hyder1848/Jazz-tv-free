@@ -448,6 +448,7 @@ https://cdn03isb-n.tamashaweb.com:8087/jazzauth/FIH-HWCC2026-abr/live/HWC_B-AVOD
 https://cdn01lhr-n.tamashaweb.com:8087/jazzauth/FIH-HWCC2026-abr/live/HWC_B-AVOD_360p/chunks.m3u8?nimblesessionid=6629557&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI2IDEyOjU3OjAzIFBNJmhhc2hfdmFsdWU9TXJERHJUcFlGNStWNXNDTWlkdThZZz09JnZhbGlkbWludXRlcz02MA%3D%3D
 #EXTINF:-1,Zindagitv
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist_w250056748_b598304.m3u8
-
+#EXTINF:-1, ABNNEWS
+https://video.abnnews.pk/abn/live/playlist.m3u8
 
 #EXTINF:-1,
