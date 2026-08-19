@@ -519,8 +519,8 @@ https://previewsecgire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1cc
 https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,ptvsport
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/level_4.m3u8
-
-
+#EXTINF:-1,star5
+https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 
 
 
