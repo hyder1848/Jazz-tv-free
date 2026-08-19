@@ -511,5 +511,5 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTM3U
 #EXTINF:-1,Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
-
-
+#EXTINF:-1,testtwo
+https://tvsen3.aynaott.com/Sports1/mono.m3u8
