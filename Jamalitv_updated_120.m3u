@@ -569,7 +569,9 @@ https://s2.itcnbd.live/server-2/stream/pogo_sd.m3u8
 
 #EXTINF:-1,PK Sports HD
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
-
+#EXTM3U
+#EXTINF:-1,PTV Sports
+https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8
 
 
 
