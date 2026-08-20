@@ -458,8 +458,9 @@ https://nl2-cdn.sepehrtv.org/securelive3/saharurdusd/324p.m3u8?s=kbVDorvsurpsKfk
 #EXTINF:-1,bstv pAKSET
 https://lbgo.bozztv.com/ssh101/ssh101/bstv/chunks.m3u8?lb_backend_hint=6
 
-#EXTINF:-1,lahorenews pakset 
-https://vcdn.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/chunklist_w7985181_b781072.m3u8
+#EXTINF:-1 tvg-name="Gazi TV" group-title="Bangladesh",Gazi TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
+```1
 
 #EXTINF:-1,ifilm english
 https://live.presstv.co.uk/hls/ifilmen.m3u8
