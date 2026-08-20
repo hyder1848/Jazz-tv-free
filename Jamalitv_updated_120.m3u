@@ -486,8 +486,10 @@ https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chunks.m3u8
 #EXTINF:-1,DD Jharkhand
 https://cdn-1.pishow.tv/live/1617/master.m3u8
 
-#EXTINF:-1,DD Kashir
+#EXTM3U
+#EXTINF:-1 tvg-id="DDKashir.in" tvg-name="DD Kashir" group-title="India",DD Kashir
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8
+
 #EXTINF:-1,DD Malayalam
 https://cdn-3.pishow.tv/live/27/master.m3u8
 #EXTINF:-1,DD National
