@@ -532,6 +532,39 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1,Zee Cinema HD
 https://s2.itcnbd.live/server-2/stream/zee_cinema_hd.m3u8
+#EXTM3U
 
+#EXTINF:-1,Zee TV HD
+https://s2.itcnbd.live/server-2/stream/zee_tv_hd.m3u8
+
+#EXTINF:-1,Zee Cinema HD
+https://s2.itcnbd.live/server-2/stream/zee_cinema_hd.m3u8
+
+#EXTINF:-1,Sony TV HD
+https://s2.itcnbd.live/server-2/stream/sonyentertainmnt_hd.m3u8
+
+#EXTINF:-1,Sony SAB HD
+https://s2.itcnbd.live/server-2/stream/sonysab_hd.m3u8
+
+#EXTINF:-1,Sony PIX HD
+https://s2.itcnbd.live/server-2/stream/sonypix_hd.m3u8
+
+#EXTINF:-1,Zee Action
+https://s2.itcnbd.live/server-2/stream/zee_action.m3u8
+
+#EXTINF:-1,TLC HD
+https://s2.itcnbd.live/server-2/stream/tlc_hd.m3u8
+
+#EXTINF:-1,TLC SD
+https://s2.itcnbd.live/server-2/stream/tlc_sd.m3u8
+
+#EXTINF:-1,Cartoon Network HD
+https://s2.itcnbd.live/server-2/stream/cartoon_network_hd.m3u8
+
+#EXTINF:-1,Cartoon Network SD
+https://s2.itcnbd.live/server-2/stream/cartoon_network_sd.m3u8
+
+#EXTINF:-1,Pogo
+https://s2.itcnbd.live/server-2/stream/pogo_sd.m3u8
 
 
