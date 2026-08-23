@@ -761,7 +761,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, Fune code sports 
 https://fancode.sm-monirul-islam-rs.workers.dev/4247552/index.m3u8
 
-
+#EXTM3U
+#EXTINF:-1,FanCode Live
+https://in-mc-flive.fancode.com/mumbai/4248496_english_hls_35a37c14f569430_1ta-di_h264/index.m3u8?hdnea=exp=1787489114~acl=/mumbai/4248496_english_hls_35a37c14f569430_1ta-di_h264/*~id=2404:3100:1455:df50:2ce5:f1ff:fe74:6def_4248496_c039117d-213b-42~data=2404:3100:1455:df50:2ce5:f1ff:fe74:6def_4248496_free_175~hmac=efe206fd1508a51346ea0a876f81dee997e9728997cc5f6133388460448a6868&deviceId=undefined&advertiserId=undefined&ft_type=c1
 
 
 
