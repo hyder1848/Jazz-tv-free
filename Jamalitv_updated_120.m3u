@@ -631,5 +631,57 @@ https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413
 https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8
 #EXTINF:-1 group-title="Music",MTV India
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
+#EXTM3U
+
+#EXTINF:-1 group-title="India News",ABP News
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8
+
+#EXTINF:-1 group-title="India News",Amar Ujala
+https://amarujala.ottlive.co.in/amarujala/index.m3u8
+
+#EXTINF:-1 group-title="India News",India Today
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8
+
+#EXTINF:-1 group-title="India News",India TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
+
+#EXTINF:-1 group-title="India News",News18 India
+https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 group-title="India News",News18 Urdu
+https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 group-title="India News",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1 group-title="India News",News 1 India
+https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8
+
+#EXTINF:-1 group-title="India News",News India 24x7
+https://cdn-3.pishow.tv/live/273/master.m3u8
+
+#EXTINF:-1 group-title="India News",India Daily Live
+https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8
+
+#EXTINF:-1 group-title="India News",India Ahead
+https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8
+
+#EXTINF:-1 group-title="India News",First India News
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+
+#EXTINF:-1 group-title="India News",Hindi Khabar
+https://d1msejlow1t3l4.cloudfront.net/fta/hindikhabar/playlist.m3u8
+
+#EXTINF:-1 group-title="India News",INH 24x7
+https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8
+
+#EXTINF:-1 group-title="India News",High News
+https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
+
+#EXTINF:-1 group-title="India News",Hornbill TV
+https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8
+
+
+
 
 
