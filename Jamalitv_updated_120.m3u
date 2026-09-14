@@ -467,7 +467,7 @@ https://cdn-3.pishow.tv/live/30/master.m3u8
 #EXTM3U
 
 #EXTINF:-1,DD Arun Prabha
-https://cdn-4.pishow.tv/live/32/master.m3u8
+https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
 
 #EXTINF:-1,DD Bangla
 https://cdn-4.pishow.tv/live/37/master.m3u8
@@ -477,13 +477,13 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/in
 
 
 #EXTINF:-1,DD Chandana
-https://cdn-3.pishow.tv/live/28/master.m3u8
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/3829f99b-4951-4a9d-98c1-dbc3acfe5193/2.m3u8
 
 #EXTINF:-1,DD India
 https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chunks.m3u8
 
 #EXTINF:-1,DD Jharkhand
-https://cdn-1.pishow.tv/live/1617/master.m3u8
+https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="DDKashir.in" tvg-name="DD Kashir" group-title="India",DD Kashir
