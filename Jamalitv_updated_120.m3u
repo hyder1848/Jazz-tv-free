@@ -703,7 +703,8 @@ https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
 
 #EXTINF:-1 group-title="India Music",MTV India
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-name="TEN 5 HD" group-title="Sports",TEN 5 HD
+https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 
 
 
