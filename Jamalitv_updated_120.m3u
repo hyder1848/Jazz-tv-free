@@ -709,15 +709,15 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/level_1.m3u8.liv
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/level_0.m3u8
 #EXTINF:-1,live tapmad
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/level_1.m3u8
-EXTINF:-1,live tamshatv
+#EXTINF:-1,live tamshatv
 https://cdn04fsd-n.tamashaweb.com:8087/jazzauth/PT2026-abr/live/PT-ISB_240p/chunks.m3u8?nimblesessionid=4672813&wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDI2IDk6NDY6MjQgQU0maGFzaF92YWx1ZT1LbkE5N1BFbXRpd3BuNUhoaEVtZlJ3PT0mdmFsaWRtaW51dGVzPTYw
-EXTINF:-1,live tamshatv b
+#EXTINF:-1,live tamshatv b
 https://cdn03khi-n.tamashaweb.com:8087/jazzauth/PT-B-2026-abr/live/PT-PES_240p/chunks.m3u8?nimblesessionid=8367172&wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDI2IDk6NDk6MzEgQU0maGFzaF92YWx1ZT04WW12b2RnNzgybVFkYVB1WlpSZ3ZRPT0mdmFsaWRtaW51dGVzPTYw
-EXTINF:-1,live tamshatv c
+#EXTINF:-1,live tamshatv c
 https://cdn05khi-n.tamashaweb.com:8087/jazzauth/PT-C-2026-abr/live/PT-ABT_240p/chunks.m3u8?nimblesessionid=12928437&wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDI2IDk6NTA6NTUgQU0maGFzaF92YWx1ZT1HMWFSSzk2Sm0zeDFqQmFuNlNCSHB3PT0mdmFsaWRtaW51dGVzPTYw
-EXTINF:-1,live tamshatv D
+#EXTINF:-1,live tamshatv D
 https://cdn06fsd-n.tamashaweb.com:8087/jazzauth/PT-D-2026-abr/live/PT-ISB2_240p/chunks.m3u8?nimblesessionid=4096658&wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDI2IDk6NTI6MDIgQU0maGFzaF92YWx1ZT1wcDZmN1ZDNkNDQU81YnhmRmxTMEVnPT0mdmFsaWRtaW51dGVzPTYw
-EXTINF:-1,live tamshatv A
+#EXTINF:-1,live tamshatv A
 https://cdn06fsd-n.tamashaweb.com:8087/jazzauth/NM-U19-3dayD-avod-abr/live/MAG-PEW_240p/chunks.m3u8?nimblesessionid=4096733&wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDI2IDk6NTM6NTYgQU0maGFzaF92YWx1ZT1WZW1ERDc2bFhlS1orN244NHdGMHJnPT0mdmFsaWRtaW51dGVzPTYw
 
 
