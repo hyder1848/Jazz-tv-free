@@ -107,11 +107,11 @@ https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/133H/playlist.m3u8
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/134H/playlist.m3u8
 #EXTINF:-1,JALWA MUSIC jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/135H/playlist.m3u8
-#EXTINF:-1,Channel 136Mjazz free
+EXTINF:-1,Channel 136Mjazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/136L/playlist.m3u8
 #EXTINF:-1,GEO NEWS jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/137M/playlist.m3u8
-#EXTINF:-1,Channel 138M
+EXTINF:-1,Channel 138M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/138L/playlist.m3u8
 #EXTINF:-1,ROZE TV jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/139M/playlist.m3u8
@@ -195,7 +195,7 @@ https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/177M/playlist.m3u8
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/178M/playlist.m3u8
 #EXTINF:-1, LAHORE RING NEWS jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/179M/playlist.m3u8
-#EXTINF:-1,Channel 180M
+EXTINF:-1,Channel 180M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/180L/playlist.m3u8
 #EXTINF:-1,GNN NEWS jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/181M/playlist.m3u8
