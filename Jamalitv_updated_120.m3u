@@ -5,11 +5,11 @@ https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream_240p.m3u8?aliyunols
 EXTINF:-1 group-title="Entertainment",Tamasha HD
 https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream_720p.m3u8?aliyunols=on&is_raw_rate=1&lhs_playback_mode=1&lhs_start_unix_s_0=1791000600
 
-#EXTINF:-1, PTV SPORTHD
+EXTINF:-1, PTV SPORTHD
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189H/playlist.m3u8
-#EXTINF:-1, PTV SPORT HQ
+EXTINF:-1, PTV SPORT HQ
 https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8
-#EXTINF:-1, test79
+EXTINF:-1, test79
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/79M/playlist.m3u8
 #EXTINF:-1, HUM NEWS
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/80H/playlist.m3u8
@@ -27,29 +27,29 @@ https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/85H/playlist.m3u8
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/86H/playlist.m3u8
 #EXTINF:-1, CN tv jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/87M/playlist.m3u8
-#EXTINF:-1, Channel 88
+EXTINF:-1, Channel 88
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/88L/playlist.m3u8
 #EXTINF:-1,Madni tv Jazz jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/Madni-abr/live/vsat-94H/chunks.m3u8
 #EXTINF:-1,Teen sport LIVE jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/157-3M/playlist.m3u8
-#EXTINF:-1,test 100M
+EXTINF:-1,test 100M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/100L/playlist.m3u8
-#EXTINF:-1,Channel 101M
+EXTINF:-1,Channel 101M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/101L/playlist.m3u8
-#EXTINF:-1,Channel 102M
+EXTINF:-1,Channel 102M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/102L/playlist.m3u8
-#EXTINF:-1,Channel 103M
+EXTINF:-1,Channel 103M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/103M/playlist.m3u8
-#EXTINF:-1,Channel 104M
+EXTINF:-1,Channel 104M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/104L/playlist.m3u8
 #EXTINF:-1,PLAY TV jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/105H/playlist.m3u8
-#EXTINF:-1,Channel 106M
+EXTINF:-1,Channel 106M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/106H/playlist.m3u8
 #EXTINF:-1, PEGHAM TV jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/107M/playlist.m3u8
-#EXTINF:-1,Channel 108M
+EXTINF:-1,Channel 108M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/108L/playlist.m3u8
 #EXTINF:-1,MUSHRAQ TV jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/109M/playlist.m3u8
@@ -57,7 +57,7 @@ https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/109M/playlist.m3u8
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/110M/playlist.m3u8
 #EXTINF:-1, Capital news jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/111M/playlist.m3u8
-#EXTINF:-1,Channel 112M
+EXTINF:-1,Channel 112M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/112L/playlist.m3u8
 #EXTINF:-1,DUNYA NEWS jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/113M/playlist.m3u8
@@ -149,19 +149,19 @@ https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/154M/playlist.m3u8
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/155H/playlist.m3u8
 #EXTINF:-1,See tv jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/156M/playlist.m3u8
-#EXTINF:-1,Channel 157M
+EXTINF:-1,Channel 157M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/157M/playlist.m3u8
-#EXTINF:-1,Channel 158M
+EXTINF:-1,Channel 158M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/158M/playlist.m3u8
-#EXTINF:-1,Channel 159M
+EXTINF:-1,Channel 159M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/159M/playlist.m3u8
 #EXTINF:-1,Z PASHTO jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/160M/playlist.m3u8
 #EXTINF:-1, ABN NEWS jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/161M/playlist.m3u8
-#EXTINF:-1,Channel 162M
+EXTINF:-1,Channel 162M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/162M/playlist.m3u8
-#EXTINF:-1,Channel 163M
+EXTINF:-1,Channel 163M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/163M/playlist.m3u8
 #EXTINF:-1,SET ENTERTAINMENT jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/164M/playlist.m3u8
@@ -183,7 +183,7 @@ https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/171H/playlist.m3u8
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/172N/playlist.m3u8
 #EXTINF:-1,SAMA NEWS jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/173H/playlist.m3u8
-#EXTINF:-1,Channel 174M
+EXTINF:-1,Channel 174M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/174M/playlist.m3u8
 #EXTINF:-1,METRO NEWS jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/175M/playlist.m3u8
@@ -205,13 +205,13 @@ https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/182M/playlist.m3u8
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/183M/playlist.m3u8
 #EXTINF:-1,a1Tv jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/184M/playlist.m3u8
-#EXTINF:-1,Channel 185M
+EXTINF:-1,Channel 185M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/185M/playlist.m3u8
 #EXTINF:-1,GTV NEWS jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/186M/playlist.m3u8
 #EXTINF:-1,SUN NEWS jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/187H/playlist.m3u8
-#EXTINF:-1,Channel 188M
+EXTINF:-1,Channel 188M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/188L/playlist.m3u8
 #EXTINF:-1, PTVSPORT jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189H/playlist.m3u8
@@ -224,18 +224,18 @@ https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/192M/playlist.m3u8
 #EXTINF:-1, PTV NATIONAL jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/193H/playlist.m3u8
 #EXTINF:-1PTV BOLAN 194M jazz free
-https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/194M/playlist.m3u8
-#EXTINF:-1,Channel 195M
+https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/194H/playlist.m3u8
+EXTINF:-1,Channel 195M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/195L/playlist.m3u8
-#EXTINF:-1,Channel 196M
+EXTINF:-1,Channel 196M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/196L/playlist.m3u8
-#EXTINF:-1,Channel 197M
+EXTINF:-1,Channel 197M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/197L/playlist.m3u8
-#EXTINF:-1,Channel 198M
+EXTINF:-1,Channel 198M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/198L/playlist.m3u8
-#EXTINF:-1,Channel 199M
+EXTINF:-1,Channel 199M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/199H/playlist.m3u8
-#EXTINF:-1,Channel 200M
+EXTINF:-1,Channel 200M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/200L/playlist.m3u8
 #EXTINF:-1, MINIMAX jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/157-1M/playlist.m3u8
