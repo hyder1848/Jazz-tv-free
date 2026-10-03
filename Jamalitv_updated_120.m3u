@@ -1,7 +1,14 @@
 #EXTM3U
 EXTINF:-1 group-title="Entertainment",Tamasha
 https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream_240p.m3u8?aliyunols=on&is_raw_rate=1&lhs_playback_mode=1&lhs_start_unix_s_0=1791000600
+#EXTINF:-1,PTV Bolan L
+https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/194L/playlist.m3u8
 
+#EXTINF:-1,PTV Bolan M
+https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/194M/playlist.m3u8
+
+#EXTINF:-1,PTV Bolan H
+https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/194H/playlist.m3u8
 EXTINF:-1 group-title="Entertainment",Tamasha HD
 https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream_720p.m3u8?aliyunols=on&is_raw_rate=1&lhs_playback_mode=1&lhs_start_unix_s_0=1791000600
 
