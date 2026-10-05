@@ -223,7 +223,7 @@ https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/192M/playlist.m3u8
 #EXTINF:-1, PTVNational jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/193H/playlist.m3u8
 #EXTINF:-1, PTV bolan jazz free
-https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/194H/playlist.m3u8
+https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/194M/playlist.m3u8
 EXTINF:-1,Channel 195M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/195L/playlist.m3u8
 EXTINF:-1,Channel 196M
@@ -236,87 +236,87 @@ EXTINF:-1,Channel 199M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/199H/playlist.m3u8
 EXTINF:-1,Channel 200M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/200L/playlist.m3u8
-#EXTINF:-1, MINIMAX jazz free
+EXTINF:-1, MINIMAX jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/157-1M/playlist.m3u8
-#EXTINF:-1, KNTV jazz free
+EXTINF:-1, KNTV jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/157-2M/playlist.m3u8
-#EXTINF:-1, HUM SATTARY jazz free
+EXTINF:-1, HUM SATTARY jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/157-4M/playlist.m3u8
-#EXTINF:-1, HUM tv jazz free
+EXTINF:-1, HUM tv jazz free
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/humTV-abr/playlist.m3u8
-#EXTINF:-1, BOL TV ENTERTAINMENT jazz free
+EXTINF:-1, BOL TV ENTERTAINMENT jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/BolEntertainment-abr/live/vsat-144H/chunks.m3u8
-#EXTINF:-1,  ARY DIGITAL jazz free
+EXTINF:-1,  ARY DIGITAL jazz free
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arydigital-abr/live/84H/chunks_dvr_timeshift-0-3600.m3u8
-#EXTINF:-1, ARY NEWS jazz free
+EXTINF:-1, ARY NEWS jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-M/chunks.m3u8
-#EXTINF:-1, ARY NEWS HD jazz free
+EXTINF:-1, ARY NEWS HD jazz free
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/83M/chunks_dvr_timeshift-0-3600.m3u8
-#EXTINF:-1, MEHRAN TV jazz free
+EXTINF:-1, MEHRAN TV jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/MehranTV-abr/live/vsat-106M/chunks.m3u8
-#EXTINF:-1, SINDHI TV NEWS jazz free
+EXTINF:-1, SINDHI TV NEWS jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/SindhNews-abr/live/vsat-80M/chunks.m3u8
-#EXTINF:-1, SINDH TV HD jazz free
+EXTINF:-1, SINDH TV HD jazz free
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/sindhTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMjYgMzowNjoyMyBQTSZoYXNoX3ZhbHVlPWk1OUt6LzF5Rm9PTkR4c0ZzUEhGTXc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/sindhTV-abr/playlist.m3u8
-#EXTINF:-1, PLANET TV jazz free
+EXTINF:-1, PLANET TV jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/AnimalPlanet-abr/live/158-3M/chunks.m3u8
-#EXTINF:-1, CN CARTOON jazz free
+EXTINF:-1, CN CARTOON jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/cartoonnetwork-abr/playlist.m3u8
-#EXTINF:-1, BBC EARTH jazz free
+EXTINF:-1, BBC EARTH jazz free
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/BBC-Earth-abr/playlist.m3u8
-#EXTINF:-1, BBC life style jazz free
+EXTINF:-1, BBC life style jazz free
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/BBC-Lifestyle-abr/playlist.m3u8
-#EXTINF:-1, BBC NEWS jazz free
+EXTINF:-1, BBC NEWS jazz free
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/BBCNEWS-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMS8yMDI2IDQ6MTQ6MTIgUE0maGFzaF92YWx1ZT1VNzI0QlRrNk1zWkM2Z1pJOHVIQk1RPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/BBCNEWS-abr/playlist.m3u8
-#EXTINF:-1, EXPRESS NEWS jazz free
+EXTINF:-1, EXPRESS NEWS jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91M/chunks.m3u8
-#EXTINF:-1, DD NATIONAL HQ paid Mb 
+EXTINF:-1, DD NATIONAL HQ paid Mb 
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index_1.m3u8
-#EXTINF:-1, TEEN SPORTS PAKISTAN jazz free
+EXTINF:-1, TEEN SPORTS PAKISTAN jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/157-3H/playlist.m3u8
 #EXTINF:-1, Ptv bolan balochi jazz free
 https://cdn02khi.tamashaweb.com:8087/jazzauth/PTVBolan-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDI1IDI6MTc6MzUgUE0maGFzaF92YWx1ZT1jRGVoeDVkQTRIWnhqd2xyL1Z3b1pnPT0mdmFsaWRtaW51dGVzPTEw
-#EXTINF:-1, ARY ZINDAGI jazz free
+EXTINF:-1, ARY ZINDAGI jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYzindagi-abr/live/vsat-aryzindagi-L/chunks.m3u8
-#EXTINF:-1, SAB TV jazz free
+EXTINF:-1, SAB TV jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/SabTV-abr/live/vsat-146L/chunks.m3u8
-#EXTINF:-1, HUM MASALA jazz free
+EXTINF:-1, HUM MASALA jazz free
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/hummasala-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDI1IDEyOjI4OjU3IFBNJmhhc2hfdmFsdWU9ekRrSllESFM5SDc2UWtnY2xEdDNwZz09JnZhbGlkbWludXRlcz0xMA==
-#EXTINF:-1, LTN FAMILY jazz free
+EXTINF:-1, LTN FAMILY jazz free
 https://cdn05khi.tamashaweb.com:8087/jazzauth/LTNFamily-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDI1IDM6NDM6NDIgQU0maGFzaF92YWx1ZT0xaWIvbERGWTI0eGRVQ3BQUjFGdVBnPT0mdmFsaWRtaW51dGVzPTEw
-#EXTINF:-1, TIME NEWS jazz free
+EXTINF:-1, TIME NEWS jazz free
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/TimeNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjYgODo0ODo1NiBQTSZoYXNoX3ZhbHVlPUdIS1pRbUtmd2FNMk15MUNhWUdid2c9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/TimeNews-abr/playlist.m3u8
-#EXTINF:-1, kashish tv jazz free
+EXTINF:-1, kashish tv jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/KashishTV-abr/live/vsat-115M/chunks.m3u8
-#EXTINF:-1, KTN ENTERTAINMENT jazz free
+EXTINF:-1, KTN ENTERTAINMENT jazz free
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDI2IDQ6MDg6MjEgQU0maGFzaF92YWx1ZT1lSFo2TTFDbXlKZ0haM25OZU9NTjVnPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/ktnEntertainment-abr/playlist.m3u8
-#EXTINF:-1, KTN NEWS jazz free
+EXTINF:-1, KTN NEWS jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ktnNews-abr/live/vsat-132H/chunks.m3u8
-#EXTINF:-1, KTN NEWS LQ jazz free
+EXTINF:-1, KTN NEWS LQ jazz free
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/ktnNews-abr/live/vsat-132M/chunks.m3u8
-#EXTINF:-1, sindh tv news jazz free
+EXTINF:-1, sindh tv news jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/SindhNews-abr/live/vsat-80M/chunks.m3u8
-#EXTINF:-1, Mehran tv jazz free
+EXTINF:-1, Mehran tv jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/MehranTV-abr/live/vsat-106L/chunks.m3u8
-#EXTINF:-1, Sindh tv jazz free
+EXTINF:-1, Sindh tv jazz free
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/sindhTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMjYgMzowNjoyMyBQTSZoYXNoX3ZhbHVlPWk1OUt6LzF5Rm9PTkR4c0ZzUEhGTXc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/sindhTV-abr/playlist.m3u8
-#EXTINF:-1, EURO SPORTS jazz free
+EXTINF:-1, EURO SPORTS jazz free
 https://cdn02khi.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI1IDg6MTQ6NDIgUE0maGFzaF92YWx1ZT1xMytpSUY4RXorTWd2NXhTK2c1WEtRPT0mdmFsaWRtaW51dGVzPTEw
-#EXTINF:-1, ANN ENTERMINT jazz free
+EXTINF:-1, ANN ENTERMINT jazz free
 https://cdn02khi.tamashaweb.com:8087/jazzauth/AAN-TV-abr/playlist.m3u8?wmsAuthSign=
-#EXTINF:-1, CHANNEL 5 jazz free
+EXTINF:-1, CHANNEL 5 jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/Channel5-abr/playlist.m3u8?wmsAuthSign=
-#EXTINF:-1, MINIMAX CARTOON jazz free
+EXTINF:-1, MINIMAX CARTOON jazz free
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/Minimax-abr/playlist.m3u8?wmsAuthSign=
-#EXTINF:-1, BABY TV jazz free
+EXTINF:-1, BABY TV jazz free
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/BabyTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDI1IDE6MzE6MTcgUE0maGFzaF92YWx1ZT1Uck1oY3g2MVNBRHVScFJydHBWYlBnPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1, WASEEB TV jazz free
 https://cdn02khi.tamashaweb.com:8087/jazzauth/waseeb-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjUgNDowMjoxNCBBTSZoYXNoX3ZhbHVlPVIzaFBsZGl1RE93U1M0c05uYyswQkE9PSZ2YWxpZG1pbnV0ZXM9MTA=
-#EXTINF:-1, ARY DIGITAL RAPEAT jazz free
+EXTINF:-1, ARY DIGITAL RAPEAT jazz free
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arydigital-abr/live/84M/chunks_dvr_timeshift-200000-200000.m3u8
-#EXTINF:-1, Tv today News jazz free
+EXTINF:-1, Tv today News jazz free
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/TvToday-abr/live/Today_News-L/chunks.m3u8
-#EXTINF:-1, DISCOVERY tv jazz free
+EXTINF:-1, DISCOVERY tv jazz free
 https://cdn05khi.tamashaweb.com:8087/jazzauth/DiscoveryHD-abr/live/178M/chunks.m3u8
 EXTINF:-1, ALJAZEERA TV jazz free
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/AL-Jazeera-abr/live/vsat-aljazeera-L/chunks.m3u8
