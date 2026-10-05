@@ -222,8 +222,8 @@ https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/191M/playlist.m3u8
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/192M/playlist.m3u8
 #EXTINF:-1, PTVNational jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/193M/playlist.m3u8
-EXTINF:-1, PTV bolan jazz
-https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/194M/playlist.m3u8
+#EXTINF:-1, PTV bolan jazz
+#https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/194M/playlist.m3u8
 EXTINF:-1,Channel 195M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/195M/playlist.m3u8
 EXTINF:-1,Channel 196M
@@ -272,7 +272,7 @@ EXTINF:-1, EXPRESS NEWS jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91M/chunks.m3u8
 EXTINF:-1, DD NATIONAL HQ paid Mb 
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index_1.m3u8
-#EXTINF:-1, TEEN SPORTS PAKISTAN jazz free
+EXTINF:-1, TEEN SPORTS PAKISTAN jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/157-3M/playlist.m3u8
 EXTINF:-1, ARY ZINDAGI jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYzindagi-abr/live/vsat-aryzindagi-L/chunks.m3u8
