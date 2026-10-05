@@ -222,8 +222,8 @@ https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/191M/playlist.m3u8
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/192M/playlist.m3u8
 #EXTINF:-1, PTVNational jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/193M/playlist.m3u8
-#EXTINF:-1, PTV bolan jazz
-#https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/194M/playlist.m3u8
+#EXTINF:-1, PTV Bolan
+https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/80H/playlist.m3u8
 EXTINF:-1,Channel 195M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/195M/playlist.m3u8
 EXTINF:-1,Channel 196M
@@ -436,7 +436,7 @@ https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chun
 EXTINF:-1 tvg-id="DDKashir.in" tvg-name="DD Kashir" group-title="India",DD Kashir
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8
 
-#EXTINF:-1,DD National
+EXTINF:-1,DD National
 https://mumt01.tangotv.in/O5aw8Zn3DDNATIONALHD/index.m3u8
 
 EXTINF:-1,DD News
