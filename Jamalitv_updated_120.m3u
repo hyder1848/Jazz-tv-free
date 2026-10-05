@@ -274,7 +274,7 @@ EXTINF:-1, DD NATIONAL HQ paid Mb
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index_1.m3u8
 EXTINF:-1, TEEN SPORTS PAKISTAN jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/157-3H/playlist.m3u8
-#EXTINF:-1, Ptv bolan balochi jazz free
+EXTINF:-1, Ptv bolan balochi jazz free
 https://cdn02khi.tamashaweb.com:8087/jazzauth/PTVBolan-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDI1IDI6MTc6MzUgUE0maGFzaF92YWx1ZT1jRGVoeDVkQTRIWnhqd2xyL1Z3b1pnPT0mdmFsaWRtaW51dGVzPTEw
 EXTINF:-1, ARY ZINDAGI jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYzindagi-abr/live/vsat-aryzindagi-L/chunks.m3u8
@@ -310,7 +310,7 @@ EXTINF:-1, MINIMAX CARTOON jazz free
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/Minimax-abr/playlist.m3u8?wmsAuthSign=
 EXTINF:-1, BABY TV jazz free
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/BabyTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDI1IDE6MzE6MTcgUE0maGFzaF92YWx1ZT1Uck1oY3g2MVNBRHVScFJydHBWYlBnPT0mdmFsaWRtaW51dGVzPTEw
-#EXTINF:-1, WASEEB TV jazz free
+EXTINF:-1, WASEEB TV jazz free
 https://cdn02khi.tamashaweb.com:8087/jazzauth/waseeb-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjUgNDowMjoxNCBBTSZoYXNoX3ZhbHVlPVIzaFBsZGl1RE93U1M0c05uYyswQkE9PSZ2YWxpZG1pbnV0ZXM9MTA=
 EXTINF:-1, ARY DIGITAL RAPEAT jazz free
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arydigital-abr/live/84M/chunks_dvr_timeshift-200000-200000.m3u8
@@ -322,11 +322,11 @@ EXTINF:-1, ALJAZEERA TV jazz free
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/AL-Jazeera-abr/live/vsat-aljazeera-L/chunks.m3u8
 EXTINF:-1, MOVIE ONE JAMALI CABLE
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/MovieOne-abr/live/Livesoon/chunks.m3u8
-#EXTINF:-1, T NEWS jazz free
+EXTINF:-1, T NEWS jazz free
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Tamasha-News-abr/live/AI-News_480p/chunks.m3u8
-#EXTINF:-1, T Awomen jazz free
+EXTINF:-1, T Awomen jazz free
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Tamasha-Women-abr/live/twc2025_720p/chunks.m3u8
-#EXTINF:-1, life tv jazz free
+EXTINF:-1, life tv jazz free
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Tamasha-Life-HD-abr/live/Tamasha-Life-HD-M/chunks.m3u8
 EXTINF:-1, 9xM paid MB
 https://9xjio.wiseplayout.com/9XM/SD504/SD504.m3u8
@@ -352,7 +352,7 @@ EXTINF:-1, DD SPORTS paid mb
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 EXTINF:-1, DD PUJABI PAID MB
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8
-#EXTINF:-1, AJJ NEWS INDIA JAMALI CABALE
+EXTINF:-1, AJJ NEWS INDIA JAMALI CABALE
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_234p/chunks.m3u8
 EXTINF:-1, TV9 INDIA JAMALI CABLE 
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_360p/chunks.m3u8
