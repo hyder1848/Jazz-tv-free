@@ -107,7 +107,7 @@ https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/135M/playlist.m3u8
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/136M/playlist.m3u8
 #EXTINF:-1,GEO NEWS jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/137M/playlist.m3u8
-EXTINF:-1,Channel 138M
+#EXTINF:-1,Channel 138M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/138M/playlist.m3u8
 #EXTINF:-1,ROZE TV jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/139M/playlist.m3u8
@@ -145,9 +145,9 @@ https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/154M/playlist.m3u8
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/155M/playlist.m3u8
 #EXTINF:-1,See tv jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/156M/playlist.m3u8
-$EXTINF:-1,Channel 157M
+#EXTINF:-1,Channel 157M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/157M/playlist.m3u8
-$EXTINF:-1,Channel 158M
+#EXTINF:-1,Channel 158M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/158M/playlist.m3u8
 #EXTINF:-1,Channel 159M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/159M/playlist.m3u8
@@ -207,7 +207,7 @@ https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/185M/playlist.m3u8
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/186M/playlist.m3u8
 #EXTINF:-1,SUN NEWS jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/187H/playlist.m3u8
-EXTINF:-1,Channel 188M
+#EXTINF:-1,Channel 188M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/188M/playlist.m3u8
 #EXTINF:-1, PTVSPORT jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189M/playlist.m3u8
@@ -229,9 +229,9 @@ https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/196L/playlist.m3u8
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/197L/playlist.m3u8
 #EXTINF:-1,Channel 198M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/198L/playlist.m3u8
-$EXTINF:-1,Channel 199M
+#EXTINF:-1,Channel 199M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/199H/playlist.m3u8
-EXTINF:-1,Channel 200M
+#EXTINF:-1,Channel 200M
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/200L/playlist.m3u8
 #EXTINF:-1, MINIMAX jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/157-1M/playlist.m3u8
@@ -243,7 +243,7 @@ https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/157-4M/playlist.m3u8
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/humTV-abr/playlist.m3u8
 #EXTINF:-1, BOL TV ENTERTAINMENT jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/BolEntertainment-abr/live/vsat-144H/chunks.m3u8
-$EXTINF:-1,  ARY DIGITAL jazz free
+#EXTINF:-1,  ARY DIGITAL jazz free
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arydigital-abr/live/84H/chunks_dvr_timeshift-0-3600.m3u8
 #EXTINF:-1, ARY NEWS jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-M/chunks.m3u8
@@ -277,7 +277,7 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYzindagi-abr/live/vsat-aryzindag
 https://cdn12isb.tamashaweb.com:8087/jazzauth/SabTV-abr/live/vsat-146L/chunks.m3u8
 #EXTINF:-1, HUM MASALA jazz free
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/hummasala-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDI1IDEyOjI4OjU3IFBNJmhhc2hfdmFsdWU9ekRrSllESFM5SDc2UWtnY2xEdDNwZz09JnZhbGlkbWludXRlcz0xMA==
-$EXTINF:-1, LTN FAMILY jazz free
+#EXTINF:-1, LTN FAMILY jazz free
 https://cdn05khi.tamashaweb.com:8087/jazzauth/LTNFamily-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDI1IDM6NDM6NDIgQU0maGFzaF92YWx1ZT0xaWIvbERGWTI0eGRVQ3BQUjFGdVBnPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1, TIME NEWS jazz free
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/TimeNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjYgODo0ODo1NiBQTSZoYXNoX3ZhbHVlPUdIS1pRbUtmd2FNMk15MUNhWUdid2c9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/TimeNews-abr/playlist.m3u8
@@ -293,7 +293,7 @@ https://cdn22lhr.tamashaweb.com:8087/jazzauth/ktnNews-abr/live/vsat-132M/chunks.
 https://cdn12isb.tamashaweb.com:8087/jazzauth/SindhNews-abr/live/vsat-80M/chunks.m3u8
 #EXTINF:-1, Mehran tv jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/MehranTV-abr/live/vsat-106L/chunks.m3u8
-$EXTINF:-1, Sindh tv jazz free
+#EXTINF:-1, Sindh tv jazz free
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/sindhTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMjYgMzowNjoyMyBQTSZoYXNoX3ZhbHVlPWk1OUt6LzF5Rm9PTkR4c0ZzUEhGTXc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/sindhTV-abr/playlist.m3u8
 #EXTINF:-1, EURO SPORTS jazz free
 https://cdn02khi.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI1IDg6MTQ6NDIgUE0maGFzaF92YWx1ZT1xMytpSUY4RXorTWd2NXhTK2c1WEtRPT0mdmFsaWRtaW51dGVzPTEw
@@ -317,7 +317,7 @@ https://cdn05khi.tamashaweb.com:8087/jazzauth/DiscoveryHD-abr/live/178M/chunks.m
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/AL-Jazeera-abr/live/vsat-aljazeera-L/chunks.m3u8
 #EXTINF:-1, MOVIE ONE JAMALI CABLE
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/MovieOne-abr/live/Livesoon/chunks.m3u8
-$EXTINF:-1, T NEWS jazz free
+#EXTINF:-1, T NEWS jazz free
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Tamasha-News-abr/live/AI-News_480p/chunks.m3u8
 #EXTINF:-1, T Awomen jazz free
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Tamasha-Women-abr/live/twc2025_720p/chunks.m3u8
@@ -351,7 +351,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/in
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_234p/chunks.m3u8
 #EXTINF:-1, TV9 INDIA JAMALI CABLE 
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_360p/chunks.m3u8
-
 #EXTINF:-1, music india
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1,Dangal 2
@@ -372,22 +371,21 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 https://stream.e2is.in/hls/7xMusic.m3u8
 #EXTINF:-1, Inwild india
 https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8
-$EXTINF:-1, steel bird music
-https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
-$EXTINF:-1, Desi music 
+#EXTINF:-1, steel bird music
+https://cdn2.in/SteelbirdMusicTVhls/live.m3u8#EXTINF:-1, Desi music 
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 
 #EXTINF:-1,GREET MOVIE
 https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-greatmovies-samsunguk/cb543d1b7f6c648792d43e66d9ef43a1f99053fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d505e6cdb60802a58998732b8393279157c8aeaf72285cd0d6dd2d97e3428b17a1853fa1015d1215832ceff5348a42da5750024ed0b455f26c2e85aaa6851c39012f0074df6d1c1716524010a8f2a08b6fb01baef8708079b35feef034c8b2f5594da00968949a481d15b80439871f9139c8cf183d200ffd9c33af502a207085e236f90cf2cc09e13e58cd82d3cc4262e111856b4eecbf84d6fcb16125aa9b293ee30a85ecd8c71d03862ee53c94c8133b854c071cf60e53dcfc1bd77727bc9f1556833a5e1e0b9ef3427b87589da83bf5d5de93b90e525b300f62d392c98bdea1981d11c95b759e5fe094f7da8c33418584927af30af6ae5bdf9443163297aee296b238b58b0936eda66fe70a1cd12265377feccf093a5abd644396e4387cf0b9a435bf1f7828dca16608a41155efa6fd05f453d9f6f2c55eb2bf0943574c91e5cd06765bb7a20894ef8f718c5f6faab5469e5889516b13fbee15192e114e02d1d4912bff71b5a476774c4a1335e67379013a49be1c943242ca0b7c1f7cb5678203c145903c2a2d175899dc9261359951d76205718059909d3268e55194e7e87498bfb583ad45e706dcba83d545669d6fbb08786c4c30be02c8481ae6f5d5633049c3d013461dab2ff3bac6b313e103aa901624ab30e42308dbcc7e3908e67d6de088737601d6fc0b02749065c766969cac13d373f1e1fb80afdad3ae4d3ee51561eb3609de260a5b3fc/115/640x360_1387360/index.m3u8
 
-$EXTINF:-1, ptvGlobel
+#EXTINF:-1, ptvGlobel
 https://ptvstream1.nayatel.com:8096/transcoder/ptvglobaltrc_source/playlist.m3u8
 #EXTINF:-1,dangaltv
 https://live-dangal.akamaized.net:443/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
 #EXTINF:-1, Hindihit 
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
-$EXTINF:-1, paktv
+#EXTINF:-1, paktv
 https://cdn01isb-n.tamashaweb.com:8087/jazzauth/FIH-WC2026-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI2IDc6MjE6NDAgUE0maGFzaF92YWx1ZT1weTFPTSt6aVh5bzN3Q0FOVEtnSkhRPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1, ARY UK
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arydigital-abr/live/vsat-ary-N/chunks_dvr_timeshift-012600.m3u8
@@ -398,7 +396,7 @@ https://cdn.rabta.stream/M-Sports/index.m3u8
 https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8
 #EXTINF:-1,M News
 https://cdn.rabta.stream/M-News/tracks-v1a1/mono.ts.m3u8
-$EXTINF:-1, NOORTV
+#EXTINF:-1, NOORTV
 https://sscsott.com/srt/noortvuk/index.fmp4.m3u8
 
 #EXTINF:-1,Zindagitv
@@ -410,22 +408,20 @@ https://video.abnnews.pk/abn/live/playlist.m3u8
 #EXTINF:-1,sahar urdutv pakset
 https://nl2-cdn.sepehrtv.org/securelive3/saharurdusd/324p.m3u8?s=kbVDorvsurpsKfk4AF1feg&t=1786995689
 
-$EXTINF:-1,bstv pAKSET
+#EXTINF:-1,bstv pAKSET
 https://lbgo.bozztv.com/ssh101/ssh101/bstv/chunks.m3u8?lb_backend_hint=6
 
 #EXTINF:-1 tvg-name="Gazi TV" group-title="Bangladesh",Gazi TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 
-$EXTINF:-1,ifilm english
+#EXTINF:-1,ifilm english
 https://live.presstv.co.uk/hls/ifilmen.m3u8
 
 #EXTINF:-1,DD Sahyadri
 https://cdn-3.pishow.tv/live/30/master.m3u8
-EXTM3U
-
 #EXTINF:-1,DD Arun Prabha
 https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
-$EXTINF:-1 tvg-id="DDBharati.in" tvg-name="DD Bharati" group-title="India",DD Bharati
+#EXTINF:-1 tvg-id="DDBharati.in" tvg-name="DD Bharati" group-title="India",DD Bharati
 https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
 #EXTINF:-1,DD India
 https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chun
@@ -435,14 +431,14 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/in
 #EXTINF:-1,DD National
 https://mumt01.tangotv.in/O5aw8Zn3DDNATIONALHD/index.m3u8
 
-$EXTINF:-1,DD News
+#EXTINF:-1,DD News
 https://cdn-2.pishow.tv/live/12/master.m3u8
 
 #EXTINF:-1,DD Punjabi
 https://cdn-4.pishow.tv/live/24/master.m3u8
 
 
-$EXTINF:-1,Balle Balle
+#EXTINF:-1,Balle Balle
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1,Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
@@ -465,7 +461,7 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 #EXTINF:-1,Bahrain Quran
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-$EXTINF:-1,Fashion One
+#EXTINF:-1,Fashion One
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
 
 #EXTINF:-1,Hindi Hits HD
@@ -485,7 +481,7 @@ https://starsportshindiii.pages.dev/index.m3u8
 #EXTINF:-1,MBC TV
 http://93.184.10.248/MBCBollywood/index.m3u8
 
-$EXTINF:-1,Hindi Movies
+#EXTINF:-1,Hindi Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,South Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
@@ -493,9 +489,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, Music india
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
-$EXTINF:-1,Tapmad tv
+#EXTINF:-1,Tapmad tv
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/level_4.m3u8
-$EXTINF:-1 group-title="Punjabi",Pitaara TV
+#EXTINF:-1 group-title="Punjabi",Pitaara TV
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
 #EXTINF:-1 group-title="Punjabi Music",Pitaara
 https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8
@@ -517,7 +513,7 @@ https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8
 #EXTINF:-1 group-title="India News",High News
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 
-$EXTINF:-1 group-title="India News",Hornbill TV
+#EXTINF:-1 group-title="India News",Hornbill TV
 https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8
 #EXTM3U
 
@@ -531,7 +527,7 @@ https://9xjio.wiseplayout.com/9XM/master.m3u8
 
 
 
-$EXTINF:-1 group-title="India Music",Balle Balle
+#EXTINF:-1 group-title="India Music",Balle Balle
 https://mcncdndigital.com/balleballetv/index.m3u8
 
 #EXTINF:-1 group-title="India Music",Epic Music
