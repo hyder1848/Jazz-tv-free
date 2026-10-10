@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-id="Filmax.pk" tvg-name="Filmax" tvg-logo="https://i.imgur.com/eLmdZ6k.png" group-title="movies",Filmax
+https://s3.ideationtec.live/Filmax/Filmax.m3u8
 #EXTINF:-1 No name
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189M/playlist.m3u8
 #EXTINF:-1, PTV SPORT HQ
