@@ -544,15 +544,11 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/level_1.m3u8.liv
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/level_0.m3u8
 #EXTINF:-1,live tapmad
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/level_1.m3u8
-#EXTINF:-1 ,live tamshatv
-https://cdn04fsd-n.tamashaweb.com:8087/jazzauth/PT2026-abr/live/PT-ISB_240p/chunks.m3u8?nimblesessionid=4672813&wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDI2IDk6NDY6MjQgQU0maGFzaF92YWx1ZT1LbkE5N1BFbXRpd3BuNUhoaEVtZlJ3PT0mdmFsaWRtaW51dGVzPTYw
-#EXTM3U
 #EXTINF:-1 tvg-id="BSFilm.pk" tvg-name="BS Film" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg" group-title="general",BS Film
 https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8
 #EXTINF:-1 tvg-id="BSFilm.pk" tvg-name="BS Film" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg" group-title="general",BS Film
 https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-id="Filmax.pk" tvg-name="Filmax" tvg-logo="https://i.imgur.com/eLmdZ6k.png" group-title="movies",Filmax
 https://s3.ideationtec.live/Filmax/Filmax.m3u8
 
