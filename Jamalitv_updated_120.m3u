@@ -482,7 +482,8 @@ https://mcncdndigital.com/balleballetv/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="BSFilm.pk" tvg-name="BS Film" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg" group-title="general",BS Film
 https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8
-
+#EXTINF:-1 tvg-id="BSFilm.pk" tvg-name="live cricket" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg" group-title="general",live cricket 
+https://cdn04isb-n.tamashaweb.com:8087/YlUHeDQb7a/PAK-Tri-Series-2026-abr/live/Pak-Tri-promo/chunks.m3u8
 
 
 
