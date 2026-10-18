@@ -307,6 +307,8 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/MehranTV-abr/live/vsat-106L/chunks
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/sindhTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMjYgMzowNjoyMyBQTSZoYXNoX3ZhbHVlPWk1OUt6LzF5Rm9PTkR4c0ZzUEhGTXc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/sindhTV-abr/playlist.m3u8
 #EXTINF:-1, EURO SPORTS jazz free
 https://cdn02khi.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI1IDg6MTQ6NDIgUE0maGFzaF92YWx1ZT1xMytpSUY4RXorTWd2NXhTK2c1WEtRPT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1, EURO SPORTS jazz free,
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyNiA1OjExOjM4IEFNJmhhc2hfdmFsdWU9d1kvVTN0cVF5dHFkcEI1THh5dnMxUT09JnZhbGlkbWludXRlcz02MA%3D%3D
 #EXTINF:-1, ANN ENTERMINT jazz free
 https://cdn02khi.tamashaweb.com:8087/jazzauth/AAN-TV-abr/playlist.m3u8?wmsAuthSign=
 #EXTINF:-1, CHANNEL 5 jazz free
