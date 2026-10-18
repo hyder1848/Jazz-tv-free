@@ -257,7 +257,7 @@ https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arydigital-abr/live/84H/chunk
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-M/chunks.m3u8
 #EXTINF:-1, ARY NEWS HD jazz free
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/83M/chunks_dvr_timeshift-0-3600.m3u8
-#EXTINF:-1, MEHRAN TV jazz free,
+#EXTINF:-1, MEHRAN TV jazz,
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/MehranTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyNiA1OjIwOjI5IEFNJmhhc2hfdmFsdWU9M3F5RzZsRkhBK2VOUFo5QkYxdGwwdz09JnZhbGlkbWludXRlcz02MA%3D%3D
 #EXTINF:-1, MEHRAN TV jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/MehranTV-abr/live/vsat-106M/chunks.m3u8
@@ -303,8 +303,8 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/ktnNews-abr/live/vsat-132H/chunks.
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/ktnNews-abr/live/vsat-132M/chunks.m3u8
 #EXTINF:-1, sindh tv news jazz free
 https://cdn12isb.tamashaweb.com:8087/jazzauth/SindhNews-abr/live/vsat-80M/chunks.m3u8
-#EXTINF:-1, Mehran tv jazz free
-https://cdn12isb.tamashaweb.com:8087/jazzauth/MehranTV-abr/live/vsat-106L/chunks.m3u8
+#EXTINF:-1, Mehran tv jazz free.
+https://cdn12isb.tamashaweb.com:8087/jazzauth/MehranTV-abr/live/vsat-106M/chunks.m3u8
 #EXTINF:-1, Sindh tv jazz free
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/sindhTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMjYgMzowNjoyMyBQTSZoYXNoX3ZhbHVlPWk1OUt6LzF5Rm9PTkR4c0ZzUEhGTXc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/sindhTV-abr/playlist.m3u8
 #EXTINF:-1, EURO SPORTS jazz free
