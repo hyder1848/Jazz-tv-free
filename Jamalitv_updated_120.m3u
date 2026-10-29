@@ -504,8 +504,8 @@ https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 https://amg01408-amg01408c7-amgplt0747.playout.now3.amagi.tv/b4umo001/playlist.m3u8
 #EXTINF:-1 group-title="Music",B4U MUSIC 
 https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
-
-
+#EXTINF:-1 group-title="Music",9XM
+https://wiselp.wiseplayout.com/9XM/master.m3u8
 
 
 
