@@ -422,8 +422,8 @@ https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 group-title="Entertainment",DD NATIONAL 
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
-#EXTINF:-1,EXTINF:-1 group-title="Entertainment", DD Arun Prabha
+#EXTINF:-1 group-title="Entertainment", DD Arun Prabha
 https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
-EXTINF:-1 group-title="SPORTS",DD SPORT
+#EXTINF:-1 group-title="SPORTS",DD SPORT
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
