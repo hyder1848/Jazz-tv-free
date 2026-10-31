@@ -331,14 +331,6 @@ https://cdn05khi.tamashaweb.com:8087/jazzauth/DiscoveryHD-abr/live/178M/chunks.m
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/AL-Jazeera-abr/live/vsat-aljazeera-L/chunks.m3u8
 #EXTINF:-1, MOVIE ONE JAMALI CABLE
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/MovieOne-abr/live/Livesoon/chunks.m3u8
-#EXTINF:-1, T NEWS jazz free
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/Tamasha-News-abr/live/AI-News_480p/chunks.m3u8
-#EXTINF:-1, T Awomen jazz free
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/Tamasha-Women-abr/live/twc2025_720p/chunks.m3u8
-#EXTINF:-1, life tv jazz free
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/Tamasha-Life-HD-abr/live/Tamasha-Life-HD-M/chunks.m3u8
-#EXTINF:-1, 9xM paid MB
-https://9xjio.wiseplayout.com/9XM/SD504/SD504.m3u8
 #EXTINF:-1, PTC MUSIC PAID MB
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index_5.m3u8
 #EXTINF:-1, patra Punjabi
@@ -351,40 +343,18 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/in
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1, YRF MUSIC PAID MB
 https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/ts-eu-w1-n2/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/cb543d1f726c628d84cb3f64cef048a0f99053fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d505e6cdb60802a58998732b8393279157c8aeaf72285cd0d6dd2d97e3428b17a1853fa1015d1215832ceff5348a42da5750024ed0b455f26c2e85aaa6851c39012f0074df6d1c1716524010a8f2a08b6fb01baef8708079b35feef034c8b2f5594da00968949a481d05c80439871f6169a8cf18ad200ffd9c33af502a207085e236f90cf2cc09e13e58cd82d6ecb2179104a04b4eec7fd1d6ccb16125aa9b292ee31ae5e9cdf7cd93462b856ce18d368b846c07bcf428787d7d9ef69035194c5506834b4e4aef8945f519c558b696d401106fdd7077146b30d9242797af8afba74e4a375f6d67da5cd097d58a0f1a5aabdf8efcea3844bd30ecbd5f59b354b74d96568403c8f9577d225d179e79b5d711c0568a49440dcdd997f3e665d89895a944248e29ba28dd90735c3785b62be358b03454ed93d6078aa19c9cb1d22db745ad36769b50864d419bcaf3abce7faf51637b0e9c240d466fbfa5f81a14cfa3b7c11299bc60173090c71d9e5634d177cc04eeb9a8ad7721b13e5f8c3b1941d68471a1f400386e7a821cfd98e7953419601712e254146d629d96bd60c4c401dc818d2be003bd0557663b5f14d30300bb7c6b59388dfce36d72e80b5bd5348125765b43d0c3e1cb49f835ff43642663831ad00664ab1021a72e29ac7e093e33f9bcf84cbaeaef4d3a380b85445264491eeccb303c30ae00f86/153/640x360_1111080/index.m3u8
-#EXTINF:-1, Dd hamchalpardesh
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index_3.m3u8
-#EXTINF:-1, DD NATIONAL HQ JAMALI CABLE 
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index_1.m3u8
-#EXTINF:-1, DD NATIONAL HD paid
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index_5.m3u8
-#EXTINF:-1, DD SPORTS paid mb
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1, DD PUJABI PAID MB
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8
 #EXTINF:-1, AJJ NEWS INDIA JAMALI CABALE
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_234p/chunks.m3u8
 #EXTINF:-1, TV9 INDIA JAMALI CABLE 
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_360p/chunks.m3u8
-#EXTINF:-1, music india
-https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1,Dangal 2
 https://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_240p/chunks.m3u8
-#EXTINF:-1,DD GOA
-https://cdn-4.pishow.tv/live/8/master.m3u8
-#EXTINF:-1,DD urdu
-https://cdn-6.pishow.tv/live/16/master.m3u8
 #EXTINF:-1, mh1 india
 https://mumt01.tangotv.in/MHONEDILSE/tracks-v2a1/mono.m3u8
 #EXTINF:-1, teen sport tapmad tv MB
 https://tapmadlive.akamaized.net:443/tapmadold/tensports.smil/chunklist_w1346140991_b1248000_slENG.m3u8
 #EXTINF:-1, DHARTI TV TAPMAD
 https://tapmadlive.akamaized.net/tapmadold/dhartitv.smil/chunklist_w1381970605_b748000_slEng.m3u8
-#EXTINF:-1, Dd jharkhand
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2c6c5c20-6afe-47c4-934f-a0d7002cb151/2.m3u8
-#EXTINF:-1, 7X Music
-https://stream.e2is.in/hls/7xMusic.m3u8
-#EXTINF:-1, Inwild india
-https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, steel bird music
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8#EXTINF:-1, Desi music 
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
@@ -404,56 +374,20 @@ https://cdn.rabta.stream/M-Sports/index.m3u8
 https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8
 #EXTINF:-1,M News
 https://cdn.rabta.stream/M-News/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, NOORTV
-https://sscsott.com/srt/noortvuk/index.fmp4.m3u8
-#EXTINF:-1,Zindagitv
-https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist_w250056748_b598304.m3u8
-#EXTINF:-1, ABNNEWS pakset
-https://video.abnnews.pk/abn/live/playlist.m3u8
 #EXTINF:-1,sahar urdutv pakset
 https://nl2-cdn.sepehrtv.org/securelive3/saharurdusd/324p.m3u8?s=kbVDorvsurpsKfk4AF1feg&t=1786995689
 #EXTINF:-1,bstv pAKSET
 https://lbgo.bozztv.com/ssh101/ssh101/bstv/playlist.m3u8
-#EXTINF:-1 tvg-name="Gazi TV" group-title="Bangladesh",Gazi TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 #EXTINF:-1,ifilm english
 https://live.presstv.co.uk/hls/ifilmen.m3u8
-#EXTINF:-1,DD Sahyadri
-https://cdn-3.pishow.tv/live/30/master.m3u8
-#EXTINF:-1,DD Arun Prabha
-https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
-#EXTINF:-1 tvg-id="DDBharati.in" tvg-name="DD Bharati" group-title="India",DD Bharati
-https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
-#EXTINF:-1,DD India
-https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chun
-#EXTINF:-1 tvg-id="DDKashir.in" tvg-name="DD Kashir" group-title="India",DD Kashir
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8
-#EXTINF:-1,DD National
-https://mumt01.tangotv.in/O5aw8Zn3DDNATIONALHD/index.m3u8
-#EXTINF:-1,DD News
-https://cdn-2.pishow.tv/live/12/master.m3u8
-#EXTINF:-1,DD Punjabi
-https://cdn-4.pishow.tv/live/24/master.m3u8
-#EXTINF:-1,Balle Balle
-https://mcncdndigital.com/balleballetv/index.m3u8
-#EXTINF:-1,Star Sports 1 HD
-http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1,PTV Sports
-https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1,A Sports HD
 https://playztv-apps.pages.dev/asports/index.m3u8
-#EXTINF:-1,PK Sports HD
-https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 #EXTINF:-1,Iran News
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
-#EXTINF:-1,PTV Sports HD
-https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8?nocache=1785582200018
 #EXTINF:-1,Fashion One
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
 #EXTINF:-1,Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1,Star Sports 1 HD
-http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1,Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1,YRF Music HD
@@ -464,10 +398,6 @@ https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Star Sports 1 Hindi
 https://starsportshindiii.pages.dev/index.m3u8
-#EXTINF:-1,MBC TV
-http://93.184.10.248/MBCBollywood/index.m38
-#EXTINF:-1, Music india
-https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 group-title="Punjabi",Pitaara TV
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
 #EXTINF:-1 group-title="Punjabi Music",Pitaara
@@ -476,28 +406,12 @@ https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8
 https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8
 #EXTINF:-1 group-title="India News",First India News
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
-#EXTINF:-1 group-title="India News",Hindi Khabar
-https://d1msejlow1t3l4.cloudfront.net/fta/hindikhabar/playlist.m3u8
-#EXTINF:-1 group-title="India News",INH 24x7
-https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8
-#EXTINF:-1 group-title="India News",High News
-https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
-#EXTINF:-1 group-title="India News",Hornbill TV
-https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8
-#EXTINF:-1 group-title="India Music",7S Music
-https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
-#EXTINF:-1 group-title="India Music",9XM
-https://9xjio.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 group-title="India Music",Balle Balle
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 group-title="India Music",Epic Music
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="BSFilm.pk" tvg-name="BS Film" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg" group-title="general",BS Film
 https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8
-#EXTINF:-1 tvg-id="BSFilm.pk" tvg-name="live cricket" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg" group-title="general",live cricket 
-https://cdn04isb-n.tamashaweb.com:8087/YlUHeDQb7a/PAK-Tri-Series-2026-abr/live/Pak-Tri-promo/chunks.m3u8
-#EXTINF:-1, jamali sport ,,
-https://cdn10khi-n.tamashaweb.com:8087/jazzauth/AFG-VS-BAN-ZIM-TRI-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNiAyOjA3OjE5IFBNJmhhc2hfdmFsdWU9TDU3WjFUVVB1ZDZLOExWVStDVEVyUT09JnZhbGlkbWludXRlcz02MA%3D%3D
 #EXTINF:-1 group-title="MOVIE",B4U Kadak
 https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 #EXTINF:-1 group-title="MOVIE",B4U Movies
@@ -508,4 +422,8 @@ https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 group-title="Entertainment",DD NATIONAL 
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1,EXTINF:-1 group-title="Entertainment", DD Arun Prabha
+https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
+EXTINF:-1 group-title="SPORTS",DD SPORT
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
