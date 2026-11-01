@@ -555,6 +555,54 @@ https://s1.ideationtec.live/Mashriq_TV/Mashriq_TV.m3u8
 
 #EXTINF:-1 tvg-name="Filmax" group-title="Goonj TV",Filmax
 https://s3.ideationtec.live/Filmax/Filmax.m3u8
+#EXTM3U
 
+#EXTINF:-1 tvg-name="Ten Sports" group-title="Tapmad TV",Ten Sports
+https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8?hdnts=exp=1793542201~acl=/hls/*~hmac=e766c068d6ae9cc782b2df69d57555ed4d5a8a84d3778289f1a4eea6abc9e20b
+
+#EXTINF:-1 tvg-name="Paigham TV" group-title="Tapmad TV",Paigham TV
+https://tapmadlive.akamaized.net/tapmadold/paighamtv.smil/playlist.m3u8?
+
+#EXTINF:-1 tvg-name="Motorvision" group-title="Tapmad TV",Motorvision
+https://tapmadlive.akamaized.net/tapmadold/motorvision.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Planet Fun" group-title="Tapmad TV",Planet Fun
+https://tapmadlive.akamaized.net/tapmadold/planetfun.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Discover Pakistan" group-title="Tapmad TV",Discover Pakistan
+https://livecdn.live247stream.com/discoverpakistan/tapmad/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Channel 24" group-title="Tapmad TV",Channel 24
+https://tapmadlive.akamaized.net/tapmadold/channel24.smil/playlist.m3u8?
+
+#EXTINF:-1 tvg-name="Play Max" group-title="Tapmad TV",Play Max
+https://tapmadlive.akamaized.net/tapmadold/playmax.smil/playlist.m3u8?
+
+#EXTINF:-1 tvg-name="Jaag TV" group-title="Tapmad TV",Jaag TV
+https://tapmadlive.akamaized.net/tapmadold/jaagtv.smil/playlist.m3u8?
+
+#EXTINF:-1 tvg-name="92 News" group-title="Tapmad TV",92 News
+https://tapmadlive.akamaized.net/tapmadold/92news.smil/playlist.m3u8?
+
+#EXTINF:-1 tvg-name="Awaz TV" group-title="Tapmad TV",Awaz TV
+https://tapmadlive.akamaized.net/tapmadold/awaztv.smil/playlist.m3u8?
+
+#EXTINF:-1 tvg-name="K2" group-title="Tapmad TV",K2
+https://tapmadlive.akamaized.net/tapmadold/k2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Kids" group-title="Tapmad TV",Discovery Kids
+https://tapmadlive.akamaized.net/tapmadold/discoverykids.smil/playlist.m3u8?
+
+#EXTINF:-1 tvg-name="Euronews" group-title="Tapmad TV",Euronews
+https://tapmadlive.akamaized.net/tapmadold/euronews.smil/playlist.m3u8?
+
+#EXTINF:-1 tvg-name="CNN" group-title="Tapmad TV",CNN
+https://tapmadlive.akamaized.net/tapmadold/cnn.smil/playlist.m3u8?
+
+#EXTINF:-1 tvg-name="DW" group-title="Tapmad TV",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?
+
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="Tapmad TV",Cartoon Network
+https://tapmadlive.akamaized.net/tapmadold/cartoon.smil/playlist.m3u8?
 
 
