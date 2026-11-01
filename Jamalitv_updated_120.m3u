@@ -427,3 +427,43 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chunks.m3u8
 #EXTINF:-1 group-title="INDIA DD NETWORK",DD URDU
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-name="BOL News HD" group-title="Zong TV",BOL News HD
+https://s5.ideationtec.live/BOL_News_HD/BOL_News_HD.m3u8
+
+#EXTINF:-1 tvg-name="GTV News HD" group-title="Zong TV",GTV News HD
+https://s4.ideationtec.live/GTV_News_HD/GTV_News_HD.m3u8
+
+#EXTINF:-1 tvg-name="GNN HD" group-title="Zong TV",GNN HD
+https://s5.ideationtec.live/GNN_HD/GNN_HD.m3u8
+
+#EXTINF:-1 tvg-name="Aaj News" group-title="Zong TV",Aaj News
+https://s4.ideationtec.live/Aaj_News/Aaj_News.m3u8
+
+#EXTINF:-1 tvg-name="Samaa TV" group-title="Zong TV",Samaa TV
+https://s5.ideationtec.live/Samaa_TV/Samaa_TV.m3u8
+
+#EXTINF:-1 tvg-name="Express News" group-title="Zong TV",Express News
+https://s5.ideationtec.live/Express_News/Express_News.m3u8
+
+#EXTINF:-1 tvg-name="Dawn" group-title="Zong TV",Dawn
+https://s5.ideationtec.live/Dawn/Dawn.m3u8
+
+#EXTINF:-1 tvg-name="Such TV HD" group-title="Zong TV",Such TV HD
+https://s4.ideationtec.live/Such_TV_HD/Such_TV_HD.m3u8
+
+#EXTINF:-1 tvg-name="Film World" group-title="Zong TV",Film World
+https://s3.ideationtec.live/Film_World/Film_World.m3u8
+
+#EXTINF:-1 tvg-name="Sindh TV" group-title="Zong TV",Sindh TV
+https://s1.ideationtec.live/Sindh_TV/Sindh_TV.m3u8
+
+#EXTINF:-1 tvg-name="City 41" group-title="Zong TV",City 41
+https://s2.ideationtec.live/City_41/City_41.m3u8
+
+#EXTINF:-1 tvg-name="LTN Family HD" group-title="Zong TV",LTN Family HD
+https://s3.ideationtec.live/LTN_Family_HD/LTN_Family_HD.m3u8
+
+#EXTINF:-1 tvg-name="Saudi Sunnah HD" group-title="Zong TV",Saudi Sunnah HD
+https://s1.ideationtec.live/Saudi_Sunnah_HD/Saudi_Sunnah_HD.m3u8
