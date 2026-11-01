@@ -604,5 +604,122 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?
 
 #EXTINF:-1 tvg-name="Cartoon Network" group-title="Tapmad TV",Cartoon Network
 https://tapmadlive.akamaized.net/tapmadold/cartoon.smil/playlist.m3u8?
+#EXTM3U
 
+#EXTINF:-1 tvg-name="Discover Pakistan" group-title="Zong TV",Discover Pakistan
+https://s3.ideationtec.live/Discover_Pakistan/Discover_Pakistan.m3u8
+
+#EXTINF:-1 tvg-name="BOL Entertainment HD" group-title="Zong TV",BOL Entertainment HD
+https://s2.ideationtec.live/BOL_Entertainment_HD/BOL_Entertainment_HD.m3u8
+
+#EXTINF:-1 tvg-name="AAJ Entertainment" group-title="Zong TV",AAJ Entertainment
+https://s2.ideationtec.live/AAJ_Entertainment/AAJ_Entertainment.m3u8
+
+#EXTINF:-1 tvg-name="LTN Family HD" group-title="Zong TV",LTN Family HD
+https://s3.ideationtec.live/LTN_Family_HD/LTN_Family_HD.m3u8
+
+#EXTINF:-1 tvg-name="A Plus" group-title="Zong TV",A Plus
+https://s3.ideationtec.live/A_Plus/A_Plus.m3u8
+
+#EXTINF:-1 tvg-name="A1 Entertainment" group-title="Zong TV",A1 Entertainment
+https://s1.ideationtec.live/A1_Entertainment/A1_Entertainment.m3u8
+
+#EXTINF:-1 tvg-name="SAB Entertainment" group-title="Zong TV",SAB Entertainment
+https://s1.ideationtec.live/SAB_Entertainment/SAB_Entertainment.m3u8
+
+#EXTINF:-1 tvg-name="Aur Life" group-title="Zong TV",Aur Life
+https://s3.ideationtec.live/Aur_Life/Aur_Life.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Science" group-title="Zong TV",Discovery Science
+https://s5.ideationtec.live/B_Discovery_Sc/B_Discovery_Sc.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Turbo" group-title="Zong TV",Discovery Turbo
+https://s5.ideationtec.live/B_Discovery_Turbo/B_Discovery_Turbo.m3u8
+
+#EXTINF:-1 tvg-name="Investigation Discovery" group-title="Zong TV",Investigation Discovery
+https://s5.ideationtec.live/B_Investigation_Discovery/B_Investigation_Discovery.m3u8
+
+#EXTINF:-1 tvg-name="Travel Channel" group-title="Zong TV",Travel Channel
+https://s4.ideationtec.live/B_Travel_Channel/B_Travel_Channel.m3u8
+
+#EXTINF:-1 tvg-name="BBC Lifestyle" group-title="Zong TV",BBC Lifestyle
+https://s4.ideationtec.live/B_BBC_LifeStyle/B_BBC_LifeStyle.m3u8
+
+#EXTINF:-1 tvg-name="BBC Earth" group-title="Zong TV",BBC Earth
+https://s3.ideationtec.live/B_BBC_Earth/B_BBC_Earth.m3u8
+
+#EXTINF:-1 tvg-name="BBC First" group-title="Zong TV",BBC First
+https://s3.ideationtec.live/B_BBC_First/B_BBC_First.m3u8
+
+#EXTINF:-1 tvg-name="BBC Brit" group-title="Zong TV",BBC Brit
+https://s3.ideationtec.live/B_BBC_Brit/B_BBC_Brit.m3u8
+
+#EXTINF:-1 tvg-name="BOL News HD" group-title="Zong TV",BOL News HD
+https://s5.ideationtec.live/BOL_News_HD/BOL_News_HD.m3u8
+
+#EXTINF:-1 tvg-name="GTV News HD" group-title="Zong TV",GTV News HD
+https://s4.ideationtec.live/GTV_News_HD/GTV_News_HD.m3u8
+
+#EXTINF:-1 tvg-name="GNN HD" group-title="Zong TV",GNN HD
+https://s5.ideationtec.live/GNN_HD/GNN_HD.m3u8
+
+#EXTINF:-1 tvg-name="Aaj News" group-title="Zong TV",Aaj News
+https://s4.ideationtec.live/Aaj_News/Aaj_News.m3u8
+
+#EXTINF:-1 tvg-name="Dawn News" group-title="Zong TV",Dawn News
+https://s5.ideationtec.live/Dawn/Dawn.m3u8
+
+#EXTINF:-1 tvg-name="Neo News" group-title="Zong TV",Neo News
+https://s5.ideationtec.live/Neo_News/Neo_News.m3u8
+
+#EXTINF:-1 tvg-name="Roze News" group-title="Zong TV",Roze News
+https://s5.ideationtec.live/Roze_News/Roze_News.m3u8
+
+#EXTINF:-1 tvg-name="Channel 24 HD" group-title="Zong TV",Channel 24 HD
+https://s4.ideationtec.live/Channel_24_HD/Channel_24_HD.m3u8
+
+#EXTINF:-1 tvg-name="PNN" group-title="Zong TV",PNN
+https://s2.ideationtec.live/Pnn/Pnn.m3u8
+
+#EXTINF:-1 tvg-name="Public News HD" group-title="Zong TV",Public News HD
+https://s4.ideationtec.live/Public_News_HD/Public_News_HD.m3u8
+
+#EXTINF:-1 tvg-name="Such TV HD" group-title="Zong TV",Such TV HD
+https://s4.ideationtec.live/Such_TV_HD/Such_TV_HD.m3u8
+
+#EXTINF:-1 tvg-name="DW HD" group-title="Zong TV",DW HD
+https://s1.ideationtec.live/DW_HD/DW_HD.m3u8
+
+#EXTINF:-1 tvg-name="MiniMax" group-title="Zong TV",MiniMax
+https://s2.ideationtec.live/MiniMax/MiniMax.m3u8
+
+#EXTINF:-1 tvg-name="BBC World News" group-title="Zong TV",BBC World News
+https://s4.ideationtec.live/B_BBC_World_News/B_BBC_World_News.m3u8
+
+#EXTINF:-1 tvg-name="Filmax" group-title="Zong TV",Filmax
+https://s3.ideationtec.live/Filmax/Filmax.m3u8
+
+#EXTINF:-1 tvg-name="City 41" group-title="Zong TV",City 41
+https://s2.ideationtec.live/City_41/City_41.m3u8
+
+#EXTINF:-1 tvg-name="Roohi TV" group-title="Zong TV",Roohi TV
+https://s2.ideationtec.live/Roohi_TV/Roohi_TV.m3u8
+
+#EXTINF:-1 tvg-name="Sindh TV" group-title="Zong TV",Sindh TV
+https://s1.ideationtec.live/Sindh_TV/Sindh_TV.m3u8
+
+#EXTINF:-1 tvg-name="Mehran TV" group-title="Zong TV",Mehran TV
+https://s2.ideationtec.live/Mehran_TV/Mehran_TV.m3u8
+
+#EXTINF:-1 tvg-name="Mashriq TV" group-title="Zong TV",Mashriq TV
+https://s1.ideationtec.live/Mashriq_TV/Mashriq_TV.m3u8
+
+#EXTINF:-1 tvg-name="Madani TV" group-title="Zong TV",Madani TV
+https://s1.ideationtec.live/Madani_TV/Madani_TV.m3u8
+
+#EXTINF:-1 tvg-name="Saudi Quran HD" group-title="Zong TV",Saudi Quran HD
+https://s1.ideationtec.live/Saudi_Quran_HD/Saudi_Quran_HD.m3u8
+
+#EXTINF:-1 tvg-name="Saudi Sunnah HD" group-title="Zong TV",Saudi Sunnah HD
+https://s1.ideationtec.live/Saudi_Sunnah_HD/Saudi_Sunnah_HD.m3u8
 
