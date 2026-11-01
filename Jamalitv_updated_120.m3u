@@ -723,3 +723,6 @@ https://s1.ideationtec.live/Saudi_Quran_HD/Saudi_Quran_HD.m3u8
 #EXTINF:-1 tvg-name="Saudi Sunnah HD" group-title="Zong TV",Saudi Sunnah HD
 https://s1.ideationtec.live/Saudi_Sunnah_HD/Saudi_Sunnah_HD.m3u8
 
+
+#EXTINF:-1 tvg-name="City 42" group-title="Zong TV",City 42
+https://s2.ideationtec.live/City_42/City_42.m3u8
