@@ -219,9 +219,11 @@ https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/187H/playlist.m3u8
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/188M/playlist.m3u8
 #EXTINF:-1, group-title="JAZZ SPORTS",   PTVSPORT jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189M/playlist.m3u8
-#EXTINF:-1, group-title="JAZZ PTV",   PTVHOME jazz free
+
+#EXTINF:-1, group-title="JAZZ ",   PTV jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/190M/playlist.m3u8
-#EXTINF:-1, group-title="JAZZ PTV",   PTVNEWS jazz free
+
+#EXTINF:-1, group-title="PTv",   PTVNews jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/191M/playlist.m3u8
 #EXTINF:-1, group-title="JAZZ PTV",   PAKISTAN TV jazz free
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/192M/playlist.m3u8
