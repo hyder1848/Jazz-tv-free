@@ -733,3 +733,128 @@ https://s1.ideationtec.live/Madani_TV/Madani_TV.m3u8
 
 #EXTINF:-1 group-title="INDIA DD NETWORK",DD URDU
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 group-title="DD FREE DISH TV",DD National
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Waves Channel 02
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",PTV National
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Waves Channel 04
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7b044d82f0bc462b8be3e2dec0bf2bd2/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",India TV
+https://vg-indiatv-waves.vgcdn.net/vglive-sk-394591/playlist_5.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",ABP News
+https://abpmitv.akamaized.net/hls/live/2042842/abpnews/master_216p.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",News18 India
+https://n18syndication-prasar-bharati.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Waves Channel 08
+https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Waves Channel 09
+https://d2lk5u59tns74c.cloudfront.net/out/v1/7e8b490d6b9c4013a3e3e874aa352212/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",B4U Movies
+https://amg01408-amg01408c7-amgplt0747.playout.now3.amagi.tv/b4umo001/playlist.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",9XM
+https://wiselp.wiseplayout.com/9XM/master.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",B4U Channel
+https://amg01408-amg01408c6-amgplt0747.playout.now3.amagi.tv/b4ua001/playlist.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Waves Channel 13
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Waves Channel 14
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Waves Channel 15
+https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",9X Jalwa
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Waves Channel 17
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c89fa6d6f5864ac29670d6f91cb7e32a/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Waves Channel 18
+https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Waves Channel 19
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Waves Channel 20
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2774c390ad884e06a7b0257c8489e23d/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Waves Channel 21
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Waves Channel 22
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",9X Tashan
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Waves Channel 24
+https://d2lk5u59tns74c.cloudfront.net/out/v1/380b0765f87741a4812bc952ec6fbf21/index_1.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Waves Channel 25
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index_1.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Bharat Express
+https://stream.ottlive.co.in/bharatexpress/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Waves Channel 27
+https://d2lk5u59tns74c.cloudfront.net/out/v1/5b6bbbf682b741ecbe279f75a4a9a3e6/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Tabbar Hits
+https://livingindia.ottlive.co.in/tabbarhits/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Hindi Khabar
+https://stream.ottlive.co.in/hindikhabar/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Waves Channel 30
+https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index_1.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Waves Channel 31
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a70323c56ac647c2a8c8fc34e4c73912/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",9X Jhakaas
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Waves Channel 33
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/5078083881bc489ea14f4c85e7abe4d6/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Waves Channel 34
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",DD Urdu
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Waves Channel 36
+https://d2lk5u59tns74c.cloudfront.net/out/v1/ffc601b3dc8d41c5b09115702538d75a/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Waves Channel 37
+https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",DD Punjabi
+https://prasarbharti-nn.vidgyor.com/nntv/nnpunj/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",World Punjabi TV
+https://stream.ottlive.co.in/worldpunjabitv/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",B4U Kadak
+https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",Aaj Ki Khabar
+https://stream.ottlive.co.in/aajkikhabar/index.m3u8
