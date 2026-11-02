@@ -858,3 +858,6 @@ https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3
 
 #EXTINF:-1 group-title="DD FREE DISH TV",Aaj Ki Khabar
 https://stream.ottlive.co.in/aajkikhabar/index.m3u8
+
+#EXTINF:-1 group-title="DD FREE DISH TV",E24
+https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/0fb3790a-b5ad-4da8-bce8-2e7af21f7252/76674cc0a4d0a9ec460b2446183596bc/0.m3u8?ads.network_name=yupptv
