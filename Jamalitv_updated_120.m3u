@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="PTV" tvg-name="PTV World",PTV WORLD
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVWorld-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDc6MTQ6MjQgQU0maGFzaF92YWx1ZT1Rd1lJd1E5bXdVa01HUUFjMERvRlRRPT0mdmFsaWRtaW51dGVzPTYw
+
 #EXTINF:-1 group-title="CRICKET" tvg-name="Tamasha Cricket",Tamasha Cricket
 https://cdn01fsd-n.tamashaweb.com:8087/jazzauth/ACCMEN-U19-2026-avod-abr/live/U19ACC_M2_AVOD_720p/chunks.m3u8?nimblesessionid=10889283&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDc6MDU6MDggQU0maGFzaF92YWx1ZT1rK3RDUG9KVTlHM0JZcHJrMWhJYkhBPT0mdmFsaWRtaW51dGVzPTYw
 
