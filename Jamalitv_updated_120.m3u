@@ -867,3 +867,8 @@ https://stream.ottlive.co.in/aajkikhabar/index.m3u8
 #EXTVLCOPT:network-caching=300
 #EXTVLCOPT:live-caching=300
 https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/0fb3790a-b5ad-4da8-bce8-2e7af21f7252/76674cc0a4d0a9ec460b2446183596bc/0.m3u8?ads.network_name=yupptv
+
+
+#EXTINF:-1 group-title="TAPMAD SINDHI" tvg-name="Awaz TV",Awaz TV
+https://tapmadlive.akamaized.net/tapmadold/awaztv.smil/playlist.m3u8?
+
