@@ -874,3 +874,6 @@ https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca14134
 #EXTINF:-1 group-title="TAPMAD SINDHI",TIME NEWS FHD
 https://live1.ssmmcdn.cloud:2096/TIMENEWSFHD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="TAMASHA",Kashish TV HD
+https://cdn5.mjunoon.tv:8087/web/Kashish-150/live/150M/chunks.m3u8
+
