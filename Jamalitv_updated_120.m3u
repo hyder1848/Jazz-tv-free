@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Filmax.pk" tvg-name="Filmax" tvg-logo="https://i.imgur.com/eLmdZ6k.png" group-title="movies",Filmax
-https://s3.ideationtec.live/Filmax/Filmax.m3u8
-#EXTINF:-1, No name
-https://cdn04isb-n.tamashaweb.com:8087/YlUHeDQb7a/PAK-Tri-Series-2026-abr/live/Pak-Tri-promo/chunks.m3u8
+
+#EXTINF:-1 group-title="CRICKET" tvg-name="Tamasha Cricket",Tamasha Cricket
+https://cdn01fsd-n.tamashaweb.com:8087/jazzauth/ACCMEN-U19-2026-avod-abr/live/U19ACC_M2_AVOD_720p/chunks.m3u8?nimblesessionid=10889283&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDc6MDU6MDggQU0maGFzaF92YWx1ZT1rK3RDUG9KVTlHM0JZcHJrMWhJYkhBPT0mdmFsaWRtaW51dGVzPTYw
+
 #EXTINF:-1, PTV SPORT HQ
 https://cdn4aws.tamashaweb.com/out/v1/fae477677d214561b1601c23c95fe20a/index.m3u8
 #EXTINF:-1,group-title="JAZZ", PTV SPORT ,
