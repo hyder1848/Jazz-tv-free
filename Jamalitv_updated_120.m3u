@@ -878,3 +878,8 @@ https://live1.ssmmcdn.cloud:2096/TIMENEWSFHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TAMASHA",Kashish TV HD
 https://cdn5.mjunoon.tv:8087/web/Kashish-150/live/150M/chunks.m3u8
 
+
+#EXTINF:-1 group-title="Sony Entertainment",SONY HD
+http://38.96.178.205/SONYHD/index.m3u8
+
+
