@@ -884,4 +884,10 @@ http://38.96.178.205/SONYHD/index.m3u8
 
 #EXTINF:-1 group-title="MUSIC",JAMALI Cable TV,
 http://www.youtube.com/live/gCNeDWCI0vo?si=rqxZdKzaP9WxzbaR
+#EXTINF:-1 group-title="INDIA NEWS",Zee News
+https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
+
+#EXTINF:-1 group-title="INDIA NEWS",ZEEUP
+https://dknttpxmr0dwf.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTQ0MDg3MDd9.q_nPTQMSDdpOBltSXKbQabWeD6HFn5HZgDo4u9WRGjA
+
 
