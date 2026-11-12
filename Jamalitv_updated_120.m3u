@@ -890,4 +890,5 @@ https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
 #EXTINF:-1 group-title="INDIA NEWS",ZEEUP
 https://dknttpxmr0dwf.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTQ0MDg3MDd9.q_nPTQMSDdpOBltSXKbQabWeD6HFn5HZgDo4u9WRGjA
 
-
+#EXTINF:-1 tvg-name="Movie" group-title="FILM",Movie
+http://stream.mcquack.net/258/index.m3u8
